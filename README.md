@@ -1,6 +1,6 @@
 # Blog
-  Using for record the knowledge study every day
+Using for record the knowledge study every day
 
-# Bolg classification:
-###   Python
+## Bolg classification:
+* Python
 
