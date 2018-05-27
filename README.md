@@ -1,7 +1,7 @@
 # Blog
-My Blog
+  Using for record the knowledge study every day
 
-
-#bolg classification:
+# Bolg classification:
+  # Python
 
 
