@@ -5,3 +5,4 @@ Using for record the knowledge study every day
 - [Swift](https://github.com/xiaohai0520/Blog/projects/2)
 - [Foundation and Algorithm](https://github.com/xiaohai0520/Blog/projects/4)
 - [Data Analysis](https://github.com/xiaohai0520/Blog/projects/4)
+- [Machine Learning](https://github.com/xiaohai0520/Blog/projects/4)
