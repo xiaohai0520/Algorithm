@@ -1,3 +1,6 @@
+# literate for head to tail
+# use dic to save the duplicate char's index 
+
 class Solution:
     def lengthOfLongestSubstring(self, s):
         """
