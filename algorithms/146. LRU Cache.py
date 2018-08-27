@@ -1,3 +1,7 @@
+# use dictionary and circle linklist 
+# each node has last and next 
+# add node to root next and the last is always the LRU
+
 class node:
     def __init__(self,key,value):
         self.key = key
