@@ -1,3 +1,5 @@
+# use enumerate to save index and difference in the dic
+
 class Solution:
     def twoSum(self, nums, target):
         """
