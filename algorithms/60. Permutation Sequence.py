@@ -32,3 +32,4 @@ class Solution:
 #         for i in range(len(array)):
 #             newarray = array[:i] + array[i+1:]
 #             self.dfs(newarray,path+str(array[i]),res)
+
