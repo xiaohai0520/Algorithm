@@ -1,3 +1,5 @@
+#use stack, if num record if isalp plus together if [ add cur and num, if ] pop out and get together
+
 class Solution:
     def decodeString(self, s):
         """
