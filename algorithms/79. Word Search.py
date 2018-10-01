@@ -1,5 +1,5 @@
 #dfs
-class Solution(object):
+class Solution:
     def exist(self, board, word):
         """
         :type board: List[List[str]]
@@ -13,9 +13,8 @@ class Solution(object):
 
         for i in range(row):
             for j in range(col):
-                if board[i][j] == word[0]:
-                    if self.dfs(board,i,j,word):
-                        return True
+                if self.dfs(board,i,j,word):
+                    return True
         return False
                 
  
