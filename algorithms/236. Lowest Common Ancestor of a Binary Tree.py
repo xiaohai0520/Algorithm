@@ -4,7 +4,6 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-
 class Solution:
     def lowestCommonAncestor(self, root, p, q):
         """
