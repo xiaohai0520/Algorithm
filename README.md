@@ -53,4 +53,31 @@
 >Iterate each num in the array to find the other two nums with two pointers.  
 >Time: O(n2), Space: O(n1) 
 
+#### [*11.Container With Most Water ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/11.%20Container%20With%20Most%20Water.py)
+>Search with two pointers from two sides.  
+>Time: O(n), Space: O(n1) 
+
+#### [*7.Reverse Integer ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/7.%20Reverse%20Integer.py)
+>Use divmod.  
+>Time: O(n), Space: O(n1) 
+
+#### [*141.Linked List Cycle ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/141.%20Linked%20List%20Cycle.py)
+>Use two pointer fast and slow.  
+>Time: O(n), Space: O(n1) 
+
+#### [*56.Merge Intervals ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/56.%20Merge%20Intervals.py)
+>Sort firstly. Add into the array one by one. If start < end, merge.  
+>Time: O(n), Space: O(n) 
+
+#### [*121.Best Time to Buy and Sell Stock ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
+>Update the miniprice all the time and update the maxprofit.   
+>Time: O(n), Space: O(1) 
+
+#### [*53.Maximum Subarray ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/53.%20Maximum%20Subarray.py)
+>Dp record the max all the time or record each day max.  
+>Time: O(n), Space: O(1) 
+
+#### [*21.Merge Two Sorted Lists ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/21.%20Merge%20Two%20Sorted%20Lists.py)
+>Use dummy node to next node. 
+>Time: O(n), Space: O(1) 
 
