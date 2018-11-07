@@ -158,7 +158,26 @@
 >From tail to head.  
 >Time: O(n), Space: O(1)
 
+#### 38-[*54.Spiral Matrix ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/54.%20Spiral%20Matrix.py)
+>Use while loop to add number into array. Be careful of the edge.  
+>Time: O(n2), Space: O(n2)
 
+
+#### 39-[*819.Most Common Word ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/819.%20Most%20Common%20Word.py)
+>Regular expression to split the line. Dictionary to save the times of each word.  
+>Time: O(n), Space: O(n)
+
+#### 40-[*283.Move Zeroes ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/283.%20Move%20Zeroes.py)
+>Two pointers to record the first zero and all number.  
+>Time: O(n), Space: O(n)
+
+#### 41-[*695.Max Area of Island ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/695.%20Max%20Area%20of%20Island.py)
+>Use dfs to cal the area of each land. Get the max one.  
+>Time: O(n2), Space: O(1)
+
+#### 42-[*412.Fizz Buzz ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/412.%20Fizz%20Buzz.py)
+>Not 0 is 1, not number is 0 to times fizz.   
+>Time: O(n), Space: O(1)
 
 
 
