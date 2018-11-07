@@ -179,8 +179,39 @@
 >Not 0 is 1, not number is 0 to times fizz.   
 >Time: O(n), Space: O(1)
 
+#### 43-[*547.Friend Circles ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/547.%20Friend%20Circles.py)
+>To find each person and use an array to record visit state.    
+>Time: O(n2), Space: O(n)
+
+#### 44-[*49.Group Anagrams ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/49.%20Group%20Anagrams.py)
+>Use tuple of each sorted str as key to save in the dictionary.    
+>Time: O(n), Space: O(n)
+
+#### 45-[*904.Fruit Into Baskets ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/904.Fruit%20Into%20Baskets.py)
+>Sliding window. It is find the max subarray with two elements.     
+>Time: O(n), Space: O(n)
+
+#### 46-[*289.Game of Life  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/289.Game%20of%20Life.py)
+>Get the neighbor state of each point and try to save them in place.  Then change the state one by one.    
+>Time: O(n2), Space: O(1)
+
+#### 47-[*91.Decode Ways  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/91.%20Decode%20Ways.py)
+>Use dp to record each step number.   
+>Time: O(n), Space: O(1)
+
+ #### 48-[*151.Reverse Words in a String  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/151.%20Reverse%20Words%20in%20a%20String.py)
+>Change to list and get the reverse.join together.   
+>Time: O(n), Space: O(n)
+
+ #### 49-[*8.String to Integer (atoi) ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/8.%20String%20to%20Integer%20(atoi).py) 
+>Time: O(n), Space: O(n)
+
+ #### 50-[*98.Validate Binary Search Tree  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/98.%20Validate%20Binary%20Search%20Tree.py)
+>Use in order to find the smallest one then compare with the second smallest one.   
 
 
+ #### 51-[*347.Top K Frequent Elements  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/347.%20Top%20K%20Frequent%20Elements.py)
+>Counter to save the times of number then sort by times.   
+>Time: O(n), Space: O(n)
 
- 
 
