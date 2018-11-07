@@ -5,17 +5,19 @@ class Solution:
         :type banned: List[str]
         :rtype: str
         """
+        import re
+        if not paragraph:
+            return ""
         ban = set(banned)
-        paragraph = [s.strip("!?',;.") for s in paragraph.lower().split(' ')] 
-
-        p = [w for w in paragraph if w not in ban]
+        paragraph = re.split('\W+',paragraph.lower())
+        paragraph = [s for s in paragraph if s !='' and s not in ban]
         dic = {}
-        for w in p:
-            if w in dic:
-                dic[w] += 1
+        for word in paragraph:
+            if word in dic:
+                dic[word] += 1
             else:
-                dic[w] = 1
-                
-        cur = [(v,k) for k,v in dic.items()]
-        cur.sort(key=lambda x:-x[0])
-        return cur[0][1]
+                dic[word] = 1
+        words = list(dic.items())
+        words.sort(key=lambda x:-x[1])
+        return words[0][0]
+        
