@@ -81,3 +81,87 @@
 >Use dummy node to next node. 
 >Time: O(n), Space: O(1) 
 
+#### [*206.Reverse Linked List ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/206.%20Reverse%20Linked%20List.py)
+>Use pre. Start pre is None.  
+>Time: O(n), Space: O(n) 
+
+#### [*23.Merge k Sorted Lists ···*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/23.%20Merge%20k%20Sorted%20Lists.py)
+>Use deque to save all lists firstly.  
+>Each time pop two lists and merge them until only one lists in the deque.  
+>Time: O(n2), Space: O(n) 
+
+#### [*238.Product of Array Except Self ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/238.%20Product%20of%20Array%20Except%20Self.py)
+>Each position is equal the left time the right. Iterate two times, from left to right and reverse.   
+>Time: O(n), Space: O(n) 
+
+#### [*771.Jewels and Stones ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/771.%20Jewels%20and%20Stones.py)
+>Iterate each char in S to find whether in J.   
+>Time: O(n2), Space: O(1) 
+
+#### [*9.Palindrome Number ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/9.%20Palindrome%20Number.py)
+>Make the reverse number and find if they are same.  
+>Time: O(n), Space: O(1) 
+
+#### [*301.Remove Invalid Parentheses ···*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/301.%20Remove%20Invalid%20Parentheses.py)
+>Make sure how to find the invalid parenthess.  
+>Try each possible of step one.  
+>Time: O(n2), Space: O(n) 
+
+#### [*344.Reverse String ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/344.%20Reverse%20String.py)
+>To list and reverse from both sides.  
+>Time: O(n), Space: O(n) 
+
+#### [*17.Letter Combinations of a Phone Number ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)
+>Use dfs to add each layer number map char.  
+>Time: O(2n), Space: O(n) 
+
+#### [*681.Next Closest Time ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/681.%20Next%20Closest%20Time.py)
+>Add one minute to try the new time. whether each char in the set.   
+>Time: O(n), Space: O(1) 
+
+#### [*33.Search in Rotated Sorted Array ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
+>Use binary search. Make sure which is rotate.   
+>Time: O(logn), Space: O(n) 
+
+#### [*253.Meeting Rooms II ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/253.%20Meeting%20Rooms%20II.py)
+>Sort with the start time.Use heapq to keep the smallest end time in the front.  
+>If the start time larger than first end time in heapq, replace else add into heapq.  
+>Time: O(n), Space: O(n) 
+
+#### [*139.Word Break ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/139.%20Word%20Break.py)
+>Use the dp to save each point in the string. Check dp -1.   
+>Time: O(n), Space: O(n)
+
+#### [*31.Next Permutation ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/31.%20Next%20Permutation.py)
+>From tail to head, find the first number decrease.   
+>Replace with the first larger number than that one. Reverse the last part.   
+>Time: O(n), Space: O(1)
+
+#### [*297.Serialize and Deserialize Binary Tree ···*]()
+>#### *TODO*   
+
+#### [*482.License Key Formatting ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/482.%20License%20Key%20Formatting.py)
+>Find the reminder part at first.    
+>Time: O(n), Space: O(1)
+
+#### [*13.Roman to Integer ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/13.%20Roman%20to%20Integer.py)
+>If the one small than next one. minus it val.   
+>Time: O(n), Space: O(1)
+
+#### [*22.Generate Parentheses ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/22.%20Generate%20Parentheses.py)
+>Use dfs to add parentheses.   
+
+#### [*76.Minimum Window Substring ···*]()
+>#### *TODO*   
+
+#### [*88.Merge Sorted Array ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/88.%20Merge%20Sorted%20Array.py)
+>From tail to head.  
+>Time: O(n), Space: O(1)
+
+
+
+
+
+
+ 
+
