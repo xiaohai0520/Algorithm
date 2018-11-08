@@ -250,8 +250,21 @@
 #### 61-[*79.Word Search  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/79.%20Word%20Search.py)
 >Dfs and need to backtracking the previous chr in the matrix.
 
+#### 62-[*300.Longest Increasing Subsequence  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/300.Longest%20Increasing%20Subsequence.py)
+>Dp array to remember each step the max length use iterate previous ones.  
+>Time: O(n2), Space: O(n)
 
+#### 63-[*70.Climbing Stairs  ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/70.%20Climbing%20Stairs.py)
+>Dp.    
+>Time: O(n), Space: O(n)
 
+#### 64-[*535.Encode and Decode TinyURL ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/535.%20Encode%20and%20Decode%20TinyURL.py)
+>Use dic and choice() to get and save the url.      
+>Time: O(n), Space: O(n)
+
+#### 65-[*41.First Missing Positive  ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/41.%20First%20Missing%20Positive.py)
+>Array. index as the hash value.     
+>Time: O(n), Space: O(1)
 
 
 
