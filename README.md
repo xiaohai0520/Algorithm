@@ -214,4 +214,8 @@
 >Counter to save the times of number then sort by times.   
 >Time: O(n), Space: O(n)
 
+ #### 52-[*16.3Sum Closest  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/16.%203Sum%20Closest.py)
+>Like three sum. two pointers to get the minimum ads different.    
+>Time: O(n2), Space: O(1)
+
 
