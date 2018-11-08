@@ -199,23 +199,60 @@
 >Use dp to record each step number.   
 >Time: O(n), Space: O(1)
 
- #### 48-[*151.Reverse Words in a String  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/151.%20Reverse%20Words%20in%20a%20String.py)
+#### 48-[*151.Reverse Words in a String  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/151.%20Reverse%20Words%20in%20a%20String.py)
 >Change to list and get the reverse.join together.   
 >Time: O(n), Space: O(n)
 
- #### 49-[*8.String to Integer (atoi) ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/8.%20String%20to%20Integer%20(atoi).py) 
+#### 49-[*8.String to Integer (atoi) ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/8.%20String%20to%20Integer%20(atoi).py) 
 >Time: O(n), Space: O(n)
 
- #### 50-[*98.Validate Binary Search Tree  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/98.%20Validate%20Binary%20Search%20Tree.py)
+#### 50-[*98.Validate Binary Search Tree  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/98.%20Validate%20Binary%20Search%20Tree.py)
 >Use in order to find the smallest one then compare with the second smallest one.   
 
 
- #### 51-[*347.Top K Frequent Elements  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/347.%20Top%20K%20Frequent%20Elements.py)
+#### 51-[*347.Top K Frequent Elements  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/347.%20Top%20K%20Frequent%20Elements.py)
 >Counter to save the times of number then sort by times.   
 >Time: O(n), Space: O(n)
 
- #### 52-[*16.3Sum Closest  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/16.%203Sum%20Closest.py)
+#### 52-[*16.3Sum Closest  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/16.%203Sum%20Closest.py)
 >Like three sum. two pointers to get the minimum ads different.    
 >Time: O(n2), Space: O(1)
+
+#### 53-[*50.Pow(x, n)  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/50.%20Pow(x,%20n).py)
+>Take care the bound when n = 0 and n = 1.    
+>Time: O(logn), Space: O(1)
+
+#### 54-[*929.Unique Email Addresses ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/929.Unique%20Email%20Addresses.py)
+>split and replace and set and index.    
+>Time: O(n), Space: O(n)
+
+#### 55-[*173.Binary Search Tree Iterators ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/173.%20Binary%20Search%20Tree%20Iterator.py)
+>Use a stack just save the tree left, like inorder.   
+>Time: O(1), Space: O(logn)
+
+#### 56-[*236.Lowest Common Ancestor of a Binary Tree ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
+>Use recursive to find node.    
+
+#### 57-[*25.Reverse Nodes in k-Group  ···*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/25.%20Reverse%20Nodes%20in%20k-Group.py)
+>Reverse one part then recursive to reverse next part.  
+>Time: O(n), Space: O(1)
+
+#### 58-[*127.Word Ladder  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/127.%20Word%20Ladder.py)
+>Bfs to search the least path.  
+>Time: O(mn), Space: O(mn)
+
+#### 59-[*46.Permutations ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/46.%20Permutations.py)
+>Dfs
+
+#### 60-[*399.Evaluate Division   ··*]()
+>#### Graph. *TODO*
+
+#### 61-[*79.Word Search  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/79.%20Word%20Search.py)
+>Dfs and need to backtracking the previous chr in the matrix.
+
+
+
+
+
 
 
