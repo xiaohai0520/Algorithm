@@ -266,6 +266,24 @@
 >Array. index as the hash value.     
 >Time: O(n), Space: O(1)
 
+#### 66-[*224	Basic Calculator  ···*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/224.%20Basic%20Calculator.py)
+>Stack to save ().      
+>Time: O(n), Space: O(1)
 
+#### 67-[*215.Kth Largest Element in an Array  ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Array.py)
+>Quick select.      
+>Time: O(n), Space: O(n)
+
+#### 68-[*14.Longest Common Prefix ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/14.%20Longest%20Common%20Prefix.py)
+>Use the shortest one to compare each word.      
+>Time: O(n), Space: O(1)
+
+#### 69-[*67.Add Binary ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/67.%20Add%20Binary.py)
+>Same to linked list add.      
+>Time: O(n), Space: O(n)
+
+#### 70-[*560.Subarray Sum Equals K ··*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/560.%20Subarray%20Sum%20Equals%20K.py)
+>Dic to save each sum times and find the reminder is num to add count.      
+>Time: O(n), Space: O(n)
 
 
