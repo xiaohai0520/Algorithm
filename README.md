@@ -300,7 +300,21 @@
 #### 74-[*590.N-ary Tree Postorder Traversal.py ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/590.N-ary%20Tree%20Postorder%20Traversal.py)
 >Recursive or use stack to do reverse res at last.   
 
+#### 75-[*589.N-ary Tree Preorder Traversal  ·*](hhttps://github.com/xiaohai0520/Algorithm/blob/master/algorithms/589.N-ary%20Tree%20Preorder%20Traversal.py)
+>Recursive or use stack to do reverse res at last. 
 
+#### 76-[*559.Maximum Depth of N-ary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/559.Maximum%20Depth%20of%20N-ary%20Tree.py)
+>    
 
+#### 77-[*559.Maximum Depth of N-ary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/559.Maximum%20Depth%20of%20N-ary%20Tree.py)
+>  
 
+#### 78-[*559.Maximum Depth of N-ary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/559.Maximum%20Depth%20of%20N-ary%20Tree.py)
+>  
+
+#### 79-[*104.Maximum Depth of Binary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
+>   
+
+#### 80-[*872.Leaf-Similar Trees ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/872.Leaf-Similar%20Trees.py)
+>  
 
