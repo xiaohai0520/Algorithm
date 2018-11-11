@@ -286,4 +286,21 @@
 >Dic to save each sum times and find the reminder is num to add count.      
 >Time: O(n), Space: O(n)
 
+#### Tree---------------------------------------
+
+#### 71-[*226.Invert Binary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/226.%20Invert%20Binary%20Tree.py)
+>Recursive BFS or DFS to solve.    
+
+#### 72-[*617.Merge Two Binary Trees ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/617.%20Merge%20Two%20Binary%20Trees.py)
+>Recursive.   
+
+#### 73-[*700.Search in a Binary Search Tree  ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/700.Search%20in%20a%20Binary%20Search%20Tree.py)
+>Recursive.  
+
+#### 74-[*590.N-ary Tree Postorder Traversal.py ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/590.N-ary%20Tree%20Postorder%20Traversal.py)
+>Recursive or use stack to do reverse res at last.   
+
+
+
+
 
