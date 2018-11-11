@@ -289,32 +289,41 @@
 #### Tree---------------------------------------
 
 #### 71-[*226.Invert Binary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/226.%20Invert%20Binary%20Tree.py)
->Recursive BFS or DFS to solve.    
+>
 
 #### 72-[*617.Merge Two Binary Trees ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/617.%20Merge%20Two%20Binary%20Trees.py)
->Recursive.   
+>
 
 #### 73-[*700.Search in a Binary Search Tree  ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/700.Search%20in%20a%20Binary%20Search%20Tree.py)
->Recursive.  
+> 
 
 #### 74-[*590.N-ary Tree Postorder Traversal.py ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/590.N-ary%20Tree%20Postorder%20Traversal.py)
 >Recursive or use stack to do reverse res at last.   
 
 #### 75-[*589.N-ary Tree Preorder Traversal ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/589.N-ary%20Tree%20Preorder%20Traversal.py)
->Recursive or use stack to do reverse res at last. 
+>
 
 #### 76-[*559.Maximum Depth of N-ary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/559.Maximum%20Depth%20of%20N-ary%20Tree.py)
 >    
 
-#### 77-[*559.Maximum Depth of N-ary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/559.Maximum%20Depth%20of%20N-ary%20Tree.py)
->  
-
-#### 78-[*559.Maximum Depth of N-ary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/559.Maximum%20Depth%20of%20N-ary%20Tree.py)
->  
-
-#### 79-[*104.Maximum Depth of Binary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
+#### 77-[*104.Maximum Depth of Binary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
 >   
 
-#### 80-[*872.Leaf-Similar Trees ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/872.Leaf-Similar%20Trees.py)
+#### 78-[*872.Leaf-Similar Trees ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/872.Leaf-Similar%20Trees.py)
 >  
+#### 79-[*669.Trim a Binary Search Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/669.Trim%20a%20Binary%20Search%20Tree.py)
+> 
+#### 80-[*897.Increasing Order Search Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/897.Increasing%20Order%20Search%20Tree.py)
+> 
+#### 81-[*235.Lowest Common Ancestor of a Binary Search Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
+> 
+#### 82-[*637.Average of Levels in Binary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/637.Average%20of%20Levels%20in%20Binary%20Tree.py)
+> 
+#### 83-[*257.Binary Tree Paths ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/257.Binary%20Tree%20Paths.py)
+> 
+#### 84-[*429.N-ary Tree Level Order Traversal  ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/429%09%20N-ary%20Tree%20Level%20Order%20Traversal.py)
+>  
+#### 85-[*653. Two Sum IV - Input is a BST ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/653.Two%20Sum%20IV%20-%20Input%20is%20a%20BST.py)
+> 
+
 
