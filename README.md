@@ -355,3 +355,9 @@
 >
 #### 100-[*687. Longest Univalue Path ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/687.Longest%20Univalue%20Path.py)
 >
+
+#### 101-[*654. Maximum Binary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/654.Maximum%20Binary%20Tree.py)
+>
+#### 102-[*701. Insert into a Binary Search Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)
+>
+
