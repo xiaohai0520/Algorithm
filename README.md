@@ -360,4 +360,8 @@
 >
 #### 102-[*701. Insert into a Binary Search Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)
 >
+#### 103-[*814. Binary Tree Pruning ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/814.%20Binary%20Tree%20Pruning.py)
+>
+#### 104-[*894.All Possible Full Binary Trees ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/894%09%20All%20Possible%20Full%20Binary%20Trees.py)
+>
 
