@@ -392,3 +392,5 @@
 >
 #### 117-[*250. Count Univalue Subtrees ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/250.%20Count%20Univalue%20Subtrees.py)
 >
+#### 118-[*230. Kth Smallest Element in a BST ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py)
+>
