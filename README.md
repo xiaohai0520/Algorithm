@@ -394,3 +394,14 @@
 >
 #### 118-[*230. Kth Smallest Element in a BST ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py)
 >
+#### 119-[*144. Binary Tree Preorder Traversal ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/144.%20Binary%20Tree%20Preorder%20Traversal.py)
+>
+#### 120-[*156. Binary Tree Upside Down ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/156.%20Binary%20Tree%20Upside%20Down.py)
+>
+#### 121-[*623. Add One Row to Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/623.%20Add%20One%20Row%20to%20Tree.py)
+>
+#### 122-[*863.All Nodes Distance K in Binary Tree ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/863.All%20Nodes%20Distance%20K%20in%20Binary%20Tree.py)
+>
+#### 123-[*298. Binary Tree Longest Consecutive Sequence ·*](https://github.com/xiaohai0520/Algorithm/blob/master/algorithms/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence.py)
+>
+
