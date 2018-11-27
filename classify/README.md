@@ -12,3 +12,8 @@
 #### 289.Game of Life
 #### 93.Restore IP Addresses
 #### 91. Decode Ways
+#### 347. Top K Frequent Elements
+#### 560. Subarray Sum Equals K
+#### 41. First Missing Positive
+#### 25. Reverse Nodes in k-Group
+#### 295. Find Median from Data Stream
