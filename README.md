@@ -23,3 +23,6 @@
 #### 722. Remove Comments
 #### 43. Multiply Strings
 #### 341. Flatten Nested List Iterator
+#### 78. Subsets
+#### 19. Remove Nth Node From End of List
+#### 543. Diameter of Binary Tree
