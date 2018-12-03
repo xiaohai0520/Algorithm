@@ -26,3 +26,6 @@
 #### 78. Subsets
 #### 19. Remove Nth Node From End of List
 #### 543. Diameter of Binary Tree
+#### 114. Flatten Binary Tree to Linked List
+#### 402. Remove K Digits
+#### 364. Nested List Weight Sum II
