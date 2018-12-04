@@ -31,3 +31,5 @@
 #### 364. Nested List Weight Sum II
 #### 39. Combination Sum
 #### 426. Convert Binary Search Tree to Sorted Doubly Linked List
+#### 735. Asteroid Collision
+#### 29. Divide Two Integers
