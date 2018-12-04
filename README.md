@@ -29,3 +29,5 @@
 #### 114. Flatten Binary Tree to Linked List
 #### 402. Remove K Digits
 #### 364. Nested List Weight Sum II
+#### 39. Combination Sum
+#### 426. Convert Binary Search Tree to Sorted Doubly Linked List
