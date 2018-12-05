@@ -33,3 +33,8 @@
 #### 426. Convert Binary Search Tree to Sorted Doubly Linked List
 #### 735. Asteroid Collision
 #### 29. Divide Two Integers
+#### 152. Maximum Product Subarray
+#### 57. Insert Interval
+#### 287. Find the Duplicate Number
+#### 314. Binary Tree Vertical Order Traversal
+#### 48. Rotate Image
