@@ -1,3 +1,3 @@
 # Algorithm
 
-## LeetCode Top 100
+## 1. LeetCode Top 100
