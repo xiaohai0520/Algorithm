@@ -25,3 +25,7 @@ Iterate each position in the array, if is 1 to dfs or bfs this node until can no
 Save the index of each char of the string into dictionary.  
 Find the repeat position and let start index plus 1.  
  
+## No.6 : [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)   
+**Binary Search, Divide and Conquer**.   
+Because two arrays are in the sequence. We can think this problem to find the kth number.
+Divide the short one into two parts and get the other part from the array. Compare the middle value.
