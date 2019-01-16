@@ -66,10 +66,22 @@ Until there is only one element in the queue.
 Find the first to show decrease, and change the position with the first number larger than it.   
 Swap the numbers in the middle of the two numbers.  
 
-## No.15 : [Next Permutation](https://leetcode.com/problems/next-permutation/)   
+## No.15 : [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)   
 **Array and Binary Search**.   
 Try to find the part in the increase order, and make sure if the target in this part.  
 If in this part, decrease the scope else choose to find in the other part.  
+
+## No.16 : [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)   
+ **Stack or Dp**.   
+If use stack, need to save the longest one for the last element in the stack.  
+If use dp, also need to use stack,  dp always record the longest distance of this point.  
+
+## No.17 : [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)   
+ **Binary Search**.   
+Method 1, using binary to find the low bound of the target and target + 1 ,if target in low bound, return reslut.  
+Method 2, using binary to find any target in the array, extend both sides to find the low and high bound.  
+
+
 
 
 
