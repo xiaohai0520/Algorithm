@@ -25,7 +25,33 @@ Iterate each position in the array, if is 1 to dfs or bfs this node until can no
 Save the index of each char of the string into dictionary.  
 Find the repeat position and let start index plus 1.  
  
-## No.6 : [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)   
+## No.6 : [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)   
 **Binary Search, Divide and Conquer**.   
 Because two arrays are in the sequence. We can think this problem to find the kth number.
 Divide the short one into two parts and get the other part from the array. Compare the middle value.
+
+## No.7 : [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)   
+**Two pointers**.   
+Try from two sides and always update the lower one.   
+
+## No.8 : [3Sum](https://leetcode.com/problems/3sum/)   
+**Two pointers**.   
+Similiar with the previous one. Try from two sides and avoid the repeat.  
+
+## No.9 : [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   
+**BFS and DFS**.   
+BFS. For each digit then try to add each possible.
+DFS. From the first digit to the last digit to try each possible.  
+
+## No.10 : [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)   
+**Linked List and Two pointers**.   
+Use two pointers to complete in one pass.   
+Add a dummy node to save the head and also not need to care the delete the head.   
+
+## No.11 : [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)   
+**Stack and Dictionary**.   
+Use stack to save the first part of parenthese and pop to compare the second part.   
+
+
+
+
