@@ -52,6 +52,17 @@ Add a dummy node to save the head and also not need to care the delete the head.
 **Stack and Dictionary**.   
 Use stack to save the first part of parenthese and pop to compare the second part.   
 
+## No.12 : [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)   
+**DFS**.   
+Count the two part of the paremtheses and if left > right need to return.  
+
+## No.13 : [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)   
+**Deque and linked list**.   
+Pop the first two list to merge into one and insert into the deque again.  
+Until there is only one element in the queue.  
+
+
+
 
 
 
