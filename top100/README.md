@@ -91,10 +91,10 @@ If the current sum is less than target, continue to plus the current number.
 Like the previous. Use the dfs to try each possible.  
 But the different is not need to repeat the same number.  
 
-## No.20 : [Permutations](https://leetcode.com/problems/permutations/)   
- **DFS**.   
-Like the previous. Use the dfs to try each possible.  
-But the different is not need to repeat the same number. 
+## No.20 : [Rotate Image](https://leetcode.com/problems/rotate-image/)   
+ **Array**.   
+For each number from in the half of the matrix, to turn around for four times to each edge.   
+
 
 
 
