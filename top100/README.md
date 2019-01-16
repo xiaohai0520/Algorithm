@@ -61,7 +61,15 @@ Count the two part of the paremtheses and if left > right need to return.
 Pop the first two list to merge into one and insert into the deque again.  
 Until there is only one element in the queue.  
 
+## No.14 : [Next Permutation](https://leetcode.com/problems/next-permutation/)   
+**Array**.   
+Find the first to show decrease, and change the position with the first number larger than it.   
+Swap the numbers in the middle of the two numbers.  
 
+## No.15 : [Next Permutation](https://leetcode.com/problems/next-permutation/)   
+**Array and Binary Search**.   
+Try to find the part in the increase order, and make sure if the target in this part.  
+If in this part, decrease the scope else choose to find in the other part.  
 
 
 
