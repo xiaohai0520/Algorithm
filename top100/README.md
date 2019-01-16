@@ -81,7 +81,20 @@ If use dp, also need to use stack,  dp always record the longest distance of thi
 Method 1, using binary to find the low bound of the target and target + 1 ,if target in low bound, return reslut.  
 Method 2, using binary to find any target in the array, extend both sides to find the low and high bound.  
 
+## No.18 : [Combination Sum](https://leetcode.com/problems/combination-sum/)   
+ **DFS**.   
+Sort the array firstly. From the smallest one and try each possible for the target.   
+If the current sum is less than target, continue to plus the current number.   
 
+## No.19 : [Permutations](https://leetcode.com/problems/permutations/)   
+ **DFS**.   
+Like the previous. Use the dfs to try each possible.  
+But the different is not need to repeat the same number.  
+
+## No.20 : [Permutations](https://leetcode.com/problems/permutations/)   
+ **DFS**.   
+Like the previous. Use the dfs to try each possible.  
+But the different is not need to repeat the same number. 
 
 
 
