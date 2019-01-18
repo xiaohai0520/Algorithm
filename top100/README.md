@@ -137,9 +137,9 @@ Quick sort take nlogn time complexity.
 two pass just to count the number of each number and create the new array.   
 one pass record the 0 point and 2 point, let one point to go through the array.  
 
-## No.30 : [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     
- **DP**.     
-dp[i] = dp[i-1] + dp[i-2]
+## No.30 : [Subsets](https://leetcode.com/problems/subsets/)     
+ **DFS**.     
+Empty array for initial, add number into array with the change of index.   
 
 
 
