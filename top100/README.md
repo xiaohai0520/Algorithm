@@ -114,11 +114,32 @@ Compare the res and cur to get the bigger one.
  **Array**.   
 Always compare the maxreach and i + nums[i].       
 
+## No.25 : [Merge Intervals](https://leetcode.com/problems/merge-intervals/)     
+ **Array**.     
+Compare the end of last of the result array and intervals.   
 
+## No.26 : [Unique Paths](https://leetcode.com/problems/unique-paths/)     
+ **2D Array and DP**.     
+Find the relationship between the dp. point is equal sum of left and up.  
 
+## No.27 : [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/)     
+ **2D Array and DP**.     
+Finish the two edges of the 2d dp array.   
+Add the min one of the up and left one to the current one.   
 
+## No.28 : [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     
+ **DP**.     
+dp[i] = dp[i-1] + dp[i-2]
 
+## No.29 : [Sort Colors](https://leetcode.com/problems/sort-colors/)     
+ **Quick sort or two pass or one pass**.     
+Quick sort take nlogn time complexity.  
+two pass just to count the number of each number and create the new array.   
+one pass record the 0 point and 2 point, let one point to go through the array.  
 
+## No.30 : [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     
+ **DP**.     
+dp[i] = dp[i-1] + dp[i-2]
 
 
 
