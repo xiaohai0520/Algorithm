@@ -95,6 +95,29 @@ But the different is not need to repeat the same number.
  **Array**.   
 For each number from in the half of the matrix, to turn around for four times to each edge.   
 
+## No.21 : [Group Anagrams](https://leetcode.com/problems/group-anagrams/)   
+ **String Array and Dic**.   
+Dic can only save the unchange data structure as the key, such as tuple and string.  
+Change all stings into list and sort then change back to same string.  
+
+## No.22 : [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)   
+ **Array and Stack**.   
+Find two edges of the left and right for each number.  number * left * right get sum.  
+Use stack to find the edge in O(n).   
+
+## No.23 : [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)   
+ **Array**.   
+Always to compare the num and cur + num.   
+Compare the res and cur to get the bigger one.    
+
+## No.24 : [Jump Game](https://leetcode.com/problems/jump-game/)   
+ **Array**.   
+Always compare the maxreach and i + nums[i].       
+
+
+
+
+
 
 
 
