@@ -141,5 +141,32 @@ one pass record the 0 point and 2 point, let one point to go through the array.
  **DFS**.     
 Empty array for initial, add number into array with the change of index.   
 
+## No.31 : [Word Search](https://leetcode.com/problems/word-search/)     
+ **DFS, backtracking**.     
+Checking each one equal the first letter and use the dfs and backtracking to find the rest ones.   
+If can match, return true, if not match, search others.   
+
+## No.32 : [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)     
+ **Recursive and iterative**.     
+Recursive. use a list to do dfs left , add , right.   
+iterative. Use a stack to save left until none, pop out add into the res and find the cur right.   
+
+## No.33 : [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)     
+ **DFS and DP**.     
+Using dfs, start < end, return 1, base statement, left times right.   
+Using dp, dp[0] = 1, two for for loop.   
+
+## No.34 : [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)     
+ **DP**.     
+If start > end, return None. Two for loops each for left and right.   
+
+## No.35 : [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)     
+ **Tree**.     
+Compare the up and down boundry with the root.val.   
+
+
+
+
+
 
 
