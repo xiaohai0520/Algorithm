@@ -185,6 +185,9 @@ Ite. Like the level order. just to count the number of level.
 Recursive, 1 + max(left,right).  
 Ite. Like the level order. just to count the number of level.  
 
-
+## No.40 : [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)     
+ **Recursive or Stack**.     
+Recursive. Using the global pre.  each time root.right = pre and pre = root.   
+Stack. Using the preorder to relink the tree.  
 
 
