@@ -165,7 +165,25 @@ If start > end, return None. Two for loops each for left and right.
 Compare the up and down boundry with the root.val.   
 
 
+## No.36 : [Validate Binary Search Tree](https://leetcode.com/problems/symmetric-tree/)     
+ **Tree Rec and Ite**.     
+Rec. left.right and right.left, left.left and right.right.  
+Ite. Use deque, each time get two. both not, continue, one not or not equal, return False, last return True.  
 
+## No.37 : [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)     
+ **Stack or Deque**.     
+Using stack. loop each node in the stack and also save the left and right in the cur. stack = cur.  
+Using queue. count the number of node in the queue each time for forloop.   
+
+## No.38 : [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)     
+ **Recursive or Deque**.     
+Recursive, 1 + max(left,right).  
+Ite. Like the level order. just to count the number of level.   
+
+## No.39 : [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)     
+ **Recursive or Deque**.     
+Recursive, 1 + max(left,right).  
+Ite. Like the level order. just to count the number of level.  
 
 
 
