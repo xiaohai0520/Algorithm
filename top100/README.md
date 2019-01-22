@@ -190,4 +190,18 @@ Ite. Like the level order. just to count the number of level.
 Recursive. Using the global pre.  each time root.right = pre and pre = root.   
 Stack. Using the preorder to relink the tree.  
 
+## No.41 : [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)     
+ **Array**.     
+Always find the min buy and max profit.  
 
+## No.42 : [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)     
+ **Array and set or dic**.     
+Using dic to save each num consecutive length. left and right plus together.  
+Using the set and try to find the head in O(1) time.  
+
+## No.43 : [Single Number](https://leetcode.com/problems/single-number/)     
+ **Array and BIN OP**.     
+Using the XOR for each num in nums.   
+
+## No.44 : [Word Break](https://leetcode.com/problems/word-break/)     
+ 
