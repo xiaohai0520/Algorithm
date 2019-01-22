@@ -204,4 +204,29 @@ Using the set and try to find the head in O(1) time.
 Using the XOR for each num in nums.   
 
 ## No.44 : [Word Break](https://leetcode.com/problems/word-break/)     
- 
+  **DP**.     
+Using dp to save the process.  two for loops.   
+
+## No.45 : [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)     
+  **Two pointers**.     
+Fast and slow, when meet return True.   
+
+## No.46 : [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)     
+  **Tree**.     
+max(l+r+root.val, res). always return max(l,r) + root.val.   
+
+## No.47 : [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)     
+  **Tree**.     
+Same as the previous one, the key is remember to count the path.  
+
+## No.48 : [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)     
+  **Two pointers**.     
+Find the meeting points. Then restart the head to find the meeting points.  
+
+## No.49 : [LRU Cache](https://leetcode.com/problems/lru-cache/)     
+  **LinkedList and Dic or OrderedDIct**.     
+Using orderDict, using the popitem and move to end method.  
+
+## No.50 : [Sort List](https://leetcode.com/problems/sort-list/)     
+  **Merge sort**.     
+Split into two parts and merge.  
