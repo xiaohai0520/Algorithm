@@ -230,3 +230,16 @@ Using orderDict, using the popitem and move to end method.
 ## No.50 : [Sort List](https://leetcode.com/problems/sort-list/)     
   **Merge sort**.     
 Split into two parts and merge.  
+
+## No.51 : [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)     
+  **Array**.     
+For this array, every time can get the min or max value, update these values to find the largest one.  
+
+## No.52 : [Min Stack](https://leetcode.com/problems/min-stack/)     
+  **Stack**.     
+Keep the mini value all the time.   
+
+## No.53 : [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)     
+  **Linked List**.     
+Method1: count each length and start from different point.  
+Method2: each head next x+ y + z
