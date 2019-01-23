@@ -243,3 +243,12 @@ Keep the mini value all the time.
   **Linked List**.     
 Method1: count each length and start from different point.  
 Method2: each head next x+ y + z
+
+## No.54 : [Majority Element](https://leetcode.com/problems/majority-element/)     
+  **Array**.     
+Sort and return the half num.  
+
+## No.55 : [House Robber](https://leetcode.com/problems/house-robber/)     
+  **Dp**.     
+Find the relationship between dp array.  
+
