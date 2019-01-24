@@ -252,3 +252,28 @@ Sort and return the half num.
   **Dp**.     
 Find the relationship between dp array.  
 
+## No.56 : [Number of Islands](https://leetcode.com/problems/number-of-islands/)     
+  **DFS**.     
+Iterate the grid and do the dfs for each 1.   
+
+## No.57 : [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)     
+  **Itera or Rec**.     
+Ite. just use the pre to change for each node.  
+Rec. input head and pre and do the change, then rec into next layer.  
+
+## No.58 : [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)     
+  **Trie Tree**.     
+TrieNode.children = collections.defaultdict(TrieNode).   
+
+## No.59 : [Kth Largest Element in an Array)](https://leetcode.com/problems/kth-largest-element-in-an-array/)     
+  **Quick select or min heap**.     
+Quick select. average running time O(N).   
+min heap. save [:k] and compare the rest and return the heap[0].   
+
+## No.60 : [Maximal Square)](https://leetcode.com/problems/maximal-square/)     
+  **Dp**.     
+Create a new dp matrix and focus on the right corner.  
+other three corner min + 1.   
+
+min heap. save [:k] and compare the rest and return the heap[0].   
+
