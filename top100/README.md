@@ -270,10 +270,9 @@ TrieNode.children = collections.defaultdict(TrieNode).
 Quick select. average running time O(N).   
 min heap. save [:k] and compare the rest and return the heap[0].   
 
-## No.60 : [Maximal Square)](https://leetcode.com/problems/maximal-square/)     
+## No.60 : [Maximal Square](https://leetcode.com/problems/maximal-square/)     
   **Dp**.     
 Create a new dp matrix and focus on the right corner.  
 other three corner min + 1.   
 
-min heap. save [:k] and compare the rest and return the heap[0].   
 
