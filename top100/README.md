@@ -275,4 +275,25 @@ min heap. save [:k] and compare the rest and return the heap[0].
 Create a new dp matrix and focus on the right corner.  
 other three corner min + 1.   
 
+## No.61 : [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)     
+  **Tree**.     
+Recursive for left and right.   
+
+## No.62 : [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)     
+  **Linked list**.     
+Get the middle and reverse the second part to compare with the head.   
+
+## No.63 : [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)   
+  **Tree**.     
+Rec to find the root.left and root.right.  
+If left and right, return root else l or r.   
+
+## No.64 : [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)   
+  **Array**.     
+Product from the left to right and from right to left.   
+
+## No.65 : [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)   
+  **2D Array**.     
+Search from right to left and up to down.    
+
 
