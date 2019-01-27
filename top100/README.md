@@ -296,4 +296,12 @@ Product from the left to right and from right to left.
   **2D Array**.     
 Search from right to left and up to down.    
 
+## No.66 : [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)   
+  **HEAP**.     
+Using heapq to save the end time of meetings.  
+If start > end, replace , else push.  
+
+## No.67 : [Perfect Squares](https://leetcode.com/problems/perfect-squares/)   
+  **BFS**.     
+Using queue to save all the sum and the number.
 
