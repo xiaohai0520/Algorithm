@@ -305,3 +305,14 @@ If start > end, replace , else push.
   **BFS**.     
 Using queue to save all the sum and the number.
 
+## No.68 : [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   
+  **Array**.     
+Always remeber the pos of the first zero
+
+## No.69 : [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   
+  **Array**.     
+Like the loop in the linked list, fast and slow meet in the loop and find the merge point.   
+
+## No.70 : [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)   
+  **DP**.     
+Dp to save the largest length of i, always find the max one to create the new dp[i].   
