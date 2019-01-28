@@ -339,3 +339,6 @@ Recursive. compare the root in or not in.
  **Dic and heapq**.     
  Dic to save the times and try to use the heapq to find the top k.   
  
+## No.76 : [Decode String](https://leetcode.com/problems/decode-string/) 
+ **Stack**.     
+Using stack to save the previous string and number, when meet ] pop out to add together.   
