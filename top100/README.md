@@ -316,3 +316,26 @@ Like the loop in the linked list, fast and slow meet in the loop and find the me
 ## No.70 : [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)   
   **DP**.     
 Dp to save the largest length of i, always find the max one to create the new dp[i].   
+
+## No.71 : [Remove Invalid Parentheses ](https://leetcode.com/problems/remove-invalid-parentheses/)   
+ **Array and filter BFS**.     
+Using bfs to search the minimum delete number.   
+Filter can test if it is a valid parentheses.   
+
+## No.72 : [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) 
+ **DP**.     
+Three state to represent the non-hold hold and sell, find the relationship between these states using dp.   
+
+## No.73 : [Coin Change](https://leetcode.com/problems/coin-change/) 
+ **DP or BFS**.     
+DP, if the rest larger than coin, dp[i] = min(dp[i],dp[i-coin] + 1).     
+BFS, add amount into queue, minus each coin to get new and save into set.   
+
+## No.74 : [House Robber III](https://leetcode.com/problems/house-robber-iii/) 
+ **Tree**.     
+Recursive. compare the root in or not in.   
+
+## No.75 : [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
+ **Dic and heapq**.     
+ Dic to save the times and try to use the heapq to find the top k.   
+ 
