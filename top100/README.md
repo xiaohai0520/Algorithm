@@ -342,3 +342,7 @@ Recursive. compare the root in or not in.
 ## No.76 : [Decode String](https://leetcode.com/problems/decode-string/) 
  **Stack**.     
 Using stack to save the previous string and number, when meet ] pop out to add together.   
+
+## No.77 : [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) 
+ **Array**.     
+Find the regular to add the letter in the s.     
