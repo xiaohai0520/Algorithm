@@ -346,3 +346,12 @@ Using stack to save the previous string and number, when meet ] pop out to add t
 ## No.77 : [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) 
  **Array**.     
 Find the regular to add the letter in the s.     
+
+## No.78 : [Path Sum III](https://leetcode.com/problems/path-sum-iii/) 
+ **DFS**.     
+Method1: recursive to find all possible.
+Method2: Use dic to save the old path. remeber to backtracking.   
+
+## No.79 : [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) 
+ **Slicing window**.     
+Using dic to save the number of each letter.  
