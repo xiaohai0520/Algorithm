@@ -23,3 +23,16 @@ if I ADD left else add right.
 **String**.  
 Spilt the letters and alpha.  
 Using lambda to sort the array.   
+
+## No.6 : [Most Common Word](https://leetcode.com/problems/most-common-word/)  
+**Regular expression and counter**.  
+ use regular expression split the string.   
+ counter to count and return the most common one.   
+ 
+ ## No.7 : [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  
+**heap**.  
+use max and min heap to save the two parts of the numbers.   
+
+ ## No.8 : [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  
+**heap**.  
+use max and min heap to save the two parts of the numbers.   
