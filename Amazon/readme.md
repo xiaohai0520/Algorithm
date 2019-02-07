@@ -33,6 +33,15 @@ Using lambda to sort the array.
 **heap**.  
 use max and min heap to save the two parts of the numbers.   
 
- ## No.8 : [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  
-**heap**.  
-use max and min heap to save the two parts of the numbers.   
+ ## No.8 : [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)  
+**Array**.  
+Use two loop to distinct the even and odd.   
+We can also use the while loop to swap.   
+
+ ## No.9 : [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
+**Binary Search**.  
+Use the binary search to decrease the time complexity.   
+
+ ## No.10 : [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)  
+**Tree**.  
+Use the inorder to compare each two close number.   
