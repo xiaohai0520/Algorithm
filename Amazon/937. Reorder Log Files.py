@@ -7,3 +7,5 @@ class Solution:
         l = [log for log in logs if log[-1].isalpha()]
         d = [log for log in logs if log[-1].isdigit()]
         return sorted(l, key = lambda x: (x[x.find(" "):], x[:x.find(" ")])) + d
+    
+    
