@@ -37,7 +37,7 @@ use max and min heap to save the two parts of the numbers.
 **Array**.  
 Use two loop to distinct the even and odd.   
 We can also use the while loop to swap.   
-
+ 
  ## No.9 : [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
 **Binary Search**.  
 Use the binary search to decrease the time complexity.   
@@ -45,3 +45,11 @@ Use the binary search to decrease the time complexity.
  ## No.10 : [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)  
 **Tree**.  
 Use the inorder to compare each two close number.   
+
+ ## No.11 : [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)  
+**DFS AND BFS**.  
+Use dfs to make the tree into a map, and from the target to get distance 2 node.   
+
+ ## No.12 : [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)  
+**DFS AND BFS**.  
+Use dfs to make the tree into a map, and from the target to get distance 2 node.   
