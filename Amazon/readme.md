@@ -50,6 +50,8 @@ Use the inorder to compare each two close number.
 **DFS AND BFS**.  
 Use dfs to make the tree into a map, and from the target to get distance 2 node.   
 
- ## No.12 : [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)  
-**DFS AND BFS**.  
-Use dfs to make the tree into a map, and from the target to get distance 2 node.   
+ ## No.12 : [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)  
+**prority queue**.  
+Change the array into graph, and use heapq to sort the array for tuple value,start,end.   
+ 
+
