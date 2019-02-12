@@ -54,4 +54,13 @@ Use dfs to make the tree into a map, and from the target to get distance 2 node.
 **prority queue**.  
 Change the array into graph, and use heapq to sort the array for tuple value,start,end.   
  
+ ## No.13 : [Reorganize String](https://leetcode.com/problems/reorganize-string/)  
+**prority queue**.  
+counter and sequence to pop the first and second to create string.   
+
+ ## No.14 : [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)  
+**DP**.  
+dp should equals len(cost) + 1 and return dp[-1].   
+
+
 
