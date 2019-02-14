@@ -62,5 +62,8 @@ counter and sequence to pop the first and second to create string.
 **DP**.  
 dp should equals len(cost) + 1 and return dp[-1].   
 
+ ## No.15 : [Network Delay Time](https://leetcode.com/problems/network-delay-time/)  
+**GRAPH shorest path**.  
+Use map and queue. 
 
 
