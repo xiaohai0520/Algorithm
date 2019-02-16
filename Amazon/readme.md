@@ -67,3 +67,5 @@ dp should equals len(cost) + 1 and return dp[-1].
 Use map and queue. 
 
 
+
+
