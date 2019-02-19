@@ -66,6 +66,13 @@ dp should equals len(cost) + 1 and return dp[-1].
 **GRAPH shorest path**.  
 Use map and queue. 
 
+ ## No.16 : [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)  
+**2D array**.  
+Find the max of each horzontal and vertical.   
 
+ ## No.17 : [Flood Fill](https://leetcode.com/problems/flood-fill/)  
+**DFS**.    
 
-
+ ## No.18 : [763. Partition Labels](https://leetcode.com/problems/partition-labels/)  
+**Array**.
+Use array to stock the distance and see condition to split them.   
