@@ -1,6 +1,6 @@
-## 1.search  
-### List1  Combination
+## 1.search 
 
+### List1  Combination
 #### 17. Letter Combinations of a Phone Number 
 1.dfs. From the first one to the last one. slowest speed.   
 2.bfs. Add the ch layer by layer. Quickest speed.   
@@ -29,4 +29,9 @@ dfs. The next depth nums need to delete the one which is added into the cur, and
 1.dfs. from the start to end, when meet alpha, split into two case, when get the end, add into array.   
 2.bfs. space to start, and iter the String, when alpha,add two case into array.replace the array. it likes two for.   
 3.Extend. put S in the array, iter it from 0 when alpha, extend the swapcase for each one.   
+#### 996. Number of Squareful Arrays
+dfs Same as the permutationII just need to add an additional condition to satify the square.  
 
+### List3  Generate Parentheses
+#### 22. Generate Parentheses
+backtracking. Care about the number of left and right.   
