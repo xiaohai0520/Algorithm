@@ -35,3 +35,6 @@ dfs Same as the permutationII just need to add an additional condition to satify
 ### List3  Generate Parentheses
 #### 22. Generate Parentheses
 backtracking. Care about the number of left and right.   
+#### 301. Remove Invalid Parentheses
+1.Force. We can find all possible to use filter to choose the valid ones.
+2.dfs. Count the left more and right more first. and use dfs to try from head to tail.   
