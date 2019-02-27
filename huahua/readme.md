@@ -39,6 +39,16 @@ backtracking. Care about the number of left and right.
 1.Force. We can find all possible to use filter to choose the valid ones.
 2.dfs. Count the left more and right more first. and use dfs to try from head to tail.   
 
-### List4  Generate Parentheses
+### List4  Sudoku Solver
 #### 37. Sudoku Solver  
 check three conditions and use the dfs to sovle check one by one.   
+#### 51. N-Queens
+Also use the dfs backtracking from row to row, in each row check col and diag.   
+#### 52. N-Queens II
+Same as 51, just need to count the number.   
+
+### List5  Word Search
+#### 79. Word Search
+use dfs to check very word[0]    
+#### 212. Word Search II
+Using trie tree to do the dfs search.   
