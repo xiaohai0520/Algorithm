@@ -52,3 +52,6 @@ Same as 51, just need to count the number.
 use dfs to check very word[0]    
 #### 212. Word Search II
 Using trie tree to do the dfs search.   
+
+### List6 127. Word Ladder
+BFS use queue to save the word and length. Then pop left to get the tuple.   
