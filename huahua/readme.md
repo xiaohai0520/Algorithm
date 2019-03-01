@@ -53,5 +53,11 @@ use dfs to check very word[0]
 #### 212. Word Search II
 Using trie tree to do the dfs search.   
 
-### List6 127. Word Ladder
-BFS use queue to save the word and length. Then pop left to get the tuple.   
+### List6 Word Ladder
+#### 127. Word Ladder
+BFS use queue to save the word and length. Then pop left to get the tuple.  
+#### 126. Word Ladder II
+BFS  search layer by layer, use the default dic to save the list, key is the last word in the list, it means the path, if the word is endword, append to the res.   
+BiBFS same as BFS but use the forword and backword, if word in for in the back or back in the for it means meeting ,can combine together.    
+#### 752. Open the Lock
+BFS not forget to add a set to save the visited.   
