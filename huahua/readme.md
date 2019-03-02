@@ -65,5 +65,6 @@ BFS not forget to add a set to save the visited.
 #### 542. 01 Matrix
 DFS. get the mini one but it will cost more time.   
 BFS. try to search layer by layer.   
-
+#### 934. Shortest Bridge
+DFS to search the island, BFS to get the shortest path.  
 
