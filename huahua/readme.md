@@ -68,3 +68,14 @@ BFS. try to search layer by layer.
 #### 934. Shortest Bridge
 DFS to search the island, BFS to get the shortest path.  
 
+### Partition
+#### 698. Partition to K Equal Sum Subsets
+dfs. set k block to fill. iterative each index until to the last one, else return false.   
+#### 93. Restore IP Addresses
+DFS try each 1 -3 combinations to add to the ip ,if k >4 return.   
+#### 131. Palindrome Partitioning
+DFS check each possible of the substring whether it is a palindrom, if not s , join it into the res.    
+#### 241. Different Ways to Add Parentheses
+Divide and conquer. split the st to left and right, get two array of nums, add each op into the res.   
+
+
