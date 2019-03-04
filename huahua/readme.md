@@ -1,13 +1,16 @@
 ## 1.search 
 
-### List1  Combination
+### List1  
 #### 17. Letter Combinations of a Phone Number 
+(review: 1.(5)forget the empty situation)   
 1.dfs. From the first one to the last one. slowest speed.   
 2.bfs. Add the ch layer by layer. Quickest speed.   
 3.recursive. same as dfs, but from the last to the first.   
 #### 39. Combination Sum
+(review: 1.(10) forget the start point    
 dfs. Remember the detai target and cur sum path, to check the list from little to large.   
 #### 40. Combination Sum II
+(review 1.(3) forget the avoid repeat)   
 dfs. Each depth need to index + 1 but still care about skip the duplicate numbers.   
 #### 77. Combinations
 dfs. same as the combination 2 record the length, and each depth index+1.  
@@ -20,7 +23,7 @@ dfs. Only thing need to care is the duplicate skip.
 #### 216. Combination Sum III
 dfs. Thing need to care is the length k, decide k first and then target.   
     
-### List2  Permutation
+### List2 
 #### 46. Permutations   
 dfs. The next depth nums need to delete the one which is added into the cur.   
 #### 47. Permutations II
@@ -32,14 +35,14 @@ dfs. The next depth nums need to delete the one which is added into the cur, and
 #### 996. Number of Squareful Arrays
 dfs Same as the permutationII just need to add an additional condition to satify the square.  
 
-### List3  Generate Parentheses
+### List3  
 #### 22. Generate Parentheses
 backtracking. Care about the number of left and right.   
 #### 301. Remove Invalid Parentheses
 1.Force. We can find all possible to use filter to choose the valid ones.
 2.dfs. Count the left more and right more first. and use dfs to try from head to tail.   
 
-### List4  Sudoku Solver
+### List4 
 #### 37. Sudoku Solver  
 check three conditions and use the dfs to sovle check one by one.   
 #### 51. N-Queens
@@ -47,13 +50,13 @@ Also use the dfs backtracking from row to row, in each row check col and diag.
 #### 52. N-Queens II
 Same as 51, just need to count the number.   
 
-### List5  Word Search
+### List5 
 #### 79. Word Search
 use dfs to check very word[0]    
 #### 212. Word Search II
 Using trie tree to do the dfs search.   
 
-### List6 Word Ladder
+### List6 
 #### 127. Word Ladder
 BFS use queue to save the word and length. Then pop left to get the tuple.  
 #### 126. Word Ladder II
@@ -68,7 +71,7 @@ BFS. try to search layer by layer.
 #### 934. Shortest Bridge
 DFS to search the island, BFS to get the shortest path.  
 
-### Partition
+### List7 
 #### 698. Partition to K Equal Sum Subsets
 dfs. set k block to fill. iterative each index until to the last one, else return false.   
 #### 93. Restore IP Addresses
@@ -77,5 +80,18 @@ DFS try each 1 -3 combinations to add to the ip ,if k >4 return.
 DFS check each possible of the substring whether it is a palindrom, if not s , join it into the res.    
 #### 241. Different Ways to Add Parentheses
 Divide and conquer. split the st to left and right, get two array of nums, add each op into the res.   
+#### 842. Split Array into Fibonacci Sequence 
+DFS and backtracking. dfs from the start to the end ,if index == len(s) return true. fit the condition add number into array, else ,pop() and return false.  
 
-
+## 2.DP
+### List1 
+#### 70. Climbing Stairs 
+dp. pre one and two to add together.  
+#### 746. Min Cost Climbing Stairs
+dp same as 70 need to add the cost.  
+### List2
+#### 303. Range Sum Query - Immutable
+DP. use the dp array record all the sum from 0 to i.   
+### List3
+#### 53. Maximum Subarray
+Dp easy to solve, divide and conquer, split from middle, and get the left continous and right contious largest, compare with maxleft and right max.   
