@@ -10,15 +10,18 @@
 (review: 1.(10) forget the start point    
 dfs. Remember the detai target and cur sum path, to check the list from little to large.   
 #### 40. Combination Sum II
-(review 1.(3) forget the avoid repeat)   
+(review 1.(3) forget the avoid repeat)    
 dfs. Each depth need to index + 1 but still care about skip the duplicate numbers.   
 #### 77. Combinations
+(review 1.(6) early stop wrong   
 dfs. same as the combination 2 record the length, and each depth index+1.  
-#### 78. Subsets   
+#### 78. Subsets
+(review 1.(5) perfect   
 1.dfs. same as combine.but no limit in length and append each time.  
 2.bfs. look number as the layer, each layer add one number to previous all array.  
 3.recursive. same as bfs, but use the one number add the recursive with num[:-1].  
 #### 90. Subsets II
+(review 1(3) perfect  
 dfs. Only thing need to care is the duplicate skip.
 #### 216. Combination Sum III
 dfs. Thing need to care is the length k, decide k first and then target.   
@@ -95,3 +98,14 @@ DP. use the dp array record all the sum from 0 to i.
 ### List3
 #### 53. Maximum Subarray
 Dp easy to solve, divide and conquer, split from middle, and get the left continous and right contious largest, compare with maxleft and right max.   
+#### 121. Best Time to Buy and Sell Stock
+dp  always save the maxprofit, and find the minvalue use the price to minus the min to compare the max value.   
+### List4  
+#### 198. House Robber  
+dp, the dp i-1 or dp[i-2] + nums[i] larger.   
+#### 213. House Robber II
+just two dp without first or last , compare to get the larger.   
+
+#### 309. Best Time to Buy and Sell Stock with Cooldown
+Hard question three conditions, sold hold and rest, find the relationship between both of them.   
+ 
