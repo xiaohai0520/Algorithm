@@ -24,12 +24,15 @@ dfs. same as the combination 2 record the length, and each depth index+1.
 (review 1(3) perfect  
 dfs. Only thing need to care is the duplicate skip.
 #### 216. Combination Sum III
+(review 1(4) perfect 
 dfs. Thing need to care is the length k, decide k first and then target.   
     
 ### List2 
-#### 46. Permutations   
+#### 46. Permutations  
+(review 1(3) perfect
 dfs. The next depth nums need to delete the one which is added into the cur.   
 #### 47. Permutations II
+(review 1(No) not know how to avoid the duplicate.  
 dfs. The next depth nums need to delete the one which is added into the cur, and also need to care the problem of repeat.   
 #### 784. Letter Case Permutation
 1.dfs. from the start to end, when meet alpha, split into two case, when get the end, add into array.   
@@ -109,3 +112,10 @@ just two dp without first or last , compare to get the larger.
 #### 309. Best Time to Buy and Sell Stock with Cooldown
 Hard question three conditions, sold hold and rest, find the relationship between both of them.   
  
+#### 740. Delete and Earn
+same as house robber,you can think each house is the index of total number, translate into the robber style and do the dp.  
+#### 801. Minimum Swaps To Make Sequences Increasing
+two array to remember the state of swap and non swap. good question. 
+
+#### 139. Word Break
+dp to record the boolean of each index   
