@@ -35,16 +35,20 @@ dfs. The next depth nums need to delete the one which is added into the cur.
 (review 1(No) not know how to avoid the duplicate.  
 dfs. The next depth nums need to delete the one which is added into the cur, and also need to care the problem of repeat.   
 #### 784. Letter Case Permutation
+(review 1(No)..
 1.dfs. from the start to end, when meet alpha, split into two case, when get the end, add into array.   
 2.bfs. space to start, and iter the String, when alpha,add two case into array.replace the array. it likes two for.   
 3.Extend. put S in the array, iter it from 0 when alpha, extend the swapcase for each one.   
 #### 996. Number of Squareful Arrays
+(review 1(No) dfs need to avoid duplicate and use used array.  
 dfs Same as the permutationII just need to add an additional condition to satify the square.  
 
 ### List3  
 #### 22. Generate Parentheses
+(review 1(2) perfect)    
 backtracking. Care about the number of left and right.   
 #### 301. Remove Invalid Parentheses
+(review 1(No) count delete dfs  
 1.Force. We can find all possible to use filter to choose the valid ones.
 2.dfs. Count the left more and right more first. and use dfs to try from head to tail.   
 
@@ -90,32 +94,45 @@ Divide and conquer. split the st to left and right, get two array of nums, add e
 DFS and backtracking. dfs from the start to the end ,if index == len(s) return true. fit the condition add number into array, else ,pop() and return false.  
 
 ## 2.DP
+
 ### List1 
 #### 70. Climbing Stairs 
 dp. pre one and two to add together.  
 #### 746. Min Cost Climbing Stairs
 dp same as 70 need to add the cost.  
+
 ### List2
 #### 303. Range Sum Query - Immutable
 DP. use the dp array record all the sum from 0 to i.   
+
 ### List3
 #### 53. Maximum Subarray
 Dp easy to solve, divide and conquer, split from middle, and get the left continous and right contious largest, compare with maxleft and right max.   
 #### 121. Best Time to Buy and Sell Stock
 dp  always save the maxprofit, and find the minvalue use the price to minus the min to compare the max value.   
+
 ### List4  
 #### 198. House Robber  
 dp, the dp i-1 or dp[i-2] + nums[i] larger.   
 #### 213. House Robber II
 just two dp without first or last , compare to get the larger.   
-
 #### 309. Best Time to Buy and Sell Stock with Cooldown
 Hard question three conditions, sold hold and rest, find the relationship between both of them.   
- 
 #### 740. Delete and Earn
 same as house robber,you can think each house is the index of total number, translate into the robber style and do the dp.  
 #### 801. Minimum Swaps To Make Sequences Increasing
 two array to remember the state of swap and non swap. good question. 
 
+### List5
 #### 139. Word Break
-dp to record the boolean of each index   
+dp to record the boolean of each index  
+#### 140. Word Break II
+check can be devided and use dfs to add the word into the array.   
+
+### List6
+#### 300. Longest Increasing Subsequence
+dp record the previous nums the longest lengh if large than the length, add 1.  
+#### 673. Number of Longest Increasing Subsequence
+two dp arrays, one saves longest one and one saves longest one number.   
+
+
