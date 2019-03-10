@@ -74,7 +74,6 @@ BFS  search layer by layer, use the default dic to save the list, key is the las
 BiBFS same as BFS but use the forword and backword, if word in for in the back or back in the for it means meeting ,can combine together.    
 #### 752. Open the Lock
 BFS not forget to add a set to save the visited.   
-### 01 Matrix
 #### 542. 01 Matrix
 DFS. get the mini one but it will cost more time.   
 BFS. try to search layer by layer.   
@@ -135,4 +134,10 @@ dp record the previous nums the longest lengh if large than the length, add 1.
 #### 673. Number of Longest Increasing Subsequence
 two dp arrays, one saves longest one and one saves longest one number.   
 
+### !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!DP TO DO  
 
+## 3.TREE
+### List1
+#### 94. Binary Tree Inorder Traversal
+#### 144. Binary Tree Preorder Traversal
+#### 145. Binary Tree Postorder Traversal
