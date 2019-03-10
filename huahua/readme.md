@@ -141,3 +141,12 @@ two dp arrays, one saves longest one and one saves longest one number.
 #### 94. Binary Tree Inorder Traversal
 #### 144. Binary Tree Preorder Traversal
 #### 145. Binary Tree Postorder Traversal
+#### 589. N-ary Tree Preorder Traversal
+#### 590. N-ary Tree Postorder Traversal
+#### 572. Subtree of Another Tree
+#### 100. Same Tree
+#### 101. Symmetric Tree
+#### 104. Maximum Depth of Binary Tree
+#### 110. Balanced Binary Tree
+#### 111. Minimum Depth of Binary Tree
+#### 965. Univalued Binary Tree
