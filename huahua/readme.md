@@ -54,6 +54,7 @@ backtracking. Care about the number of left and right.
 
 ### List4 
 #### 37. Sudoku Solver  
+(review 1(NO)  solve recursive until not empty 
 check three conditions and use the dfs to sovle check one by one.   
 #### 51. N-Queens
 Also use the dfs backtracking from row to row, in each row check col and diag.   
@@ -144,9 +145,16 @@ two dp arrays, one saves longest one and one saves longest one number.
 #### 589. N-ary Tree Preorder Traversal
 #### 590. N-ary Tree Postorder Traversal
 #### 572. Subtree of Another Tree
+### List2
 #### 100. Same Tree
 #### 101. Symmetric Tree
 #### 104. Maximum Depth of Binary Tree
 #### 110. Balanced Binary Tree
 #### 111. Minimum Depth of Binary Tree
 #### 965. Univalued Binary Tree
+### List3
+#### 102. Binary Tree Level Order Traversal
+#### 107. Binary Tree Level Order Traversal II
+#### 429. N-ary Tree Level Order Traversal
+#### 872. Leaf-Similar Trees
+#### 987. Vertical Order Traversal of a Binary Tree
