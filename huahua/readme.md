@@ -158,3 +158,11 @@ two dp arrays, one saves longest one and one saves longest one number.
 #### 429. N-ary Tree Level Order Traversal
 #### 872. Leaf-Similar Trees
 #### 987. Vertical Order Traversal of a Binary Tree
+### List4
+#### 814. Binary Tree Pruning
+#### 669. Trim a Binary Search Tree
+
+### List3
+#### 112. Path Sum
+#### 113. Path Sum II
+#### 437. Path Sum III
