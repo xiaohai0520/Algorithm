@@ -57,20 +57,26 @@ backtracking. Care about the number of left and right.
 (review 1(NO)  solve recursive until not empty 
 check three conditions and use the dfs to sovle check one by one.   
 #### 51. N-Queens
+(review 1(No))  
 Also use the dfs backtracking from row to row, in each row check col and diag.   
 #### 52. N-Queens II
+(review 1(No))  
 Same as 51, just need to count the number.   
 
 ### List5 
 #### 79. Word Search
+(review 1(3) perfect)  
 use dfs to check very word[0]    
 #### 212. Word Search II
+(review 1(No) Trie tree
 Using trie tree to do the dfs search.   
 
 ### List6 
 #### 127. Word Ladder
+(review 1(5) perfect use bfs and queue.
 BFS use queue to save the word and length. Then pop left to get the tuple.  
 #### 126. Word Ladder II
+
 BFS  search layer by layer, use the default dic to save the list, key is the last word in the list, it means the path, if the word is endword, append to the res.   
 BiBFS same as BFS but use the forword and backword, if word in for in the back or back in the for it means meeting ,can combine together.    
 #### 752. Open the Lock
@@ -162,7 +168,19 @@ two dp arrays, one saves longest one and one saves longest one number.
 #### 814. Binary Tree Pruning
 #### 669. Trim a Binary Search Tree
 
-### List3
+### List5
 #### 112. Path Sum
 #### 113. Path Sum II
 #### 437. Path Sum III
+### List6
+#### 124. Binary Tree Maximum Path Sum
+dfs to iterative the tree and update the max value all the time, return max(left,right) + val   
+#### 543. Diameter of Binary Tree
+same as the previous item    
+#### 687. Longest Univalue Path
+### List7
+#### 129. Sum Root to Leaf Numbers
+bfs to save 10*layer + val   
+dfs get all number and sum together
+#### 257. Binary Tree Paths
+
