@@ -201,4 +201,10 @@ dfs get all number and sum together
 #### 508. Most Frequent Subtree Sum
 
 ### List11
-#### 
+#### 968. Binary Tree Cameras
+from the down to the up to see the node type.  (0,1,2)
+#### 979. Distribute Coins in Binary Tree
+same as the previous one. from leaf to root.   
+#### 337. House Robber III
+dp and tree. return no_choose and choose and return the larger one.   
+
