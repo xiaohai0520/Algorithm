@@ -151,6 +151,7 @@ two dp arrays, one saves longest one and one saves longest one number.
 #### 589. N-ary Tree Preorder Traversal
 #### 590. N-ary Tree Postorder Traversal
 #### 572. Subtree of Another Tree
+
 ### List2
 #### 100. Same Tree
 #### 101. Symmetric Tree
@@ -158,12 +159,14 @@ two dp arrays, one saves longest one and one saves longest one number.
 #### 110. Balanced Binary Tree
 #### 111. Minimum Depth of Binary Tree
 #### 965. Univalued Binary Tree
+
 ### List3
 #### 102. Binary Tree Level Order Traversal
 #### 107. Binary Tree Level Order Traversal II
 #### 429. N-ary Tree Level Order Traversal
 #### 872. Leaf-Similar Trees
 #### 987. Vertical Order Traversal of a Binary Tree
+
 ### List4
 #### 814. Binary Tree Pruning
 #### 669. Trim a Binary Search Tree
@@ -172,15 +175,30 @@ two dp arrays, one saves longest one and one saves longest one number.
 #### 112. Path Sum
 #### 113. Path Sum II
 #### 437. Path Sum III
+
 ### List6
 #### 124. Binary Tree Maximum Path Sum
 dfs to iterative the tree and update the max value all the time, return max(left,right) + val   
 #### 543. Diameter of Binary Tree
 same as the previous item    
 #### 687. Longest Univalue Path
+
 ### List7
 #### 129. Sum Root to Leaf Numbers
 bfs to save 10*layer + val   
 dfs get all number and sum together
 #### 257. Binary Tree Paths
 
+### List8
+#### 236. Lowest Common Ancestor of a Binary Tree
+#### 235. Lowest Common Ancestor of a Binary Search Tree
+
+### List9
+#### 449. Serialize and Deserialize BST
+#### 297. Serialize and Deserialize Binary Tree
+
+### List10
+#### 508. Most Frequent Subtree Sum
+
+### List11
+#### 
