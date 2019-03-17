@@ -208,3 +208,6 @@ same as the previous one. from leaf to root.
 #### 337. House Robber III
 dp and tree. return no_choose and choose and return the larger one.   
 
+## 4.Binary Search
+### List1
+#### 35. Search Insert Position
