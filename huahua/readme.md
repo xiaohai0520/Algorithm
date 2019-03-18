@@ -211,3 +211,9 @@ dp and tree. return no_choose and choose and return the larger one.
 ## 4.Binary Search
 ### List1
 #### 35. Search Insert Position
+#### 34. Find First and Last Position of Element in Sorted Array
+when search the right bound, mid = l + r // 2 + 1 can avoid dead loop.   
+#### 704. Binary Search
+#### 981. Time Based Key-Value Store
+use defaultdict(list) and bisect to seach the bound.   
+
