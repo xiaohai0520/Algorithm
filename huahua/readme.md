@@ -217,3 +217,9 @@ when search the right bound, mid = l + r // 2 + 1 can avoid dead loop.
 #### 981. Time Based Key-Value Store
 use defaultdict(list) and bisect to seach the bound.   
 
+### List2
+#### 33. Search in Rotated Sorted Array
+#### 81. Search in Rotated Sorted Array II
+delete duplicate first of the l and r.   
+#### 153. Find Minimum in Rotated Sorted Array
+#### 154. Find Minimum in Rotated Sorted Array II
