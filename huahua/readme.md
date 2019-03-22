@@ -225,3 +225,9 @@ use defaultdict(list) and bisect to seach the bound.
 delete duplicate first of the l and r.   
 #### 153. Find Minimum in Rotated Sorted Array
 #### 154. Find Minimum in Rotated Sorted Array II
+
+
+### List3
+#### 69. Sqrt(x)
+#### 74. Search a 2D Matrix
+think of a whole line and use the binary search.   
