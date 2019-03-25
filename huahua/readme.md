@@ -148,11 +148,17 @@ two dp arrays, one saves longest one and one saves longest one number.
 ## 3.TREE
 ### List1
 #### 94. Binary Tree Inorder Traversal
+(review sb)
 #### 144. Binary Tree Preorder Traversal
+(review 1 p  
 #### 145. Binary Tree Postorder Traversal
+(review 1 p
 #### 589. N-ary Tree Preorder Traversal
+(review 1 p
 #### 590. N-ary Tree Postorder Traversal
+(review 1 p
 #### 572. Subtree of Another Tree
+(review 1 p 
 
 ### List2
 #### 100. Same Tree
@@ -231,3 +237,6 @@ delete duplicate first of the l and r.
 #### 69. Sqrt(x)
 #### 74. Search a 2D Matrix
 think of a whole line and use the binary search.   
+#### 378. Kth Smallest Element in a Sorted Matrix
+#### 719. Find K-th Smallest Pair Distance
+#### 875. Koko Eating Bananas
