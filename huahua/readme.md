@@ -249,4 +249,4 @@ think of a whole line and use the binary search.
 #### 700. Search in a Binary Search Tree
 #### 701. Insert into a Binary Search Tree
 #### 230. Kth Smallest Element in a BST
-
+#### 99. Recover Binary Search Tree
