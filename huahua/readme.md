@@ -240,3 +240,13 @@ think of a whole line and use the binary search.
 #### 378. Kth Smallest Element in a Sorted Matrix
 #### 719. Find K-th Smallest Pair Distance
 #### 875. Koko Eating Bananas
+
+## 5.BST
+### List1
+#### 98. Validate Binary Search Tree
+#### 783. Minimum Distance Between BST Nodes
+#### 530. Minimum Absolute Difference in BST
+#### 700. Search in a Binary Search Tree
+#### 701. Insert into a Binary Search Tree
+#### 230. Kth Smallest Element in a BST
+
