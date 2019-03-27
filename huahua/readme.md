@@ -250,3 +250,9 @@ think of a whole line and use the binary search.
 #### 701. Insert into a Binary Search Tree
 #### 230. Kth Smallest Element in a BST
 #### 99. Recover Binary Search Tree
+
+### List2
+#### 108. Convert Sorted Array to Binary Search Tree
+#### 109. Convert Sorted List to Binary Search Tree
+#### 501. Find Mode in Binary Search Tree
+#### 450. Delete Node in a BST
