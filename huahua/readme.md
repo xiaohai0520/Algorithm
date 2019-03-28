@@ -262,3 +262,9 @@ think of a whole line and use the binary search.
 #### 133. Clone Graph
 #### 138. Copy List with Random Pointer
 #### 200. Number of Islands
+#### 547. Friend Circles
+#### 695. Max Area of Island
+#### 733. Flood Fill
+
+### List2
+#### 841. Keys and Rooms
