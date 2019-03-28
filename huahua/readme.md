@@ -256,3 +256,9 @@ think of a whole line and use the binary search.
 #### 109. Convert Sorted List to Binary Search Tree
 #### 501. Find Mode in Binary Search Tree
 #### 450. Delete Node in a BST
+
+## 6.Graph
+### List1
+#### 133. Clone Graph
+#### 138. Copy List with Random Pointer
+#### 200. Number of Islands
