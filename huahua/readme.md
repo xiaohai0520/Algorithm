@@ -268,3 +268,7 @@ think of a whole line and use the binary search.
 
 ### List2
 #### 841. Keys and Rooms
+#### 207. Course Schedule
+#### 210. Course Schedule II
+#### 990. Satisfiability of Equality Equations
+UNION FIND
