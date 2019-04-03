@@ -6,3 +6,6 @@
 ### 1014. Best Sightseeing Pair
 ### 1011. Capacity To Ship Packages Within D Days
 ### 1010. Pairs of Songs With Total Durations Divisible by 60
+### 1007. Minimum Domino Rotations For Equal Row
+### 1002. Find Common Characters
+### 
