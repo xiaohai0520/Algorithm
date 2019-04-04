@@ -8,4 +8,8 @@
 ### 1010. Pairs of Songs With Total Durations Divisible by 60
 ### 1007. Minimum Domino Rotations For Equal Row
 ### 1002. Find Common Characters
-### 
+### 978. Longest Turbulent Subarray
+### 974. Subarray Sums Divisible by K
+### 941. Valid Mountain Array
+### 950. Reveal Cards In Increasing Order
+### 945. Minimum Increment to Make Array Unique
