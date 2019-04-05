@@ -13,3 +13,6 @@
 ### 941. Valid Mountain Array
 ### 950. Reveal Cards In Increasing Order
 ### 945. Minimum Increment to Make Array Unique
+### 926. Flip String to Monotone Increasing
+### 969. Pancake Sorting
+### 
