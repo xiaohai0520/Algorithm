@@ -15,4 +15,8 @@
 ### 945. Minimum Increment to Make Array Unique
 ### 926. Flip String to Monotone Increasing
 ### 969. Pancake Sorting
-### 
+### 873. Length of Longest Fibonacci Subsequence
+### 867. Transpose Matrix
+### 870. Advantage Shuffle
+### 849. Maximize Distance to Closest Person
+### 840. Magic Squares In Grid
