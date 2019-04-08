@@ -21,3 +21,10 @@
 ### 849. Maximize Distance to Closest Person
 ### 840. Magic Squares In Grid
 ### 825. Friends Of Appropriate Ages
+
+## 2.Tree
+### 1022. Sum of Root To Leaf Binary Numbers
+### 1008. Construct Binary Search Tree from Preorder Traversal
+### 993. Cousins in Binary Tree
+### 988. Smallest String Starting From Leaf
+### 971. Flip Binary Tree To Match Preorder Traversal
