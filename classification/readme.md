@@ -20,3 +20,4 @@
 ### 870. Advantage Shuffle
 ### 849. Maximize Distance to Closest Person
 ### 840. Magic Squares In Grid
+### 825. Friends Of Appropriate Ages
