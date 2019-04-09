@@ -28,3 +28,7 @@
 ### 993. Cousins in Binary Tree
 ### 988. Smallest String Starting From Leaf
 ### 971. Flip Binary Tree To Match Preorder Traversal
+### 897. Increasing Order Search Tree
+### 671. Second Minimum Node In a Binary Tree
+### 270. Closest Binary Search Tree Value
+### 255. Verify Preorder Sequence in Binary Search Tree
