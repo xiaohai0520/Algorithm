@@ -32,3 +32,5 @@
 ### 671. Second Minimum Node In a Binary Tree
 ### 270. Closest Binary Search Tree Value
 ### 255. Verify Preorder Sequence in Binary Search Tree
+### 250. Count Univalue Subtrees
+### 222. Count Complete Tree Nodes
