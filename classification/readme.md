@@ -34,3 +34,6 @@
 ### 255. Verify Preorder Sequence in Binary Search Tree
 ### 250. Count Univalue Subtrees
 ### 222. Count Complete Tree Nodes
+### 889. Construct Binary Tree from Preorder and Postorder Traversal
+### 894. All Possible Full Binary Trees
+### 
