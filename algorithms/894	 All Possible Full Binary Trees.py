@@ -6,22 +6,20 @@
 #         self.right = None
 
 class Solution:
-    memo = {0:[],1:[TreeNode(0)]}
-    
-    def allPossibleFBT(self, N):
-        """
-        :type N: int
-        :rtype: List[TreeNode]
-        """
-        if N not in Solution.memo:
-            ans = []
-            for x in range(N):
-                y = N - 1 - x
-                for left in self.allPossibleFBT(x):
-                    for right in self.allPossibleFBT(y):
-                        bns = TreeNode(0)
-                        bns.left = left
-                        bns.right = right
-                        ans.append(bns)
-            Solution.memo[N] = ans
-        return Solution.memo[N]
+    def allPossibleFBT(self, N: int) -> List[TreeNode]:
+        fbts = [[] for i in range(N + 1)]
+        fbts[1] = [TreeNode(0)]
+        for i in range(2, N + 1):
+            for j in range(i):
+                leftnodes = j
+                rightnodes = i - 1 - j
+                lefttrees = fbts[leftnodes]
+                rightrees = fbts[rightnodes]
+                if lefttrees != [] and rightrees != []:
+                    for ltree in lefttrees:
+                        for rtree in rightrees:
+                            root = TreeNode(0)
+                            root.left = ltree
+                            root.right = rtree
+                            fbts[i].append(root)
+        return fbts[N]
