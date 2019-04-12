@@ -20,4 +20,12 @@
 #### Subarray Sum Equals K
 #### Binary Tree Vertical Order Traversal 
 
+### Day3
+#### 1
+#### Squares of a Sorted Array
+#### Custom Sort String
 
+#### 2
+#### Valid Palindrome
+#### Valid Palindrome II
+#### Expression Add Operators
