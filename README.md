@@ -9,4 +9,5 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1024|[Satisfiability of Equality Equations](https://leetcode.com/problems/video-stitching/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1024.%20Video%20Stitching.py)|Medium|
-|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Python](./algorithms/cpp/satisfiabilityOfEqualityEquations/SatisfiabilityOfEqualityEquations.cpp)|Medium|
+|1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1023.%20Camelcase%20Matching.py)|Medium|
+|1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)|Easy|
