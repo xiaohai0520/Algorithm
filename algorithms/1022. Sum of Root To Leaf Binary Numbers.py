@@ -1,3 +1,13 @@
+This is a dfs problem.
+
+From the root to the leaf, each layer we need to use the result * 2 and add the value of this node.
+
+Start from the 0 at the root of the tree.
+
+if not root, we do not need to add anything we just need to add number at the leaf.
+
+
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
