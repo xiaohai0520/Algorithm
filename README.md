@@ -6,9 +6,9 @@ LeetCode
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 
-| # | Title | Solution | Difficulty |
+| # |   Title   | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/video-stitching/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1.%20two%20sum.py)|Medium|
+|1024|[Satisfiability of Equality Equations](https://leetcode.com/problems/video-stitching/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1024.%20Video%20Stitching.py)|Medium|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Python](./algorithms/cpp/satisfiabilityOfEqualityEquations/SatisfiabilityOfEqualityEquations.cpp)|Medium|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [C++](./algorithms/cpp/addToArrayFormOfInteger/AddToArrayFormOfInteger.cpp)|Easy|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [C++](./algorithms/cpp/smallestStringStartingFromLeaf/SmallestStringStartingFromLeaf.cpp)|Medium|
