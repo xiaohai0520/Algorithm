@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Classification |
 |---| ----- | -------- | ---------- | -------------- |
+|1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.py)|TREE|Hard|
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1027.%20Longest%20Arithmetic%20Sequence.py)|DP|Medium|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1026.Maximum%20Difference%20Between%20Node%20and%20Ancestor.py)|DFS TREE|Medium|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1025.%20Divisor%20Game.py)|DP|Easy|
