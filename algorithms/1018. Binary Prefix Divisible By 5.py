@@ -1,3 +1,13 @@
+This is a dp problem.
+
+We want the number divide by 5 and we just need to check the remainder sum. if the reminder sum if divided by 5
+
+So we just need to dp the remainder in the array.
+
+
+
+
+code:
 class Solution:
     def prefixesDivBy5(self, A: List[int]) -> List[bool]:
         # if not A:
