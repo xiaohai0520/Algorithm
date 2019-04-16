@@ -1,26 +1,28 @@
+This is a greedy problem.
+
+We want to split as many parts as possible.
+
+So we only need to save the last index of each each.
+
+iterate the S and each time we find the largest end.
+
+If the index == end. we think no more char should be included
+
+
+
+Code:
+    
 class Solution:
-    def partitionLabels(self, S: 'str') -> 'List[int]':
-        last = {c: i for i, c in enumerate(S)}
+    def partitionLabels(self, S: str) -> List[int]:
+        dic = {}
+        for i,c in enumerate(S):
+            dic[c] = i
+        res = []
         
-        # This stores the partitions. Each partition has 2 components: start index and end index
-        result = [ [0, last[S[0]]] ]
-
-        for ch_curr_i, c in enumerate(S):
-            if ch_curr_i == 0:
-                continue
-
-            partition_start, partition_end = result[-1]
-            ch_last_i = last[c]
-
-            if ch_last_i <= partition_end:
-                continue
-            
-
-            if ch_curr_i > partition_end and ch_last_i > partition_end:
-                result.append([ch_curr_i, ch_last_i])
-                
-
-            if partition_start <= ch_curr_i <= partition_end and ch_last_i > partition_end:
-                result[-1][1] = ch_last_i
-
-        return [r[1]-r[0]+1 for r in result]
+        start = end = 0
+        for i,c in enumerate(S):
+            end = max(end,dic[c])
+            if i == end:
+                res.append(end-start+1)
+                start = end + 1
+        return res
