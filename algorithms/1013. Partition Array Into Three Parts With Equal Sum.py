@@ -1,3 +1,10 @@
+Array problem.
+
+We just need to make sure if can be divided by 3
+
+Then try to iterate the array and find the three part.
+
+Code:
 class Solution:
     def canThreePartsEqualSum(self, A: List[int]) -> bool:
         if not A:
