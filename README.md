@@ -23,6 +23,14 @@ LeetCode
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1015.%20Smallest%20Integer%20Divisible%20by%20K.py)|Math|Medium|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1014.%20Best%20Sightseeing%20Pair.py)|DP|Medium|
 |1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py)|Array|Easy|
+|1012|[Numbers With Repeated Digits]| [Python]|DP|Hard|
+|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.py)|Binary Search|Medium|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py)|Array|Easy|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/ | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1009.%20Complement%20of%20Base%2010%20Integer.py)|Bit|Easy|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.py)|Tree|Medium|
+|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.py)|Array|Medium|
+
+
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/796.%20Rotate%20String.py)|String|Easy|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/836.%20Rectangle%20Overlap.py)|Math|Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/763.%20Partition%20Labels.py)|Greedy|Medium|
