@@ -31,8 +31,7 @@ LeetCode
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.py)|Array|Medium|
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1006.%20Clumsy%20Factorial.py)|Math|Medium|
 |1005|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1006.%20Clumsy%20Factorial.py)|Math|Medium|
-
-
+|1004|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py)|Math|Medium|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/796.%20Rotate%20String.py)|String|Easy|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/836.%20Rectangle%20Overlap.py)|Math|Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/763.%20Partition%20Labels.py)|Greedy|Medium|
