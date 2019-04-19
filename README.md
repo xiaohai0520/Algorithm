@@ -38,6 +38,7 @@ LeetCode
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/998.%20Maximum%20Binary%20Tree%20II.py)|Tree|Medium|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/997.%20Find%20the%20Town%20Judge.py)|Graph|Easy|
 |996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/996.%20Number%20of%20Squareful%20Arrays.py)|DFS Math|Hard|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/994.%20Rotting%20Oranges.py)|BFS|Medium|
 
 
 
