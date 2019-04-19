@@ -32,6 +32,21 @@ LeetCode
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1006.%20Clumsy%20Factorial.py)|Math|Medium|
 |1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py)|Math|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1004.%20Max%20Consecutive%20Ones%20III.py)|Window Sliding|Medium|
+|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.py)|Stack|Medium|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1002.%20Find%20Common%20Characters.py)|Map|Easy|
+|999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/999.%20Available%20Captures%20for%20Rook.py)|Array|Easy|
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/998.%20Maximum%20Binary%20Tree%20II.py)|Tree|Medium|
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/997.%20Find%20the%20Town%20Judge.py)|Graph|Easy|
+|996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/996.%20Number%20of%20Squareful%20Arrays.py)|DFS Math|Hard|
+
+
+
+
+
+
+
+
+
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/796.%20Rotate%20String.py)|String|Easy|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/836.%20Rectangle%20Overlap.py)|Math|Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/763.%20Partition%20Labels.py)|Greedy|Medium|
