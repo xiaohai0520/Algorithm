@@ -1,3 +1,11 @@
+Hash table problem,
+
+Use the map to save the number of char in the first world.
+
+For each char, we go to get the min val in all the words.
+
+Code:
+
 class Solution:
     def commonChars(self, A: List[str]) -> List[str]:
         if not A:
