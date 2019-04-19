@@ -1,22 +1,51 @@
+This is a dfs and graph and math problem.
+
+We need to sort the array first to delete the duplicate.
+
+Then think it is a dfs problme, try to dfs the next pair which sum is a perfect square.
+
+
+Code:
+    
+import math
+
 class Solution:
     def numSquarefulPerms(self, A: List[int]) -> int:
-        if not A:
-            return 0
         A.sort()
-        used = [False]*len(A)
         self.res = 0
-        self.helper(A,[],used)
+        
+        
+        
+               
+        def check(integer):
+            root = int(math.sqrt(integer))
+            if root ** 2 == integer: 
+                return True
+            else:
+                return False
+        
+        def dfs(pre,nums):
+            if not nums:
+                self.res += 1
+                return
+            for i in range(len(nums)):
+                if i > 0 and nums[i] == nums[i-1]:
+                    continue
+                cur = pre + nums[i]
+                if check(cur):
+                    dfs(nums[i],nums[:i]+nums[i+1:])
+         
+        
+
+        
+        
+        for i in range(len(A)):
+            if i > 0 and A[i] == A[i-1]:
+                continue
+            pre = A[i]
+            dfs(pre,A[:i]+A[i+1:])
+        
+        
         return self.res
     
-    def helper(self,A,path,used):
-        if len(path) == len(A):
-            self.res += 1
-            return
-        for i in range(len(A)):
-            if used[i] or( i > 0 and not used[i-1] and A[i] == A[i-1]):
-                continue
-            if not path or math.sqrt(path[-1] + A[i])%1 == 0:
-                used[i] = True
-                self.helper(A,path+[A[i]],used)
-                used[i] = False
-                
+        
