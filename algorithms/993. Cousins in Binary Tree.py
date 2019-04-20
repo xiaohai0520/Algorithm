@@ -1,3 +1,12 @@
+This is a tree dfs or bfs problem.
+
+we can solve it in recursive or iterative.
+
+return parent and depth every time.
+
+
+code:
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
