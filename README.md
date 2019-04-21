@@ -5,7 +5,7 @@ LeetCode
 
 
 
-| # | Title | Solution | Difficulty | Classification |
+| # | Title | Solution | Classification | Difficulty |
 |---| ----- | -------- | ---------- | -------------- |
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.py)|TREE|Hard|
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1027.%20Longest%20Arithmetic%20Sequence.py)|DP|Medium|
