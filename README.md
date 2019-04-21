@@ -39,6 +39,16 @@ LeetCode
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/997.%20Find%20the%20Town%20Judge.py)|Graph|Easy|
 |996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/996.%20Number%20of%20Squareful%20Arrays.py)|DFS Math|Hard|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/994.%20Rotting%20Oranges.py)|BFS|Medium|
+|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/993.%20Cousins%20in%20Binary%20Tree.py)|Tree|Easy|
+|991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/991.%20Broken%20Calculator.py)|Greedy|Medium|
+|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/990.%20Satisfiability%20of%20Equality%20Equations.py)|Union Find|Medium|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/989.%20Add%20to%20Array-Form%20of%20Integer.py)|Array|Easy|
+|988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/988.%20Smallest%20String%20Starting%20From%20Leaf.py)|Tree|Medium|
+|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.py)|Tree|Medium|
+|986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/986.%20Interval%20List%20Intersections.py)|Two Pointers|Medium|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.py)|Math|Easy|
+
+
 
 
 
