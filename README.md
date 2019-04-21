@@ -7,6 +7,9 @@ LeetCode
 
 | # | Title | Solution | Classification | Difficulty |
 |---| ----- | -------- | ---------- | -------------- |
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.py)|DP|Medium|
+|1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1030.%20Matrix%20Cells%20in%20Distance%20Order.py)|Array|Easy|
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1029.%20Two%20City%20Scheduling.py)|Greedy|Easy|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.py)|TREE|Hard|
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1027.%20Longest%20Arithmetic%20Sequence.py)|DP|Medium|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1026.Maximum%20Difference%20Between%20Node%20and%20Ancestor.py)|DFS TREE|Medium|
@@ -47,6 +50,8 @@ LeetCode
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.py)|Tree|Medium|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/986.%20Interval%20List%20Intersections.py)|Two Pointers|Medium|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.py)|Math|Easy|
+|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/984.%20String%20Without%20AAA%20or%20BBB.py)|Greedy|Medium|
+|983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/983.%20Minimum%20Cost%20For%20Tickets.py)|DP|Medium|
 
 
 
