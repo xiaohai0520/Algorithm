@@ -1,3 +1,15 @@
+This is a tree problem.
+
+We use the from the down to the top.
+
+base condition is if not root: return 0
+
+other return the number we need 
+
+each step the res need to add the needed number.
+
+
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
