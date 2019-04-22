@@ -52,7 +52,13 @@ LeetCode
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.py)|Math|Easy|
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/984.%20String%20Without%20AAA%20or%20BBB.py)|Greedy|Medium|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/983.%20Minimum%20Cost%20For%20Tickets.py)|DP|Medium|
-
+|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/981.%20Time%20Based%20Key-Value%20Store.py)|Binary Search|Medium|
+|979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/979.%20Distribute%20Coins%20in%20Binary%20Tree.py)|Tree|Medium|
+|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/978.%20Longest%20Turbulent%20Subarray.py)|DP|Medium|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/977.%20Squares%20of%20a%20Sorted%20Array.py)|Math|Easy|
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/976.%20Largest%20Perimeter%20Triangle.py)|Greedy|Easy|
+|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/974.%20Subarray%20Sums%20Divisible%20by%20K.py)|Array|Medium|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/973.%20K%20Closest%20Points%20to%20Origin.py)|Heap|Medium|
 
 
 
