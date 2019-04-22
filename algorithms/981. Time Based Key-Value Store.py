@@ -1,3 +1,9 @@
+This is a binary search problem.
+
+When we see the order sequence and search the one. We should use the binary search.
+
+
+
 class TimeMap(object):
 
     def __init__(self):
