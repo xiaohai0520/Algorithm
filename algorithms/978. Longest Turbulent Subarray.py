@@ -1,3 +1,13 @@
+This is a dp problem.
+
+each time we update a new index,  make sure whether satisify the rule.
+
+IF satisify, we can dp + 1
+
+else if only not equal  dp = 2
+
+Code:
+    
 class Solution:
     def maxTurbulenceSize(self, A: List[int]) -> int:
         dp = [1] * len(A)
