@@ -59,6 +59,21 @@ LeetCode
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/976.%20Largest%20Perimeter%20Triangle.py)|Greedy|Easy|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/974.%20Subarray%20Sums%20Divisible%20by%20K.py)|Array|Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/973.%20K%20Closest%20Points%20to%20Origin.py)|Heap|Medium|
+|971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/971.%20Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.py)|Tree|Medium|
+|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/970.%20Powerful%20Integers.py)|DFS|Easy|
+|969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/969.%20Pancake%20Sorting.py)|Array|Medium|
+|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/968.%20Binary%20Tree%20Cameras.py)|Tree|Hard|
+|967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/967.%20Numbers%20With%20Same%20Consecutive%20Differences.py)|DFS|Medium|
+|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/965.%20Univalued%20Binary%20Tree.py)|DFS|Easy|
+|963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/963.%20Minimum%20Area%20Rectangle%20II.py)|Math|Medium|
+|962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/962.%20Maximum%20Width%20Ramp.py)|Stack|Medium|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py)|Math|Easy|
+
+
+
+
+
+
 
 
 
