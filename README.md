@@ -68,6 +68,15 @@ LeetCode
 |963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/963.%20Minimum%20Area%20Rectangle%20II.py)|Math|Medium|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/962.%20Maximum%20Width%20Ramp.py)|Stack|Medium|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py)|Math|Easy|
+|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py)|Tree|Medium|
+|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/957.%20Prison%20Cells%20After%20N%20Days.py)|Map|Medium|
+|955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/955.%20Delete%20Columns%20to%20Make%20Sorted%20II.py)|Greedy|Medium|
+|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/954.%20Array%20of%20Doubled%20Pairs.py)|Map|Medium|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/953.%20Verifying%20an%20Alien%20Dictionary.py)|Map|Easy|
+|951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/951.%20Flip%20Equivalent%20Binary%20Trees.py)|Tree|Medium|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/950.%20Reveal%20Cards%20In%20Increasing%20Order.py)|Array|Medium|
+|949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/949.%20Largest%20Time%20for%20Given%20Digits.py)|Math|Easy|
+
 
 
 
