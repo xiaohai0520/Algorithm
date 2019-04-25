@@ -76,9 +76,13 @@ LeetCode
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/951.%20Flip%20Equivalent%20Binary%20Trees.py)|Tree|Medium|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/950.%20Reveal%20Cards%20In%20Increasing%20Order.py)|Array|Medium|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/949.%20Largest%20Time%20for%20Given%20Digits.py)|Math|Easy|
-
-
-
+|948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/948.%20Bag%20of%20Tokens.py)|Greedy|Medium|
+|947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.py)|Union Find|Medium|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/946.%20Validate%20Stack%20Sequences.py)|Stack|Medium|
+|945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/945.%20Minimum%20Increment%20to%20Make%20Array%20Unique.py)|Array|Medium|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted.py)|Greedy|Easy|
+|942|[DI String Match](https://leetcode.com/problems/di-string-match/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/942.%20DI%20String%20Match.py)|Math|Easy|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/941.%20Valid%20Mountain%20Array.py)|Array|Easy|
 
 
 
