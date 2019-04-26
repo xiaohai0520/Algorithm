@@ -83,6 +83,10 @@ LeetCode
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted.py)|Greedy|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/942.%20DI%20String%20Match.py)|Math|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/941.%20Valid%20Mountain%20Array.py)|Array|Easy|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/938.%20Range%20Sum%20of%20BST.py)|Tree|Easy|
+|937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/937.%20Reorder%20Log%20Files.py)|Array|Easy|
+
+
 
 
 
