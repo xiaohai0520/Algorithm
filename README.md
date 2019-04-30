@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Classification | Difficulty |
 |---| ----- | -------- | ---------- | -------------- |
+|1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1033.%20Moving%20Stones%20Until%20Consecutive.py)|Math|Easy|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.py)|DP|Medium|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1030.%20Matrix%20Cells%20in%20Distance%20Order.py)|Array|Easy|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/1029.%20Two%20City%20Scheduling.py)|Greedy|Easy|
@@ -85,6 +86,7 @@ LeetCode
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/941.%20Valid%20Mountain%20Array.py)|Array|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/938.%20Range%20Sum%20of%20BST.py)|Tree|Easy|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/937.%20Reorder%20Log%20Files.py)|Array|Easy|
+|934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)| [Python](https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/934.%20Shortest%20Bridge.py)|DFS+BFS|Medium|
 
 
 
