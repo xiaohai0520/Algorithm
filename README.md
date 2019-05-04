@@ -35,16 +35,16 @@ LeetCode
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|√|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|×|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
-|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|×|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|×|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|√|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|×|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|×|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|√|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|×|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|√|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|√|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|
