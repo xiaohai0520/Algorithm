@@ -55,8 +55,8 @@ LeetCode
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|×|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|√|
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)|×|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)|
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|×|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|×|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|
