@@ -89,12 +89,12 @@ LeetCode
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|×|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|√|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|×|
-|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|
-|86|[Partition List](https://leetcode.com/problems/partition-list/)|
-|87|[Scramble String](https://leetcode.com/problems/scramble-string/)|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|×|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|√|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/)|×|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|√|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|√|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|
