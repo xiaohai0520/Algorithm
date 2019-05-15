@@ -95,10 +95,10 @@ LeetCode
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|√|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|√|
-|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|
-|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|
-|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|×|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|√|
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|×|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|×|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|
