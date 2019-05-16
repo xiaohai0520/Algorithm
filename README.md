@@ -98,17 +98,17 @@ LeetCode
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|×|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|√|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|×|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|×|
-|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|
-|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|
-|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|
-|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
-|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|√|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|×|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|×|
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|×|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|√|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|×|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|√|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|√|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|√|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|√|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|√|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|
