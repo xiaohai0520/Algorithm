@@ -118,7 +118,7 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|√|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|×|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|√|
-|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|×|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|
