@@ -18,3 +18,6 @@ class Solution:
                 if degree[c] == 0:
                     queue.append(c)
         return path if len(path) == numCourses else []
+
+    
+    
