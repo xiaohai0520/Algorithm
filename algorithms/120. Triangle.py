@@ -18,8 +18,8 @@ class Solution(object):
         #             triangle[i][j] += min(triangle[i-1][j],triangle[i-1][j-1])
         # return min(triangle[-1])
             
-        f = [0] * (len(triangle) + 1)
+        res = [0] * (len(triangle) + 1)
         for row in triangle[::-1]:
             for i in xrange(len(row)):
-                f[i] = row[i] + min(f[i], f[i + 1])
-        return f[0]
+                res[i] = row[i] + min(res[i], res[i + 1])
+        return res[0]
