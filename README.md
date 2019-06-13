@@ -138,11 +138,11 @@ LeetCode
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|×|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|×|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|×|
-|134|[Gas Station](https://leetcode.com/problems/gas-station/)|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)|×|
 |135|[Candy](https://leetcode.com/problems/candy/)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|√|
-|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|
-|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|√|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|√|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|
