@@ -186,7 +186,7 @@ LeetCode
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|
-|198|[House Robber](https://leetcode.com/problems/house-robber/)|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|×|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
@@ -240,6 +240,7 @@ LeetCode
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|×|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) |
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  |
