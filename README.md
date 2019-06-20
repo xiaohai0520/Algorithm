@@ -173,7 +173,7 @@ LeetCode
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; |
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |
-|169|[Majority Element](https://leetcode.com/problems/majority-element/) |
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) |√|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; |
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |
@@ -253,7 +253,7 @@ LeetCode
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  |
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |
-|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  |
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  |√|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  |
