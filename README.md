@@ -231,6 +231,7 @@ LeetCode
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|√|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|
@@ -238,8 +239,8 @@ LeetCode
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|
-|274|[H-Index](https://leetcode.com/problems/h-index/)|
-|275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|
+|274|[H-Index](https://leetcode.com/problems/h-index/)|×|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|×|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|×|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) |
