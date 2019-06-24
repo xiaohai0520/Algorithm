@@ -205,7 +205,7 @@ LeetCode
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|√|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|
@@ -232,6 +232,8 @@ LeetCode
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|√|
+|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|√|
+|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|√|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|
