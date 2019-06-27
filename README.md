@@ -281,7 +281,7 @@ LeetCode
 |330|[Patching Array](https://leetcode.com/problems/patching-array/) |
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |
-|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |×|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) |
