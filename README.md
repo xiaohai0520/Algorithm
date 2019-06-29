@@ -168,7 +168,7 @@ LeetCode
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts; |
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) |
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; |
-|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) |
+|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) |×|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) |
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; |
@@ -250,7 +250,7 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  |
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; |
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |×|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) |
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) |
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  |
