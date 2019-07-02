@@ -197,7 +197,7 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|
-|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|×|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|
@@ -226,7 +226,7 @@ LeetCode
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|√|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|×|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|
@@ -276,6 +276,7 @@ LeetCode
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) |
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) |
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) |
+|325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) |×|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) |
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) |
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) |
