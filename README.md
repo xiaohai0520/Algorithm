@@ -156,7 +156,7 @@ LeetCode
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|
-|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|×|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|
@@ -167,7 +167,7 @@ LeetCode
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts; |
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) |
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; |
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; |×|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) |×|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) |
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |
@@ -216,7 +216,7 @@ LeetCode
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|√|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) |
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|
