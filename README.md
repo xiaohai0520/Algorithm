@@ -276,7 +276,7 @@ LeetCode
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) |
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) |
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) |
-|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) |
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) |×|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) |×|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) |
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) |
@@ -300,7 +300,7 @@ LeetCode
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) |
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) |
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |
-|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |×|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) |
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |
