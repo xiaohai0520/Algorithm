@@ -236,7 +236,7 @@ LeetCode
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|√|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|√|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|×|
-|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|√|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|
@@ -259,6 +259,7 @@ LeetCode
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  |
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |×|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |
+|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)  |√|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  |√|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) |
