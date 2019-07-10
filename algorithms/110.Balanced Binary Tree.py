@@ -21,3 +21,16 @@ class Solution:
             return 0
 
         return 1 + max(self.getHeight(root.left), self.getHeight(root.right))
+  
+
+
+class Solution:
+    def isBalanced(self, root: TreeNode) -> bool:
+        return self.recurs(root)[1]
+    
+    def recurs(self, node):
+        if not node:
+            return 0, True
+        lHeight, lBalanced = self.recurs(node.left)
+        rHeight, rBalanced = self.recurs(node.right)
+        return max(lHeight, rHeight) + 1, lBalanced and rBalanced and abs(lHeight - rHeight) <= 1
