@@ -300,6 +300,7 @@ LeetCode
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) |
+|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) |×|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) |
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |×|
