@@ -177,7 +177,7 @@ LeetCode
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; |
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |
-|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |×|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) |
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) |
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; |
@@ -218,13 +218,13 @@ LeetCode
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|√|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) |
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|√|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|√|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|√|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|√|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|×|
@@ -259,7 +259,7 @@ LeetCode
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) |
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  |
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |×|
-|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |×|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)  |√|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  |√|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |
