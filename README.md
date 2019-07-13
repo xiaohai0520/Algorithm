@@ -244,6 +244,7 @@ LeetCode
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|×|
+|272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|×|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|×|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|×|
@@ -273,6 +274,7 @@ LeetCode
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) |
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/) |
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) |
+|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) |×|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) |
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) |
