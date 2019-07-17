@@ -253,7 +253,7 @@ LeetCode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) |
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |×|
-|282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  |
+|282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  |×|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  |
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; |
@@ -280,6 +280,7 @@ LeetCode
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) |
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) |
+|320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |×|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) |
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) |
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) |×|
