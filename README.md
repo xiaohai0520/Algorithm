@@ -204,7 +204,7 @@ LeetCode
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
-|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|×|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|√|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|√|
