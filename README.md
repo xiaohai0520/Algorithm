@@ -237,6 +237,7 @@ LeetCode
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) &hearts;|×|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|√|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|×|
+|254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|×|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|√|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|
