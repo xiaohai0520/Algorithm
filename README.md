@@ -238,11 +238,13 @@ LeetCode
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|√|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|×|
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|×|
+|256|[Paint House](https://leetcode.com/problems/paint-house/)|×|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|√|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|
+|265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|×|
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|×|
@@ -282,7 +284,7 @@ LeetCode
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) |
 |320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |×|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) |
-|322|[Coin Change](https://leetcode.com/problems/coin-change/) |
+|322|[Coin Change](https://leetcode.com/problems/coin-change/) |×|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) |×|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) |×|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) |
