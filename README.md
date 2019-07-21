@@ -201,7 +201,7 @@ LeetCode
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|
-|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|×| 
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|×|
@@ -251,6 +251,7 @@ LeetCode
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|×|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|×|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|×|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|×|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) |×|
