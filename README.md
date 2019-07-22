@@ -290,7 +290,7 @@ LeetCode
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) |×|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) |
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) |
-|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) |
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) |×|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) |
 |330|[Patching Array](https://leetcode.com/problems/patching-array/) |
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
