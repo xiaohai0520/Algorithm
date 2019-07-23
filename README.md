@@ -146,13 +146,13 @@ LeetCode
 |139|[Word Break](https://leetcode.com/problems/word-break/)|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|
-|143|[Reorder List](https://leetcode.com/problems/reorder-list/)|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|√|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)|×|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|√|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|×|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|
-|148|[Sort List](https://leetcode.com/problems/sort-list/)|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|√|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|
@@ -164,7 +164,7 @@ LeetCode
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) &hearts; |
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; |
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; |
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |√|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts; |
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) |
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; |×|
@@ -222,7 +222,7 @@ LeetCode
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|√|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|√|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|√|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|
