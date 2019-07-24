@@ -253,7 +253,7 @@ LeetCode
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|×|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|×|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|×|
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|√|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) |×|
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |×|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  |×|
