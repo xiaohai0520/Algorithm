@@ -166,7 +166,7 @@ LeetCode
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; |
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |√|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts; |
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) |
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) |×|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; |×|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) |×|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) |
@@ -268,7 +268,7 @@ LeetCode
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |×|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)  |√|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  |√|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |×|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  |
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) |
@@ -311,6 +311,7 @@ LeetCode
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) |×|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) |
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |√|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) |×|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |×|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) |
