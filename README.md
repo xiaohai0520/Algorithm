@@ -188,7 +188,7 @@ LeetCode
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|×|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|
-|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|√|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|
@@ -260,6 +260,7 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  |
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; |
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/) &hearts; |×|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |×|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) |
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) |
