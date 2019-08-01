@@ -335,7 +335,7 @@ LeetCode
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/) |
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/) |
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) |
-|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/) |
+|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/) |×|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/) |
 
 
