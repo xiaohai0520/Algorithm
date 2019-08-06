@@ -18,9 +18,9 @@ LeetCode
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|√|√|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|×|√|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|√|√|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|√|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|√|√|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|√|√|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|×|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|×|√|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|√|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|×|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|√|
