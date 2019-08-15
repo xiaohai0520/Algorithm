@@ -30,10 +30,10 @@ LeetCode
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|√|√|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|√|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|×|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|√|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|√|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|√|
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|×|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|√|√|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|√|√|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|√|√|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|×|√|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|×|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|×|
