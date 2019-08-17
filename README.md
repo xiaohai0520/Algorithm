@@ -46,15 +46,15 @@ LeetCode
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|√|√|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|√|√|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|×|√|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|×|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|×|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|×|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|×|
-|46|[Permutations](https://leetcode.com/problems/permutations/)|√|
-|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|√|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|×|
-|49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|√|
-|50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)|×|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|×|√|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|×|×|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|×|×|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|×|×|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|√|√|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|√|√|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|×|×|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|√|√|
+|50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)|×|√|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|×|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|×|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|√|
