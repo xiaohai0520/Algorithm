@@ -81,14 +81,14 @@ LeetCode
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|×|√|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|√|√|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|×|×|
-|77|[Combinations](https://leetcode.com/problems/combinations/)|√|
-|78|[Subsets](https://leetcode.com/problems/subsets/)|√|
-|79|[Word Search](https://leetcode.com/problems/word-search/)|√|
-|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|√|
-|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|×|
-|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|×|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|√|
-|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|×|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|√|√|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|√|√|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|√|√|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|√|√|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|×|√|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|×|√|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|√|√|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|×|×|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|×|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|√|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)|×|
