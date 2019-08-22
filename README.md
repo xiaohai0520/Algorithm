@@ -73,14 +73,14 @@ LeetCode
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|√|√|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|√|√|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|√|×|
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|√|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|√|
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|×|
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|×|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|√|√|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|√|√|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|×|√|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|×|×|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|×|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|×|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|√|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|×|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|×|√|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|√|√|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|×|×|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|√|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|√|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|√|
