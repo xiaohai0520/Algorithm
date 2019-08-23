@@ -119,12 +119,12 @@ LeetCode
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|×|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|√|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|×|
-|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|
-|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|×|
-|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|×|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|×|×|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|×|√|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|×|√|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|√|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|√|
-|120|[Triangle](https://leetcode.com/problems/triangle/)|×|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|×|×|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|√|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|√|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|×|
