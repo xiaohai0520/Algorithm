@@ -150,7 +150,7 @@ LeetCode
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|×|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|√|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|×|√|
-|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)×||%|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|×|%|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|√|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|×|×|
