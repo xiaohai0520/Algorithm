@@ -134,27 +134,27 @@ LeetCode
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|√|√|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|×|×|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|√|
-|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|√|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|√|√|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|×|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|×|
-|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|×|
-|134|[Gas Station](https://leetcode.com/problems/gas-station/)|×|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|×|√|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)|×|×|
 |135|[Candy](https://leetcode.com/problems/candy/)|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|√|
-|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|√|
-|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|√|
-|139|[Word Break](https://leetcode.com/problems/word-break/)|
-|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|√|√|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|√|√|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|√|√|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|×|%|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|×|×|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|√|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|√|%|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|×|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|√|
-|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|×|
-|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|×|√|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)×||%|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|√|
-|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|
-|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|×|×|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|√|√|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|×|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
