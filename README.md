@@ -157,27 +157,27 @@ LeetCode
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|√|√|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|×|
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
-|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|
-|155|[Min Stack](https://leetcode.com/problems/min-stack/)|
-|156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) &hearts; |
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|×|%|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|×|%|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|√|√|
+|156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) &hearts; |×|%|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) &hearts; |
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; |
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; |
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |√|
-|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts; |
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) |×|
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; |×|
+|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts; |×|×|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) |×|%|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; |×|×|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) |×|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) |
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; |
-|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |
-|169|[Majority Element](https://leetcode.com/problems/majority-element/) |√|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |%|%|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) |√|√|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; |
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |√|√|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |
-|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |×|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |×|√|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) |
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) |
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; |
