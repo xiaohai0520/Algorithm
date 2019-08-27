@@ -180,15 +180,15 @@ LeetCode
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |×|√|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) |
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) |
-|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; |
-|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|
-|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|
-|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|
-|198|[House Robber](https://leetcode.com/problems/house-robber/)|×|
-|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|
-|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|√|
+|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; |×|×|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|√|√|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|×|×|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|√|√|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|√|%|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|√|√|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|×|√|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|√|√|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|√|√|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|
