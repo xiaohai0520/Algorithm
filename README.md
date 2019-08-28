@@ -189,16 +189,16 @@ LeetCode
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|×|√|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|√|√|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|√|√|
-|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
-|202|[Happy Number](https://leetcode.com/problems/happy-number/)|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|×|×|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|√|√|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)|
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|
-|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|
-|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|×|
-|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|√|√|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|√|√|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|√|√|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|×|×|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|×|√|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|×|%|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|×|%|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|×| 
