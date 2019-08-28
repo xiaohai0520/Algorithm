@@ -1,19 +1,22 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        graph = {n:[] for n in range(numCourses)} 
-        for i,j in prerequisites:
-            graph[i].append(j)
-            
-        for n in range(numCourses):
-            stack = graph[n]
-            visited = set()
-            while stack:
-                course = stack.pop()
-                visited.add(course)
-                if course == n:
-                    return False
-                for c in graph[course]:
-                    if c not in visited:
-                        stack.append(c)
-        return True
+        from collections import deque
+        ind = [[] for _ in range(numCourses)]  # indegree
+        oud = [0] * numCourses  # outdegree
+        for p in prerequisites:
+            oud[p[0]] += 1
+            ind[p[1]].append(p[0])
+        dq = deque()
+        for i in range(numCourses):
+            if oud[i] == 0:
+                dq.append(i)
+        k = 0
+        while dq:
+            x = dq.popleft()
+            k += 1
+            for i in ind[x]:
+                oud[i] -= 1
+                if oud[i] == 0:
+                    dq.append(i)
+        return k == numCourses
             
