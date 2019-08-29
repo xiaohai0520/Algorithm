@@ -200,14 +200,14 @@ LeetCode
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|×|%|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|×|%|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|
-|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|
-|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|×| 
-|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
-|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|×|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|√|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|×|%|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|×|%|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|×|×|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|%|√|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|×|√|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|√|√|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|
-|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|√|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|√|√|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|×|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|
