@@ -229,12 +229,15 @@ LeetCode
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|√|√|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|×|×|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|×|%|
-|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|
-|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|√|
-|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|√|
-|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|√|
-|250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) &hearts;|×|
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|×|%|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|√|√|
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|√|√|
+|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|√|%|
+|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|√|%|
+|246|[Strobogrammatic Number](https://leetcode.com/problems/shortest-word-distance-iii/)|√|√|
+|247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|%|%|
+|249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|×|%|
+|250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) &hearts;|×|%|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|√|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|×|
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|×|
