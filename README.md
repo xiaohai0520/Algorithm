@@ -238,13 +238,13 @@ LeetCode
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|%|%|
 |249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|×|%|
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) &hearts;|×|%|
-|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|√|
-|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|×|
-|254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|×|
-|256|[Paint House](https://leetcode.com/problems/paint-house/)|×|
-|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|√|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/)|
-|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|
+|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|√|√|
+|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|×|√|
+|254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|×|×|
+|256|[Paint House](https://leetcode.com/problems/paint-house/)|×|√|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|√|√|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|×|×|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|×|×|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|
