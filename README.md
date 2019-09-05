@@ -263,10 +263,10 @@ LeetCode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|√|√|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) |×|√|
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |×|√|
-|282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  |×|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |
-|284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  |
-|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; |
+|282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  |×|×|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |√|√|
+|284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  |√|√|
+|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; |×|%|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/) &hearts; |×|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |×|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) |
