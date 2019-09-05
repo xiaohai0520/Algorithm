@@ -245,10 +245,12 @@ LeetCode
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|√|√|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|×|×|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|×|×|
-|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|
-|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|×|×|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|√|√|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|×|%|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/)|
+|267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|×|×|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|√|√|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|×|
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|×|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|
