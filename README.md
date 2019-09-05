@@ -267,8 +267,8 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |√|√|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  |√|√|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; |×|%|
-|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/) &hearts; |×|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |×|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/) &hearts; |×|√|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |×|×|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) |
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) |
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  |
