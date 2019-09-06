@@ -269,10 +269,14 @@ LeetCode
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; |×|%|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/) &hearts; |×|√|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |×|×|
-|289|[Game of Life](https://leetcode.com/problems/game-of-life/) |
-|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) |
-|292|[Nim Game](https://leetcode.com/problems/nim-game/)  |
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |×|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/) |×|%|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) |√|√|
+|291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) |×|×|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)  |×|×|
+|293|[Flip Game](https://leetcode.com/problems/flip-game/)  |√|√|
+|294|[Flip Game](https://leetcode.com/problems/flip-game-ii/)  |×|×|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |×|%|
+|296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) |×|×|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |×|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)  |√|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  |√|
