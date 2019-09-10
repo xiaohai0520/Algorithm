@@ -28,9 +28,9 @@
 |207. Course Schedule|√|
 |139. Word Break|√|
 |||
-|||
-|||
-|||
+|295. Find Median from Data Stream|√|
+|269. Alien Dictionary|-|
+|2. Add Two Numbers|√|
 |||
 |||
 |||
