@@ -14,6 +14,15 @@
 |103. Binary Tree Zigzag Level Order Traversal|√|
 |763. Partition Labels|×|
 |909. Snakes and Ladders|×|
-||√|
-||√|
-||√|
+|472. Concatenated Words|×|
+|1000. Minimum Cost to Merge Stones|?|
+|348. Design Tic-Tac-Toe|-|
+|23. Merge k Sorted Lists|√|
+|165. Compare Version Numbers|√|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
