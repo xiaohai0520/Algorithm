@@ -20,9 +20,18 @@
 |23. Merge k Sorted Lists|√|
 |165. Compare Version Numbers|√|
 |545. Boundary of Binary Tree|×|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
+|126. Word Ladder II|-|
+|297. Serialize and Deserialize Binary Tree|√|
+|127. Word Ladder|√|
+|42. Trapping Rain Water|-|
+|341. Flatten Nested List Iterator|-|
+|207. Course Schedule|√|
+|139. Word Break|√|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
