@@ -27,10 +27,25 @@
 |341. Flatten Nested List Iterator|-|
 |207. Course Schedule|√|
 |139. Word Break|√|
-|||
+|772. Basic Calculator III||
 |295. Find Median from Data Stream|√|
 |269. Alien Dictionary|-|
+|642. Design Search Autocomplete System||
 |2. Add Two Numbers|√|
+|863. All Nodes Distance K in Binary Tree|×|
+|273. Integer to English Words|-|
+|505. The Maze II|-|
+|15. 3Sum|√|
+|253. Meeting Rooms II|√|
+|588. Design In-Memory File System||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
 |||
 |||
 |||
