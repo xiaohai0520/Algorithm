@@ -49,6 +49,20 @@
 |53. Maximum Subarray|-|
 |239. Sliding Window Maximum|-|
 |155. Min Stack|√|
+|140. Word Break II|-|
+|79. Word Search|√|
+|1099. Two Sum Less Than K|√|
+|347. Top K Frequent Elements|-|
+|206. Reverse Linked List|-|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
 |||
 |||
 |||
