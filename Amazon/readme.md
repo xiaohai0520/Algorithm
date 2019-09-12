@@ -38,13 +38,17 @@
 |15. 3Sum|√|
 |253. Meeting Rooms II|√|
 |588. Design In-Memory File System||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|980. Unique Paths III||
+|124. Binary Tree Maximum Path Sum|-|
+|675. Cut Off Trees for Golf Event||
+|49. Group Anagrams|√|
+|692. Top K Frequent Words|√|
+|21. Merge Two Sorted Lists|√|
+|994. Rotting Oranges|√|
+|460. LFU Cache||
+|53. Maximum Subarray|-|
+|239. Sliding Window Maximum|-|
+|155. Min Stack|√|
 |||
 |||
 |||
