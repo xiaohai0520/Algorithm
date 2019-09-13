@@ -69,3 +69,13 @@
 |943. Find the Shortest Superstring||
 |314. Binary Tree Vertical Order Traversal|√|
 |12. Integer to Roman|√|
+|716. Max Stack|√|
+|3. Longest Substring Without Repeating Characters|√|
+|1046. Last Stone Weight|√|
+|560. Subarray Sum Equals K|√|
+|1062. Longest Repeating Substring|×|
+|||
+|||
+|||
+|||
+|||
