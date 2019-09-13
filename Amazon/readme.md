@@ -54,17 +54,18 @@
 |1099. Two Sum Less Than K|√|
 |347. Top K Frequent Elements|-|
 |206. Reverse Linked List|-|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|380. Insert Delete GetRandom O(1)|-|
+|388. Longest Absolute File Path|×|
+|57. Insert Interval|-|
+|121. Best Time to Buy and Sell Stock|√|
+|277. Find the Celebrity|-|
+|997. Find the Town Judge|×|
+|993. Cousins in Binary Tree|√|
+|353. Design Snake Game||
+|240. Search a 2D Matrix II|√|
+|759. Employee Free Time|×|
+|76. Minimum Window Substring|-|
+|56. Merge Intervals|√|
+|943. Find the Shortest Superstring||
+|314. Binary Tree Vertical Order Traversal|√|
+|12. Integer to Roman|√|
