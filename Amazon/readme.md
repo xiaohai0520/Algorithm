@@ -74,6 +74,11 @@
 |1046. Last Stone Weight|√|
 |560. Subarray Sum Equals K|√|
 |1062. Longest Repeating Substring|×|
+|516. Longest Palindromic Subsequence|×|
+|20. Valid Parentheses|√|
+|503. Next Greater Element II||
+|733. Flood Fill|√|
+|490. The Maze|-|
 |||
 |||
 |||
