@@ -79,8 +79,9 @@
 |503. Next Greater Element II||
 |733. Flood Fill|√|
 |490. The Maze|-|
-|||
-|||
-|||
-|||
-|||
+|983. Minimum Cost For Tickets|×|
+|333. Largest BST Subtree|×|
+|289. Game of Life|-|
+|695. Max Area of Island|√|
+|1044. Longest Duplicate Substring||
+
