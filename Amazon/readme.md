@@ -84,4 +84,5 @@
 |289. Game of Life|-|
 |695. Max Area of Island|√|
 |1044. Longest Duplicate Substring||
+|33. Search in Rotated Sorted Array|√|
 
