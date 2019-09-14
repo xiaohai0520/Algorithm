@@ -71,7 +71,7 @@
 |12. Integer to Roman|√|
 |716. Max Stack|√|
 |3. Longest Substring Without Repeating Characters|√|
-|1046. Last Stone Weight|√|
+|1046. Last Stone Weight|√|https://talkai.blog/wp-admin/edit.php
 |560. Subarray Sum Equals K|√|
 |1062. Longest Repeating Substring|×|
 |516. Longest Palindromic Subsequence|×|
@@ -85,4 +85,19 @@
 |695. Max Area of Island|√|
 |1044. Longest Duplicate Substring||
 |33. Search in Rotated Sorted Array|√|
+|1091. Shortest Path in Binary Matrix|√|
+|653. Two Sum IV - Input is a BST|√|
+|4. Median of Two Sorted Arrays|-|
+|238. Product of Array Except Self|√|
+|64. Minimum Path Sum|√|
+|417. Pacific Atlantic Water Flow|-|
+|449. Serialize and Deserialize BST|√|
+|430. Flatten a Multilevel Doubly Linked List|×|
+|362. Design Hit Counter||
+|210. Course Schedule II|√|
+|22. Generate Parentheses|√|
+|17. Letter Combinations of a Phone Number|√|
+|1022. Sum of Root To Leaf Binary Numbers|-|
+|787. Cheapest Flights Within K Stops|-|
+|346. Moving Average from Data Stream|√|
 
