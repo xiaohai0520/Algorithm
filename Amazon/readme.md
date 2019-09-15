@@ -123,3 +123,19 @@
 |1010. Pairs of Songs With Total Durations Divisible by 60|-|
 |542. 01 Matrix|-|
 |498. Diagonal Traverse|-|
+|986. Interval List Intersections|×|
+|98. Validate Binary Search Tree|√|
+|208. Implement Trie (Prefix Tree)|-|
+|1104. Path In Zigzag Labelled Binary Tree|×|
+|706. Design HashMap|-|
+|225. Implement Stack using Queues|√|
+|496. Next Greater Element I|×|
+|150. Evaluate Reverse Polish Notation|-|
+|224. Basic Calculator|-|
+|538. Convert BST to Greater Tree|×|
+|228. Summary Ranges|-|
+|525. Contiguous Array|×|
+|91. Decode Ways|-|
+|109. Convert Sorted List to Binary Search Tree|-|
+|267. Palindrome Permutation II|-|
+
