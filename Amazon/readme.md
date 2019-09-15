@@ -100,4 +100,26 @@
 |1022. Sum of Root To Leaf Binary Numbers|-|
 |787. Cheapest Flights Within K Stops|-|
 |346. Moving Average from Data Stream|√|
-
+|767. Reorganize String|-|
+|116. Populating Next Right Pointers in Each Node|√|
+|117. Populating Next Right Pointers in Each Node II||
+|99. Recover Binary Search Tree|-|
+|540. Single Element in a Sorted Array|-|
+|1086. High Five|√|
+|703. Kth Largest Element in a Stream|√|
+|323. Number of Connected Components in an Undirected Graph|√|
+|25. Reverse Nodes in k-Group|√|
+|543. Diameter of Binary Tree|√|
+|167. Two Sum II - Input array is sorted|√|
+|1026. Maximum Difference Between Node and Ancestor|-|
+|322. Coin Change|√|
+|636. Exclusive Time of Functions|×|
+|134. Gas Station|-|
+|13. Roman to Integer|√|
+|199. Binary Tree Right Side View|√|
+|528. Random Pick with Weight|×|
+|556. Next Greater Element III|-|
+|102. Binary Tree Level Order Traversal|√|
+|1010. Pairs of Songs With Total Durations Divisible by 60|-|
+|542. 01 Matrix|-|
+|498. Diagonal Traverse|-|
