@@ -1,7 +1,7 @@
 # Amazon coding algorithm on frequency
 
-| Title | Pass1 | Pass2 |
-| ----- | ----- | ----- | 
+| Title | Pass1 | Big O | Pass2 |
+| ----- | ----- | ----- | ----- |
 |937. Reorder Data in Log Files|√|
 |973. K Closest Points to Origin|√|
 |1. Two Sum|√|
@@ -140,6 +140,8 @@
 |267. Palindrome Permutation II|-|
 |378. Kth Smallest Element in a Sorted Matrix|×|
 |40. Combination Sum II|-|
-|||
-|||
-|||
+|236. Lowest Common Ancestor of a Binary Tree|√|n|
+|93. Restore IP Addresses|-|2**n,3**4|
+|153. Find Minimum in Rotated Sorted Array|-|logn|
+|169. Majority Element|√|n|
+|402. Remove K Digits|×|n|
