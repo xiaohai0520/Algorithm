@@ -138,4 +138,8 @@
 |91. Decode Ways|-|
 |109. Convert Sorted List to Binary Search Tree|-|
 |267. Palindrome Permutation II|-|
-
+|378. Kth Smallest Element in a Sorted Matrix|×|
+|40. Combination Sum II|-|
+|||
+|||
+|||
