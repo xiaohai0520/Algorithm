@@ -145,3 +145,8 @@
 |153. Find Minimum in Rotated Sorted Array|-|logn|
 |169. Majority Element|√|n|
 |402. Remove K Digits|×|n|
+|227. Basic Calculator II|×|n|
+|83. Remove Duplicates from Sorted List|√|n|
+|82. Remove Duplicates from Sorted List II|-|n|
+|518. Coin Change 2|×|n|
+|215. Kth Largest Element in an Array||
