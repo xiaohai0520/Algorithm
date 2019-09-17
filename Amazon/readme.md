@@ -149,4 +149,14 @@
 |83. Remove Duplicates from Sorted List|√|n|
 |82. Remove Duplicates from Sorted List II|-|n|
 |518. Coin Change 2|×|n|
-|215. Kth Largest Element in an Array||
+|215. Kth Largest Element in an Array||-|n|
+|742. Closest Leaf in a Binary Tree|×|n|
+|358. Rearrange String k Distance Apart|-|n|
+|1066. Campus Bikes II||
+|133. Clone Graph|-|n|
+|205. Isomorphic Strings|√|n|
+|628. Maximum Product of Three Numbers|√|n|
+|1135. Connecting Cities With Minimum Cost|√|nlogn|
+|55. Jump Game|√|n|
+|45. Jump Game II|-|n|
+|394. Decode String|√|n|
