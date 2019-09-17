@@ -160,3 +160,9 @@
 |55. Jump Game|√|n|
 |45. Jump Game II|-|n|
 |394. Decode String|√|n|
+|105. Construct Binary Tree from Preorder and Inorder Traversal|√|n|
+|62. Unique Paths√|n2|
+|442. Find All Duplicates in an Array|×|n|
+|1023. Camelcase Matching×|n|
+|361. Bomb Enemy
+|1120. Maximum Average Subtree|√|n|
