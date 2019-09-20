@@ -28,3 +28,26 @@
 |240. Search a 2D Matrix II|1|
 |253. Meeting Rooms II|1|
 |269. Alien Dictionary|2|
+|273. Integer to English Words|2|
+|295. Find Median from Data Stream|1|
+|297. Serialize and Deserialize Binary Tree|2|
+|341. Flatten Nested List Iterator|2|
+|348. Design Tic-Tac-Toe|2|
+|380. Insert Delete GetRandom O(1)|2|
+|388. Longest Absolute File Path|2|
+|460. LFU Cache|3|
+|472. Concatenated Words|2|
+|545. Boundary of Binary Tree|2|
+|572. Subtree of Another Tree|1|
+|642. Design Search Autocomplete System
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
