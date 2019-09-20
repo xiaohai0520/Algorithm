@@ -2,21 +2,21 @@
 
 | Title | Pass1 | Big O | Pass2 |
 | ----- | ----- | ----- | ----- |
-|937. Reorder Data in Log Files|√|
-|973. K Closest Points to Origin|√|
-|1. Two Sum|√|
-|200. Number of Islands|√|
-|146. LRU Cache|-|
-|5. Longest Palindromic Substring|-|
-|819. Most Common Word|-|
-|957. Prison Cells After N Days|-|
-|138. Copy List with Random Pointer|√|
-|103. Binary Tree Zigzag Level Order Traversal|√|
-|763. Partition Labels|×|
+|937. Reorder Data in Log Files|√|nlogn|√|
+|973. K Closest Points to Origin|√|nlogn|√|
+|1. Two Sum|√|n|√|
+|200. Number of Islands|√|mn|√|
+|146. LRU Cache|-|n|-|
+|5. Longest Palindromic Substring|-|n2|√|
+|819. Most Common Word|-|n|-|
+|957. Prison Cells After N Days|-|n|-|
+|138. Copy List with Random Pointer|√|n|√|
+|103. Binary Tree Zigzag Level Order Traversal|√|n|√|
+|763. Partition Labels|×|n|√|√|
 |909. Snakes and Ladders|×|
 |472. Concatenated Words|×|
 |1000. Minimum Cost to Merge Stones|?|
-|348. Design Tic-Tac-Toe|-|
+|348. Design Tic-Tac-Toe|-|1|
 |23. Merge k Sorted Lists|√|
 |165. Compare Version Numbers|√|
 |545. Boundary of Binary Tree|×|
