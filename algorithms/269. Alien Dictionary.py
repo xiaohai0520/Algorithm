@@ -1,40 +1,37 @@
 class Solution:
     def alienOrder(self, words: List[str]) -> str:
-        map = {}
-        letters = [0 for i in range(26)]  
-        for i in range(len(words)):
-            for j in range(len(words[i])):
-                key=ord(words[i][j])-ord('a')
-                letters[key]=0
-                map[key]=set()
-        
-        for i in range(len(words)-1):
-            word1 = words[i]
-            word2 = words[i+1]
-            idx = 0
-            for j in range(min(len(word1),len(word2))):
-                if(word1[j]!=word2[j]):
-                    key1 = ord(word1[j])-ord('a')
-                    key2 = ord(word2[j])-ord('a')
-                    count = letters[key2]
-                    if(key2 not in map[key1]):
-                        letters[key2] =count+1
-                        map[key1].add(key2)
+              
+        indegree = {ch: 0 for word in words for ch in word}
+        graph = {ch:set() for word in words for ch in word}
+
+
+        for i in range(len(words) - 1):
+            for j in range(min(len(words[i]), len(words[i + 1]))):
+                first, second = words[i][j], words[i + 1][j]
+                if first != second:
+                    if second not in graph[first]:
+                        graph[first].add(second)
+                        indegree[second] += 1
                     break
-        dictionary = collections.deque()
-        res = ''
-        for i in range(26):
-            if(letters[i]==0 and i in map):
-                dictionary.appendleft(i)
-        
-        while(len(dictionary)!=0):
-            nextup = dictionary.pop()
-            res+=(chr(nextup+ord('a')))
-            greaterSet = map[nextup]
-            for greater in greaterSet:
-                letters[greater]-=1
-                if(letters[greater]==0):
-                    dictionary.appendleft(greater)
-        if(len(map)!=len(res)):
+
+        #topological sort
+        q = collections.deque([])
+        for ch in indegree:
+            if indegree[ch] == 0:
+                q.append(ch)
+
+        res_order = []
+
+        while q:
+            node = q.popleft()
+            res_order.append(node)
+
+            for neighbor in graph[node]:
+                indegree[neighbor] -= 1
+                if indegree[neighbor] == 0:
+                    q.append(neighbor)
+
+        if len(graph) != len(res_order):
             return ""
-        return res
+
+        return ''.join(res_order)
