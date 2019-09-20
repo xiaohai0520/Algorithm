@@ -4,6 +4,7 @@
 | ----- | ----- | ----- | ----- |
 |1. Two Sum|1|
 |2. Add Two Numbers|1|
+|5. Longest Palindromic Substring|2|
 |15. 3Sum|2|
 |21. Merge Two Sorted Lists|1|
 |23. Merge k Sorted Lists|2|
@@ -13,3 +14,17 @@
 |53. Maximum Subarray|1|
 |79. Word Search|1|
 |103. Binary Tree Zigzag Level Order Traversal|1|
+|124. Binary Tree Maximum Path Sum|2|
+|126. Word Ladder II|2|
+|127. Word Ladder|1|
+|138. Copy List with Random Pointer|1|
+|139. Word Break|1|
+|146. LRU Cache|2|
+|165. Compare Version Numbers|2|
+|200. Number of Islands|1|
+|207. Course Schedule|1|
+|212. Word Search II|2|
+|239. Sliding Window Maximum|2|
+|240. Search a 2D Matrix II|1|
+|253. Meeting Rooms II|1|
+|269. Alien Dictionary|2|
