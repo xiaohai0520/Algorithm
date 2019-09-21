@@ -39,12 +39,12 @@
 |472. Concatenated Words|2|
 |545. Boundary of Binary Tree|2|
 |572. Subtree of Another Tree|1|
-|642. Design Search Autocomplete System
+|642. Design Search Autocomplete System|
+|692. Top K Frequent Words|2|
+|763. Partition Labels|1|
 |
-|
-|
-|
-|
+|819. Most Common Word|1|
+|863. All Nodes Distance K in Binary Tree|3|
 |
 |
 |
