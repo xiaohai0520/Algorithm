@@ -39,15 +39,15 @@
 |472. Concatenated Words|2|
 |545. Boundary of Binary Tree|2|
 |572. Subtree of Another Tree|1|
-|642. Design Search Autocomplete System|
+|642. Design Search Autocomplete System|3|
 |692. Top K Frequent Words|2|
 |763. Partition Labels|1|
-|
+|772. Basic Calculator III|3|
 |819. Most Common Word|1|
 |863. All Nodes Distance K in Binary Tree|3|
-|
-|
-|
-|
-|
-|
+|909. Snakes and Ladders|2|
+|937. Reorder Data in Log Files|1|
+|957. Prison Cells After N Days|2|
+|973. K Closest Points to Origin|1|
+|994. Rotting Oranges|1|
+|1000. Minimum Cost to Merge Stones|3|
