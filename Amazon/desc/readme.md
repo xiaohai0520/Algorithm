@@ -14,6 +14,6 @@
 |1094. Car Pooling|2|nlogn|
 |1091. Shortest Path in Binary Matrix|1|n**2|
 |1086. High Five|1|nlogn|
-|
+|1074. Number of Submatrices That Sum to Target|3|n**3|
 |
 |
