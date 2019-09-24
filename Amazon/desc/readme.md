@@ -15,5 +15,5 @@
 |1091. Shortest Path in Binary Matrix|1|n**2|
 |1086. High Five|1|nlogn|
 |1074. Number of Submatrices That Sum to Target|3|n**3|
-|
-|
+|1066. Campus Bikes II|3|
+|1062. Longest Repeating Substring|3|n**2|
