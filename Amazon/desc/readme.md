@@ -17,3 +17,10 @@
 |1074. Number of Submatrices That Sum to Target|3|n**3|
 |1066. Campus Bikes II|3|
 |1062. Longest Repeating Substring|3|n**2|
+|1051. Height Checker|1|nlogn|
+|1047. Remove All Adjacent Duplicates In String|1|n|
+|1046. Last Stone Weight|1|nlogn|
+|1044. Longest Duplicate Substring|3|nlogn|
+|1038. Binary Search Tree to Greater Sum Tree|2|n|
+|1029. Two City Scheduling|2|nlogn|
+|1026. Maximum Difference Between Node and Ancestor|2|n|
