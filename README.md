@@ -1,3 +1,5 @@
+![leetcode.jpeg](./assets/leetcode.jpeg)
+
 # LeetCode
 
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
