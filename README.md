@@ -1,4 +1,4 @@
-![leetcode.jpeg](./leetcode.jpeg)
+![leetcode.jpeg](./assets/leetcode.jpeg)
 
 
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
