@@ -9,7 +9,6 @@
 
 ## Introduction
 
-![leetcode.jpeg](./assets/leetcode.jpeg)
 
 LeetCode Solutions: A Journey of Problem Solving.
 
