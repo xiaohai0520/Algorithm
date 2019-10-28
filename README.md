@@ -1,4 +1,4 @@
-![leetcode.jpeg](./assets/leetcode.jpeg)
+![leetcode.jpeg](./leetcode.jpeg)
 
 # LeetCode
 
