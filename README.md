@@ -14,7 +14,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 本仓库目前分为**两个**部分：
 
-- [第一个部分是 leetcode 所有题目的解析，包括思路，关键点和具体的代码实现](#LeetCodeAlgorithm)
+- [第一个部分是 leetcode 所有题目的解析，包括思路，关键点和具体的代码实现](#LeetCodeAlgorithm试试)
 - [第二部分是对于数据结构与算法的总结](#LeetCodeAlgorithm)
 
 
@@ -23,30 +23,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 ## 关于我
 
-## 算法与数据结构
-只有熟练掌握基础的数据结构与算法，才能对复杂问题迎刃有余。
-
-### 算法：
-
-- 基础技巧：分治、二分、贪心
-- 排序算法：快速排序、归并排序、计数排序
-- 搜索算法：回溯、递归、深度优先遍历，广度优先遍历，二叉搜索树等
-- 图论：最短路径、最小生成树
-- 动态规划：背包问题、最长子序列
-
-### 数据结构：
-
-- 数组与链表：单 / 双向链表
-- 栈与队列
-- 哈希表
-- 堆：最大堆 ／ 最小堆
-- 树与图：最近公共祖先、并查集
-- 字符串：前缀树（字典树） ／ 后缀树
 
 
-
-
-# LeetCodeAlgorithm
+# LeetCodeAlgorithm试试
 ========
 
 ### LeetCode Algorithm
@@ -455,3 +434,25 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./algorithms/cpp/twoSum/twoSum.cpp), [Go](./algorithms/golang/twoSum/twoSum.go)|Easy|
+
+
+
+# 算法与数据结构
+只有熟练掌握基础的数据结构与算法，才能对复杂问题迎刃有余。
+
+### 算法：
+
+- 基础技巧：分治、二分、贪心
+- 排序算法：快速排序、归并排序、计数排序
+- 搜索算法：回溯、递归、深度优先遍历，广度优先遍历，二叉搜索树等
+- 图论：最短路径、最小生成树
+- 动态规划：背包问题、最长子序列
+
+### 数据结构：
+
+- 数组与链表：单 / 双向链表
+- 栈与队列
+- 哈希表
+- 堆：最大堆 ／ 最小堆
+- 树与图：最近公共祖先、并查集
+- 字符串：前缀树（字典树） ／ 后缀树
