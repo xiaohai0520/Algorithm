@@ -14,9 +14,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 本仓库目前分为**两个**部分：
 
-- 第一个部分是 leetcode 所有题目的解析，包括思路，关键点和具体的代码实现 - [LeetCode](#LeetCodeAlgorithm)
+- [第一个部分是 leetcode 所有题目的解析，包括思路，关键点和具体的代码实现](#LeetCodeAlgorithm)
+- [第二部分是对于数据结构与算法的总结](#LeetCodeAlgorithm)
 
-- 第二部分是对于数据结构与算法的总结
 
 
 
