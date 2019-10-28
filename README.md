@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 [![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
-
+[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
 
 简体中文 | [English](./README.en.md)
 
