@@ -28,13 +28,13 @@ leetcode 题解，记录 leetcode 解题之路。
 # LeetCode题目
 
 
-|NO.|Title|Solution|Difficulty|
+|#|Title|Solution|Difficulty|
 |---|-----|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](./algorithms/1.%20two%20sum.py)|Easy|
-|1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[C++](001.%20Add%20Two%20Numbers/solution.h) [Python](001.%20Add%20Two%20Numbers/solution.py)|[Note](001.%20Add%20Two%20Numbers)|Medium|`LinkedList`|
-|2|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[C++](002.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.h) [Python](002.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.py)|[Note](002.%20Longest%20Substring%20Without%20Repeating%20Characters)|Medium|`Mapping`|
-|3|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[C++](003.%20Median%20of%20Two%20Sorted%20Arrays/solution.h) [Python](003.%20Median%20of%20Two%20Sorted%20Arrays/solution.py)|[Note](003.%20Median%20of%20Two%20Sorted%20Arrays)|Hard|
-|4|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C++](004.%20Longest%20Palindromic%20Substring/solution.h) [Python](004.%20Longest%20Palindromic%20Substring/solution.py)|[Note](004.%20Longest%20Palindromic%20Substring)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](./algorithms/2.%20Add%20Two%20Numbers.py)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Python](./algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|Hard|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Python](./algorithms/5.%20Longest%20Palindromic%20Substring.py)|Medium|
 |5|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C++](005.%20ZigZag%20Conversion/solution.h) [Python](005.%20ZigZag%20Conversion/solution.py)|[Note](005.%20ZigZag%20Conversion)|Medium|
 |6|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[C++](006.%20Reverse%20Integer/solution.h) [Python](006.%20Reverse%20Integer/solution.py)|[Note](006.%20Reverse%20Integer)|Easy|
 |7|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C++](007.%20String%20to%20Integer%20(atoi)/solution.h) [Python](007.%20String%20to%20Integer%20(atoi)/solution.py)|[Note](007.%20String%20to%20Integer%20(atoi))|Medium|
