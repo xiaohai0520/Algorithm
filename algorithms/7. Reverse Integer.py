@@ -1,3 +1,7 @@
+# 反正数字，先判断数字的正负号，然后取绝对值。
+# 设置res = 0, 使用divmod方程，逐渐的获得最后一位。
+# 返回时注意integer的范围。
+
 class Solution:
     def reverse(self, x):
         """
