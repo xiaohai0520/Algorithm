@@ -37,7 +37,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Python](./algorithms/5.%20Longest%20Palindromic%20Substring.py)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Python](./algorithms/6.%20ZigZag%20Conversion.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Python](/algorithms/7.%20Reverse%20Integer.py)|Easy|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C++](007.%20String%20to%20Integer%20(atoi)/solution.h) [Python](007.%20String%20to%20Integer%20(atoi)/solution.py)|[Note](007.%20String%20to%20Integer%20(atoi))|Medium|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Python](./algorithms/8.%20String%20to%20Integer%20(atoi).py)||Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[C++](008.%20Palindrome%20Number/solution.h) [Python](008.%20Palindrome%20Number/solution.py)|[Note](008.%20Palindrome%20Number)|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[C++](009.%20Regular%20Expression%20Matching/solution.h) [Python](009.%20Regular%20Expression%20Matching/solution.py)|[Note](009.%20Regular%20Expression%20Matching)|Hard|
 |10|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[C++](010.%20Container%20With%20Most%20Water/solution.h) [Python](010.%20Container%20With%20Most%20Water/solution.py)|[Note](010.%20Container%20With%20Most%20Water)|Medium|
