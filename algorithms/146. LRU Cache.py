@@ -3,78 +3,62 @@
 # add node to root next and the last is always the LRU
 
 class node:
-    def __init__(self,key,value):
+    
+    def __init__(self,key,val):
         self.key = key
-        self.value = value
+        self.val = val
         self.next = None
-        self.last = None
-
+        self.pre = None
 
 class LRUCache:
 
-    def __init__(self, capacity):
-        """
-        :type capacity: int
-        """
-        self.root = node(None,None)
-        self.root.next = self.root
-        self.root.last = self.root
+    def __init__(self, capacity: int):
+        self.head = node(None,None)
+        self.head.next = self.head
+        self.head.pre = self.head
         self.dic = {}
         self.cap = capacity
         
         
 
-    def get(self, key):
-        """
-        :type key: int
-        :rtype: int
-        """
-        root,dic = self.root, self.dic
-        if key not in dic:
+    def get(self, key: int) -> int:
+        if key not in self.dic:
             return -1
-        cur = dic[key]
-        cur.last.next = cur.next
-        cur.next.last = cur.last
+        cur = self.dic[key]
+        val = cur.val
         
-        # root.next.last,cur.next,root.next,cur.last = cur,root.next,cur,root
+        cur.pre.next,cur.next.pre = cur.next,cur.pre
         
-        root.next.last = cur
-        cur.next = root.next
-        root.next = cur
-        cur.last = root
-        
-        return dic[key].value
-        
+        cur.next = self.head.next
+        cur.pre = self.head
+        self.head.next = cur
+        cur.next.pre = cur
         
 
-    def put(self, key, value):
-        """
-        :type key: int
-        :type value: int
-        :rtype: void
-        """
-    
-        cap,root,dic = self.cap, self.root, self.dic
-        if cap == 0:
-            return
-        
-        if key in dic:
-            dic[key].value = value
+        return val
+
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.dic:
+            
+            self.dic[key].val = value
             self.get(key)
             return
-        l = len(dic)
-        if l >= cap:
-            evict = root.last
-            evict.last.next = root
-            root.last = evict.last
-            del dic[evict.key]
-        cur = node(key,value)
-        cur.next = root.next
-        cur.last = root
-        root.next.last = root.next = cur
+        new = node(key,value)
         
-        dic[key] = cur
         
+        new.next = self.head.next
+        new.pre = self.head
+        self.head.next = new
+        new.next.pre = new
+        
+        self.dic[key] = new
+        
+        if len(self.dic) > self.cap:
+            cur = self.head.pre
+            self.head.pre,cur.pre.next = cur.pre,self.head
+            del self.dic[cur.key]
+            
         
         
 
