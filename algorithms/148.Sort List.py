@@ -6,6 +6,55 @@
 #         self.val = x
 #         self.next = None
 
+
+class Solution:
+    def sortList(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        if not head or not head.next:
+            return head
+
+        return self.quicksort(head)
+
+    def quicksort(self, head):
+        if not head:
+            return
+
+        dummyLeft = curLeft = ListNode(0)
+        dummyRight = curRight = ListNode(0)
+        dummyMid = curMid = head
+
+        cur = head.next
+        while cur:
+            if cur.val == head.val:
+                curMid.next = cur
+                curMid = curMid.next
+            elif cur.val < head.val:
+                curLeft.next = cur
+                curLeft = curLeft.next
+            else:
+                curRight.next = cur
+                curRight = curRight.next
+            cur = cur.next
+
+        curMid.next = curLeft.next = curRight.next = None
+
+        dummyLeft.next = self.quicksort(dummyLeft.next)
+        dummyRight.next = self.quicksort(dummyRight.next)
+
+        curLeft = dummyLeft
+        while curLeft.next:
+            curLeft = curLeft.next
+
+        curLeft.next = head
+        curMid.next = dummyRight.next
+        return dummyLeft.next
+
+
+
+
 class Solution:
     def sortList(self, head):
         """
