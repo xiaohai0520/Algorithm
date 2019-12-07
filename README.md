@@ -38,8 +38,8 @@ leetcode 题解，记录 leetcode 解题之路。
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Python](/algorithms/7.%20Reverse%20Integer.py)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Python](./algorithms/8.%20String%20to%20Integer%20(atoi).py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Python](./algorithms/9.%20Palindrome%20Number.py)|Easy|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[C++](009.%20Regular%20Expression%20Matching/solution.h) [Python](009.%20Regular%20Expression%20Matching/solution.py)|[Note](009.%20Regular%20Expression%20Matching)|Hard|
-|10|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[C++](010.%20Container%20With%20Most%20Water/solution.h) [Python](010.%20Container%20With%20Most%20Water/solution.py)|[Note](010.%20Container%20With%20Most%20Water)|Medium|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[Python](./algorithms/10.%20Regular%20Expression%20Matching.py)|Hard|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](010.%20Container%20With%20Most%20Water/solution.py)|[Note](010.%20Container%20With%20Most%20Water)|Medium|
 |11|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[C++](011.%20Integer%20to%20Roman/solution.h) [Python](011.%20Integer%20to%20Roman/solution.py)|[Note](011.%20Integer%20to%20Roman)|Medium|
 |12|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[C++](012.%20Roman%20to%20Integer/solution.h) [Python](012.%20Roman%20to%20Integer/solution.py)|[Note](012.%20Roman%20to%20Integer)|Easy|
 |13|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[C++](013.%20Longest%20Common%20Prefix/solution.h) [Python](013.%20Longest%20Common%20Prefix/solution.py)|[Note](013.%20Longest%20Common%20Prefix)|Easy|
