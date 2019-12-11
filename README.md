@@ -27,7 +27,7 @@ leetcode 题解，记录 leetcode 解题之路。
 # LeetCode题目
 
 
-|#|Title|Solution|Difficulty|
+|#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](./algorithms/1.%20two%20sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](./algorithms/2.%20Add%20Two%20Numbers.py)|Medium|
