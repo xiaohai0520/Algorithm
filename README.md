@@ -53,7 +53,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[Python](./algorithms/22.%20Generate%20Parentheses.py)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Python](./algorithms/23.%20Merge%20k%20Sorted%20Lists.py)|Hard|❤||
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Python](./algorithms/24.%20Swap%20Nodes%20in%20Pairs.py)|Medium|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Python](./algorithms/25.%20Reverse%20Nodes%20in%20k-Group.py)|Hard|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Python](./algorithms/25.%20Reverse%20Nodes%20in%20k-Group.py)|Hard|❤||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](./algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/27.%20Remove%20Element.py)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python](./algorithms/28.%20Implement%20strStr().py)|Easy|
