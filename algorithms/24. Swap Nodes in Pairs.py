@@ -1,3 +1,10 @@
+使用递归的思想比较方便解题
+
+base condition 是当链表为null  或者只有一个的时候，返回本身即可
+
+每次讲第一个 第二个 第三个进行保存，然后 第二个指向第一个，第一个指向递归回来的第三个，
+最终返回第二个
+
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, x):
