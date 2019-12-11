@@ -27,12 +27,12 @@ leetcode 题解，记录 leetcode 解题之路。
 # LeetCode题目
 
 
-|#|Title|Solution|Difficulty|Review|
-|---|-----|--------|----------|
+|#|Title|Solution|Difficulty|Need Review|Video|
+|---|-----|--------|----------|----|---------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](./algorithms/1.%20two%20sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](./algorithms/2.%20Add%20Two%20Numbers.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Python](./algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|Hard|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Python](./algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|Hard|❤||
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Python](./algorithms/5.%20Longest%20Palindromic%20Substring.py)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Python](./algorithms/6.%20ZigZag%20Conversion.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Python](./algorithms/7.%20Reverse%20Integer.py)|Easy|
