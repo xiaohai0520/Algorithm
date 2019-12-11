@@ -2,6 +2,9 @@
 #dfs from the first number ,use recursive and track back ,plus then next char and minus back
 
 
+用回溯的递归方法， 每位都对应几个英文字符，然后一直递归到没有数字为止，
+时间复杂度 是M^N, M 这里是3   N 是数字的个数
+
 class Solution:
     def letterCombinations(self, digits):
         """
