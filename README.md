@@ -38,7 +38,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Python](./algorithms/7.%20Reverse%20Integer.py)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Python](./algorithms/8.%20String%20to%20Integer%20(atoi).py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Python](./algorithms/9.%20Palindrome%20Number.py)|Easy|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[Python](./algorithms/10.%20Regular%20Expression%20Matching.py)|Hard|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[Python](./algorithms/10.%20Regular%20Expression%20Matching.py)|Hard|❤||
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](./algorithms/11.%20Container%20With%20Most%20Water.py)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[Python](./algorithms/12.%20Integer%20to%20Roman.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python](./algorithms/13.%20Roman%20to%20Integer.py)|Easy|
@@ -46,7 +46,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |15|[3Sum](https://leetcode.com/problems/3sum)|[Python](./algorithms/15.%203Sum.py)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|[Python](./algorithms/16.%203Sum%20Closest.py)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Python](./algorithms/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)|Medium|
-|18|[4Sum](https://leetcode.com/problems/4sum)|[Python](./algorithms/18.%204Sum.py)|Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum)|[Python](./algorithms/18.%204Sum.py)|Medium|❤||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Python](./algorithms/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Python](./algorithms/20.%20Valid%20Parentheses.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Python](./algorithms/21.%20Merge%20Two%20Sorted%20Lists.py)|Easy|
