@@ -1,3 +1,7 @@
+利用两个指针，快的指针先前进n步，然后跟慢指针一起前进，知道快指针没有下一个
+trick的地方是如果n是链表的长度，那么第一个node需要被删除，那么我们需要用dummy来创造一个虚拟的head
+当最后返回的时候return  dummy.next
+
 #two pointers
 
 
