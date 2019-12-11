@@ -1,4 +1,7 @@
 #use deque to pop first and second , then append into tail,until only 1
+使用queue， 讲所有链表放入queue,
+然后每次pop 出头两个，进行组和，将新的再加入queue,
+直到只剩一个为止，我们可以将这个最终结果返回。
 
 
 # Definition for singly-linked list.
