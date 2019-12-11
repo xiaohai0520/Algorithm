@@ -4,7 +4,9 @@
 
 最后返回尾部的node
 
-时间复杂度O（n）
+时间复杂度O(n)
+
+空间复杂度O(1)
 
 
 # Definition for singly-linked list.
