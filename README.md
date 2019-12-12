@@ -20,7 +20,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 -------------------------------------------------------------------------------------------------------------------
 
-# update to 20
+# update to 29
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](./algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/27.%20Remove%20Element.py)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python](./algorithms/28.%20Implement%20strStr().py)|Easy|
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Python](./algorithms/29.%20Divide%20Two%20Integers.py)|Medium|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Python](./algorithms/29.%20Divide%20Two%20Integers.py)|Medium|❤|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Python](./algorithms/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[Python](./algorithms/31.%20Next%20Permutation.py)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Python](./algorithms/32.%20Longest%20Valid%20Parentheses.py)|Hard|
