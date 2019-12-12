@@ -27,18 +27,18 @@ leetcode 题解，记录 leetcode 解题之路。
 # LeetCode题目
 
 
-|#|Title|Solution|Difficulty|Review|Video|
-|---|-----|--------|----------|-|-|
+|#|Title|Solution|Difficulty|Review|
+|---|-----|--------|----------|-|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](./algorithms/1.%20two%20sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](./algorithms/2.%20Add%20Two%20Numbers.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Python](./algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|Hard| ❤||
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Python](./algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|Hard| ❤|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Python](./algorithms/5.%20Longest%20Palindromic%20Substring.py)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Python](./algorithms/6.%20ZigZag%20Conversion.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Python](./algorithms/7.%20Reverse%20Integer.py)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Python](./algorithms/8.%20String%20to%20Integer%20(atoi).py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Python](./algorithms/9.%20Palindrome%20Number.py)|Easy|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[Python](./algorithms/10.%20Regular%20Expression%20Matching.py)|Hard|❤||
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[Python](./algorithms/10.%20Regular%20Expression%20Matching.py)|Hard|❤|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](./algorithms/11.%20Container%20With%20Most%20Water.py)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[Python](./algorithms/12.%20Integer%20to%20Roman.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python](./algorithms/13.%20Roman%20to%20Integer.py)|Easy|
@@ -46,14 +46,14 @@ leetcode 题解，记录 leetcode 解题之路。
 |15|[3Sum](https://leetcode.com/problems/3sum)|[Python](./algorithms/15.%203Sum.py)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|[Python](./algorithms/16.%203Sum%20Closest.py)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Python](./algorithms/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)|Medium|
-|18|[4Sum](https://leetcode.com/problems/4sum)|[Python](./algorithms/18.%204Sum.py)|Medium|❤||
+|18|[4Sum](https://leetcode.com/problems/4sum)|[Python](./algorithms/18.%204Sum.py)|Medium|❤|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Python](./algorithms/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Python](./algorithms/20.%20Valid%20Parentheses.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Python](./algorithms/21.%20Merge%20Two%20Sorted%20Lists.py)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[Python](./algorithms/22.%20Generate%20Parentheses.py)|Medium|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Python](./algorithms/23.%20Merge%20k%20Sorted%20Lists.py)|Hard|❤||
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Python](./algorithms/23.%20Merge%20k%20Sorted%20Lists.py)|Hard|❤|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Python](./algorithms/24.%20Swap%20Nodes%20in%20Pairs.py)|Medium|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Python](./algorithms/25.%20Reverse%20Nodes%20in%20k-Group.py)|Hard|❤||
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Python](./algorithms/25.%20Reverse%20Nodes%20in%20k-Group.py)|Hard|❤|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](./algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/27.%20Remove%20Element.py)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python](./algorithms/28.%20Implement%20strStr().py)|Easy|
