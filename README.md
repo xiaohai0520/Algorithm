@@ -22,7 +22,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 
 # [YouTube 题解录屏视频](https://www.youtube.com/channel/UC_Vrg6V_LoTr3SGRzMZbgLw/playlists)
-# [YouTube 傻屌在线刷题直播 7:00-8:00 22:00-24:00  ](https://youtu.be/MzpMyhMqkgk)
+# [YouTube 傻屌在线刷题直播 7:00-8:00 22:00-24:00  ](https://youtu.be)
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
 ### 进度 30/1285
