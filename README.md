@@ -22,7 +22,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
-### 进度 30/1285
+### 进度 34/1285
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|-|
@@ -57,8 +57,8 @@ leetcode 题解，记录 leetcode 解题之路。
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Python](./algorithms/29.%20Divide%20Two%20Integers.py)|Medium|❤|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Python](./algorithms/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|Hard|❤|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[Python](./algorithms/31.%20Next%20Permutation.py)|Medium|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Python](./algorithms/32.%20Longest%20Valid%20Parentheses.py)|Hard|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python](./algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array.py)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Python](./algorithms/32.%20Longest%20Valid%20Parentheses.py)|Hard|❤|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python](./algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array.py)|Medium|❤|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Python](./algorithms/34.%20Search%20for%20a%20Range.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Python](./algorithms/35.%20Search%20Insert%20Position.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Python](./algorithms/36.%20Valid%20Sudoku.py)|Medium|
