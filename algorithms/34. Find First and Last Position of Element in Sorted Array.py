@@ -1,3 +1,6 @@
+查找左右边界
+左边界，二分， 如果中间值比target小，往右移一位，否则 左移一位，因为是要找到第一个大于等于target的值，所有判断的时候要用< ,右边界同理
+
 class Solution(object):
     def searchRange(self, nums, target):
         """
