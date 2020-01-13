@@ -1,6 +1,8 @@
-#use binary search 
-#make sure which part is sort 
-#whether target in sort part if not, try the other part
+二分搜索，关键是判断哪边是排序的
+先取左右边界的中间值 做判断，看是否等于target
+在不等于target的情况下，判断左边是否是排序的，如果是，看target是否在左边的范围里，如果在，则将右边界左移，否则，左边界右移
+如果左边不是排序的，那右边一定是排序的，做同样的操作即可。
+
 
 class Solution:
     def search(self, nums, target):
