@@ -1,3 +1,5 @@
+二分法，找第一个大于等于target的数，左边界只有在小于target的时候才+1，最后返回l即可
+
 class Solution(object):
     def searchInsert(self, nums, target):
         """
