@@ -1,3 +1,8 @@
+写三个检测的方程，判断是否合理
+然后依次去寻找可以安置的位置，并且尝试1-9
+如果没有填的位置了，返回True,否则使用回溯的思想，去尝试
+
+
 class Solution(object):
     def solveSudoku(self, board):
         """
