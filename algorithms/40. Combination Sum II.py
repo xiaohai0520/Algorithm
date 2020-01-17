@@ -1,21 +1,21 @@
-class Solution:
-    def combinationSum2(self, candidates, target):
-        """
-        :type candidates: List[int]
-        :type target: int
-        :rtype: List[List[int]]
-        """
-        res = []
-        candidates.sort()
-        self.dfs(candidates, target, 0, 0,[], res)
-        return res
+跟39 思想一致，只是需要判断下是否含有重复的情况
 
-    def dfs(self, nums, target, cursum,index, path, res):
-        if cursum > target:
-            return 
-        if cursum == target:
-            res.append(path)
-        for i in range(index,len(nums)):
-            if i > index and nums[i] == nums[i-1]:
-                continue
-            self.dfs(nums,target,cursum+nums[i],i+1,path+[nums[i]],res)
+class Solution:
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+        if not candidates:
+            return []
+        candidates.sort()
+        res = []
+        
+        def dfs(path,cur,start):
+            if cur > target:
+                return
+            if cur == target:
+                res.append(path)
+                return
+            for i in range(start,len(candidates)):
+                if i > start and candidates[i] == candidates[i-1]:
+                    continue
+                dfs(path+[candidates[i]],cur+candidates[i],i+1)
+        dfs([],0,0)
+        return res
