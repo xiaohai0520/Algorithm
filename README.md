@@ -62,11 +62,11 @@ leetcode 题解，记录 leetcode 解题之路。
 |34|[Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./algorithms/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Python](./algorithms/35.%20Search%20Insert%20Position.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Python](./algorithms/36.%20Valid%20Sudoku.py)|Medium|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Python](./algorithms/37.%20Sudoku%20Solver.py)|Hard|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Python](./algorithms/37.%20Sudoku%20Solver.py)|Hard|❤|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Python](./algorithms/38.%20Count%20and%20Say.py)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Python](./algorithms/39.%20Combination%20Sum.py)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Python](./algorithms/40.%20Combination%20Sum%20II.py)|Medium|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[Python](./algorithms/41.%20First%20Missing%20Positive.py)|Hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[Python](./algorithms/41.%20First%20Missing%20Positive.py)|Hard|❤|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Python](./algorithms/42.%20Trapping%20Rain%20Water.py)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Python](./algorithms/43.%20Multiply%20Strings.py)|Medium|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)|[Python](./algorithms/44.%20Wildcard%20Matching.py)|Hard|
