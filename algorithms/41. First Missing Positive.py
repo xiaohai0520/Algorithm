@@ -1,4 +1,5 @@
-#put each to the index position
+将index和数字联系起来，将每个数字放在相对应的index上
+如果大于数组长度或者小于0 则无法放置，说明此个index上的正数缺失
 
 
 class Solution:
