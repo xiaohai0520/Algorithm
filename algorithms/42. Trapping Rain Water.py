@@ -1,5 +1,4 @@
-#find the minheight if height[l] or height[r] < minheight
-#add the different
+左右寻找矮边作为最低线，依次左右往中间汇聚，加上差值。
 
 class Solution(object):
     def trap(self, height):
