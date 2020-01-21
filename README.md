@@ -22,7 +22,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
-### 进度 40/1285
+### 进度 43/1285
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|-|
@@ -67,8 +67,8 @@ leetcode 题解，记录 leetcode 解题之路。
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Python](./algorithms/39.%20Combination%20Sum.py)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Python](./algorithms/40.%20Combination%20Sum%20II.py)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[Python](./algorithms/41.%20First%20Missing%20Positive.py)|Hard|❤|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Python](./algorithms/42.%20Trapping%20Rain%20Water.py)|Hard|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Python](./algorithms/43.%20Multiply%20Strings.py)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Python](./algorithms/42.%20Trapping%20Rain%20Water.py)|Hard|❤|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Python](./algorithms/43.%20Multiply%20Strings.py)|Medium|❤|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)|[Python](./algorithms/44.%20Wildcard%20Matching.py)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Python](./algorithms/45.%20Jump%20Game%20II.py)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Python](./algorithms/46.%20Permutations.py)|Medium|
