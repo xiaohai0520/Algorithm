@@ -1,23 +1,18 @@
-class Solution(object):
-    def permuteUnique(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        res, visited = [], [False]*len(nums)
+dfs 每次递归之前 判断一下是否和前置位重复
+
+class Solution:
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+        if not nums:return
+        
         nums.sort()
-        self.dfs(nums, visited, [], res)
-        return res
-    
-    def dfs(self, nums, visited, path, res):
-        if len(nums) == len(path):
-            res.append(path)
-            return 
-        for i in range(len(nums)):
-            if not visited[i]: 
-                if i>0 and not visited[i-1] and nums[i] == nums[i-1]:  # here should pay attention
+        res = []
+        def dfs(nums,path):
+            if not nums:
+                res.append(path)
+                return
+            for i in range(len(nums)):
+                if i > 0 and nums[i-1] == nums[i]:
                     continue
-                visited[i] = True
-                self.dfs(nums, visited, path+[nums[i]], res)
-                visited[i] = False
-            
+                dfs(nums[:i] + nums[i+1:],path+[nums[i]])
+        dfs(nums,[])
+        return res
