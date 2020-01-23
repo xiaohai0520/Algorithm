@@ -1,17 +1,8 @@
-#use dic  get tuple of list for key and list of string for values
+字典key可以是tuple,将每个单词拆解排序变tuple，存入字典
 
 class Solution:
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        dic = {}
-        for str in strs:
-            key = tuple(sorted(str))
-            if key not in dic:
-                dic[key] = [str]
-            else:
-                dic[key] = dic[key] + [str]
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        dic = collections.defaultdict(list)
+        for each in strs:
+            dic[tuple(sorted(each))].append(each)
         return list(dic.values())
-                
