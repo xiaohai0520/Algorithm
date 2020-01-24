@@ -1,23 +1,26 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
         if n == 0:
-            return 0
+            return []
+        row = set()
+        pre = set()
+        last = set()
         self.res = 0
-        col = set()
-        dia = set()
-        b_dia = set()
-        self.helper(n,0,col,dia,b_dia)
+        self.helper(n,0,[],row,pre,last)
         return self.res
     
-    def helper(self,n,i,col,dia,b_dia):
+    def helper(self,n,i,path,row,pre,last):
         if i == n:
             self.res += 1
+
         for j in range(n):
-            if j not in col and (j-i) not in dia and (j+i) not in b_dia:
-                col.add(j)
-                dia.add(j-i)
-                b_dia.add(j+i)
-                self.helper(n,i+1,col,dia,b_dia)
-                col.remove(j)
-                dia.remove(j-i)
-                b_dia.remove(j+i)
+            if j not in row and (j - i) not in pre and (j + i) not in last:
+                row.add(j)
+                pre.add(j-i)
+                last.add(j+i)
+                path.append('.' * j + 'Q' + '.' * (n-j-1))
+                self.helper(n,i+1,path,row,pre,last)
+                path.pop()
+                last.remove(j+i)
+                pre.remove(j-i)
+                row.remove(j)
