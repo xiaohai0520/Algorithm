@@ -22,7 +22,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
-### 进度 50/1285
+### 进度 52/1285
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|-|
@@ -76,7 +76,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Python](./algorithms/48.%20Rotate%20Image.py)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Python](./algorithms/49.%20Group%20Anagrams.py)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Python](./algorithms/50.%20Pow(x,%20n).py)|Medium|
-|51|[N-Queens](https://leetcode.com/problems/n-queens)|[Python](./algorithms/51.%20N-Queens.py)|Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens)|[Python](./algorithms/51.%20N-Queens.py)|Hard|❤|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|[Python](./algorithms/52.%20N-Queens%20II.py)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Python](./algorithms/53.%20Maximum%20Subarray.py)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Python](./algorithms/54.%20Spiral%20Matrix.py)|Medium|
