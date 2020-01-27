@@ -1,3 +1,6 @@
+每次记录一下最远可到达的index， 如果此刻的index 大于最远的，我们视为不可到达last index,
+
+
 class Solution(object):
     def canJump(self, nums):
         """
