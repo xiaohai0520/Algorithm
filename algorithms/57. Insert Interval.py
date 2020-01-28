@@ -1,26 +1,20 @@
-# Definition for an interval.
-# class Interval:
-#     def __init__(self, s=0, e=0):
-#         self.start = s
-#         self.end = e
+比较每个pair和要插入的pair的关系即可
 
 class Solution:
-    def insert(self, intervals, newInterval):
-        """
-        :type intervals: List[Interval]
-        :type newInterval: Interval
-        :rtype: List[Interval]
-        """   
-        res, n = [], newInterval
-        for index, i in enumerate(intervals):
-            if i.end < n.start:
-                res.append(i)
-            elif n.end < i.start:
-                res.append(n)
-                return res+intervals[index:] 
-            else:  # overlap case
-                n.start = min(n.start, i.start)
-                n.end = max(n.end, i.end)
-        res.append(n)
-        return res
+    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+        if not intervals:
+            return [newInterval]
+        intervals.sort(key=lambda x:x[0])
+        res = []
+        for i,inter in enumerate(intervals):
+            if inter[1] < newInterval[0]:
+                res.append(inter)
+            elif inter[0] > newInterval[1]:
+                res.append(newInterval)
+                return res+intervals[i:]
+            else:
+                newInterval[0] = min(inter[0],newInterval[0])
+                newInterval[1] = max(inter[1],newInterval[1])
+            # print(newInterval)
+        return res + [newInterval]
         
