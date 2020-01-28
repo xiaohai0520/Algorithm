@@ -1,24 +1,19 @@
-#sort and try each one after the first one
-
-# Definition for an interval.
-# class Interval:
-#     def __init__(self, s=0, e=0):
-#         self.start = s
-#         self.end = e
+先根据第一位进行排序，
+将第一个放入result结果集，依次去对比下一个的0位和res中最后一个的1位，
+如果新的大，则加入结果集
+否则 判断两个的1位哪个大，大的作为res最后一个的1位
 
 class Solution:
-    def merge(self, intervals):
-        """
-        :type intervals: List[Interval]
-        :rtype: List[Interval]
-        """
+    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         if not intervals:
             return []
-        intervals = sorted(intervals,key= lambda x: x.start)
+        intervals.sort(key=lambda x:x[0])
         res = [intervals[0]]
-        for n in intervals[1:]:
-            if n.start <= res[-1].end:
-                res[-1].end = max(res[-1].end, n.end)
+        
+        for i in range(1,len(intervals)):
+            cur = intervals[i]
+            if cur[0] > res[-1][1]:
+                res.append(cur)
             else:
-                res.append(n)
+                res[-1][1] = max(res[-1][1],cur[1])
         return res
