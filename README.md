@@ -22,7 +22,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
-### 进度 55/1285
+### 进度 57/1285
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|-|
@@ -80,8 +80,8 @@ leetcode 题解，记录 leetcode 解题之路。
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|[Python](./algorithms/52.%20N-Queens%20II.py)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Python](./algorithms/53.%20Maximum%20Subarray.py)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Python](./algorithms/54.%20Spiral%20Matrix.py)|Medium|
-|55|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](./algorithms/55.%20Jump%20Game.py)|Medium|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Python](./algorithms/55.Jump%20Game.py)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](./algorithms/55.Jump%20Game.py)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Python](./algorithms/56.%20Merge%20Intervals.py)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval)|[Python](./algorithms/57.%20Insert%20Interval.py)|Hard|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](./algorithms/58.%20Length%20of%20Last%20Word.py)|Easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[Python](./algorithms/59.%20Spiral%20Matrix%20II.py)|Medium|
