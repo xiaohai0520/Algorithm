@@ -22,7 +22,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
-### 进度 57/1285
+### 进度 60/1285
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|-|
@@ -85,7 +85,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval)|[Python](./algorithms/57.%20Insert%20Interval.py)|Hard|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](./algorithms/58.%20Length%20of%20Last%20Word.py)|Easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[Python](./algorithms/59.%20Spiral%20Matrix%20II.py)|Medium|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Python](./algorithms/60.%20Permutation%20Sequence.py)|Medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Python](./algorithms/60.%20Permutation%20Sequence.py)|Medium|❤|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|[Python](./algorithms/61.%20Rotate%20List.py)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Python](./algorithms/62.%20Unique%20Paths.py)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|[Python](./algorithms/63.%20Unique%20Paths%20II.py)|Medium|
