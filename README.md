@@ -25,13 +25,8 @@ leetcode 题解，记录 leetcode 解题之路。
 ### 进度 63/1285
 
 |#|Title|Solution|Difficulty|Review|
-|---|-----|--------|----------|-|
-
-
-
+|---|-----|--------|----------|--|
 |711|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python](./algorithms/711.%20Prefix%20and%20Suffix%20Search.py)|New|
-
-
 |710|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[Python](./algorithms/710.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|New|
 
 
