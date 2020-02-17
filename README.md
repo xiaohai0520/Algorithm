@@ -26,6 +26,8 @@ leetcode 题解，记录 leetcode 解题之路。
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](./algorithms/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py)|Easy|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](./algorithms/1302.%20Deepest%20Leaves%20Sum.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](./algorithms/1.%20two%20sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](./algorithms/2.%20Add%20Two%20Numbers.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
