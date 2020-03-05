@@ -26,6 +26,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Python](./algorithms//1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.py)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](./algorithms/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py)|Easy|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](./algorithms/1302.%20Deepest%20Leaves%20Sum.py)|Medium|
 |1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)|[Python](./algorithms/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.py)|Medium|
