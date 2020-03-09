@@ -23,9 +23,11 @@ leetcode 题解，记录 leetcode 解题之路。
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
 
-
+Print Words Vertically
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python](./algorithms/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.py)|Medium|
+|1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)|[Python](./algorithms/1324.%20Print%20Words%20Vertically.py)|Medium|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Python](./algorithms/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.py)|Medium|
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Python](./algorithms/1306.%20Jump%20Game%20III.py)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Python](./algorithms//1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.py)|Medium|
