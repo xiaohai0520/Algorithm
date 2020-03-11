@@ -23,7 +23,6 @@ leetcode 题解，记录 leetcode 解题之路。
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
 
-Print Words Vertically
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
 |1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[Python](./algorithms/1328.%20Break%20a%20Palindrome.py)|Medium|
