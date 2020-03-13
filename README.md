@@ -33,6 +33,8 @@ leetcode 题解，记录 leetcode 解题之路。
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Python](./algorithms/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.py)|Medium|❤|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Python](./algorithms/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.py)|Easy|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Python](./algorithms/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.py)|Medium|
+|1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[Python](./algorithms/1314.%20Matrix%20Block%20Sum.py)|Medium|
+|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](./algorithms/1313.%20Decompress%20Run-Length%20Encoded%20List.py)|Easy|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Python](./algorithms/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.py)|Medium|
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Python](./algorithms/1306.%20Jump%20Game%20III.py)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Python](./algorithms//1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.py)|Medium|
