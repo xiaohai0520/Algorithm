@@ -42,6 +42,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](./algorithms/1302.%20Deepest%20Leaves%20Sum.py)|Medium|
 |1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)|[Python](./algorithms/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.py)|Medium|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](./algorithms/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)|Easy|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./algorithms/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](./algorithms/1.%20two%20sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](./algorithms/2.%20Add%20Two%20Numbers.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
