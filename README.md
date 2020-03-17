@@ -25,6 +25,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./algorithms/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.py)|Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./algorithms/1332.%20Remove%20Palindromic%20Subsequences.py)|Easy|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](./algorithms/1331.%20Rank%20Transform%20of%20an%20Array.py)|Easy|
 |1329|[Break a Palindrome](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](./algorithms/1329.%20Sort%20the%20Matrix%20Diagonally.py)|Medium|
