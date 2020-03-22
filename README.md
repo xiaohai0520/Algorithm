@@ -25,6 +25,8 @@ leetcode 题解，记录 leetcode 解题之路。
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1390|[Four Divisors](https://leetcode.com/problems/four-divisors/)|[Python](./algorithms/1390.%20Four%20Divisors.py)|Medium|
+|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](./algorithms/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.py)|Easy|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./algorithms/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.py)|Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./algorithms/1332.%20Remove%20Palindromic%20Subsequences.py)|Easy|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](./algorithms/1331.%20Rank%20Transform%20of%20an%20Array.py)|Easy|
