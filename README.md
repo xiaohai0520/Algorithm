@@ -25,6 +25,7 @@ leetcode 题解，记录 leetcode 解题之路。
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Python](./algorithms/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.py)|Medium|
 |1390|[Four Divisors](https://leetcode.com/problems/four-divisors/)|[Python](./algorithms/1390.%20Four%20Divisors.py)|Medium|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](./algorithms/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.py)|Easy|
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Python](./algorithms/1382.%20Balance%20a%20Binary%20Search%20Tree.py)|Medium|
