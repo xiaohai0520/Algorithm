@@ -35,6 +35,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](./algorithms/1380.%20Lucky%20Numbers%20in%20a%20Matrix.py)|Medium|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python](./algorithms/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.py)|Medium|
 |1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Python](./algorithms/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.py)|Medium|
+|1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[Python](./algorithms/1375.%20Bulb%20Switcher%20III.py)|Medium|
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](./algorithms/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./algorithms/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.py)|Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./algorithms/1332.%20Remove%20Palindromic%20Subsequences.py)|Easy|
