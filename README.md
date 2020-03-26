@@ -30,6 +30,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |1390|[Four Divisors](https://leetcode.com/problems/four-divisors/)|[Python](./algorithms/1390.%20Four%20Divisors.py)|Medium|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](./algorithms/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.py)|Easy|
 |1387|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Python](./algorithms/1387.%20Sort%20Integers%20by%20The%20Power%20Value.py)|Medium|
+|1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[Python](./algorithms/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py)|Easy|
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Python](./algorithms/1382.%20Balance%20a%20Binary%20Search%20Tree.py)|Medium|
 |1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python](./algorithms/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.py)|Medium|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](./algorithms/1380.%20Lucky%20Numbers%20in%20a%20Matrix.py)|Medium|
