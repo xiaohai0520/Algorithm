@@ -25,6 +25,9 @@ leetcode 题解，记录 leetcode 解题之路。
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](./algorithms/1396.%20Design%20Underground%20System.py)|Medium|
+|1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Python](./algorithms/1395.%20Count%20Number%20of%20Teams.py)|Medium|
+|1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Python](./algorithms/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py)|Easy|
 |1392|[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)|[Python](./algorithms/1392.%20Longest%20Happy%20Prefix.py)|Hard|
 |1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Python](./algorithms/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.py)|Medium|
 |1390|[Four Divisors](https://leetcode.com/problems/four-divisors/)|[Python](./algorithms/1390.%20Four%20Divisors.py)|Medium|
@@ -38,6 +41,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Python](./algorithms/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.py)|Medium|
 |1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[Python](./algorithms/1375.%20Bulb%20Switcher%20III.py)|Medium|
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](./algorithms/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py)|Medium|
+|1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)|[Python](./algorithms/1361.%20Validate%20Binary%20Tree%20Nodes.py)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./algorithms/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.py)|Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./algorithms/1332.%20Remove%20Palindromic%20Subsequences.py)|Easy|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](./algorithms/1331.%20Rank%20Transform%20of%20an%20Array.py)|Easy|
