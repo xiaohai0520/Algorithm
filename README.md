@@ -41,6 +41,8 @@ leetcode 题解，记录 leetcode 解题之路。
 |1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Python](./algorithms/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.py)|Medium|
 |1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[Python](./algorithms/1375.%20Bulb%20Switcher%20III.py)|Medium|
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](./algorithms/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py)|Medium|
+|1371|[Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)|[Python](./algorithms/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.py)|Medium|
+|1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./algorithms/1370.%20Increasing%20Decreasing%20String.py)|Easy|
 |1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)|[Python](./algorithms/1361.%20Validate%20Binary%20Tree%20Nodes.py)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./algorithms/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.py)|Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./algorithms/1332.%20Remove%20Palindromic%20Subsequences.py)|Easy|
