@@ -43,7 +43,11 @@ leetcode 题解，记录 leetcode 解题之路。
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](./algorithms/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py)|Medium|
 |1371|[Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)|[Python](./algorithms/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.py)|Medium|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./algorithms/1370.%20Increasing%20Decreasing%20String.py)|Easy|
+|1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python](./algorithms/1367.%20Linked%20List%20in%20Binary%20Tree.py)|Medium|
+|1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[Python](./algorithms/1366.%20Rank%20Teams%20by%20Votes.py)|Medium|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./algorithms/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)|Easy|
 |1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)|[Python](./algorithms/1361.%20Validate%20Binary%20Tree%20Nodes.py)|Medium|
+|1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)|[Python](./algorithms/1360.%20Number%20of%20Days%20Between%20Two%20Dates.py)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./algorithms/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.py)|Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./algorithms/1332.%20Remove%20Palindromic%20Subsequences.py)|Easy|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](./algorithms/1331.%20Rank%20Transform%20of%20an%20Array.py)|Easy|
