@@ -1,35 +1,41 @@
 class Solution:
     def shortestBridge(self, A: List[List[int]]) -> int:
-        n = len(A)
-        def dfs(i, j, land):
-            for x,y in [(i+1,j), (i-1,j), (i,j+1), (i,j-1)]:
-                if 0<=x<n and 0<=y<n and A[x][y] == 1 and (x,y) not in land:
-                    land.add((x,y))
-                    dfs(x, y, land)
-        # dfs get two island
-        land1 = set()
-        land2 = set()
+        def dfs(i,j,n):
+            if i < 0 or i >= n or j < 0 or j >= n or A[i][j] == 0 or (i,j) in land:
+                return
+            land.add((i,j))
+            for x,y in ((1,0),(-1,0),(0,1),(0,-1)):
+                dfs(i+x,j+y,n)
+        
+        
+        
+        land = set()
+        n = len(A[0])
         flag = 0
         for i in range(n):
             for j in range(n):
                 if A[i][j] == 1:
-                    if (i,j) not in land1:
-                        if not flag:
-                            land1.add((i,j))
-                            dfs(i, j, land1)
-                            flag = 1
-                        else:
-                            land2.add((i,j))
-                            dfs(i, j, land2)
-        # bfs get the shortest distance
-        Q = collections.deque(list(land1))
-        level = 0
-        while Q:
-            for _ in range(len(Q)):
-                i,j = Q.popleft()
-                if (i,j) in land2: return level - 1
-                for x,y in [(i+1,j), (i-1,j), (i,j+1), (i,j-1)]:
-                    if 0 <= x < n and 0 <= y < n and (x,y) not in land1:
-                        land1.add((x,y))
-                        Q.append((x,y))
-            level += 1
+                    if flag == 0:
+                        dfs(i,j,n)
+                        flag = 1
+
+        print(land)       
+        queue = collections.deque(list(land))
+        step = 0
+        while queue:
+            print(queue)
+            for _ in range(len(queue)):
+                i,j = queue.popleft()
+                for x,y in ((1,0),(-1,0),(0,1),(0,-1)):
+                    if 0 <= i+x < n and 0 <= j + y < n:
+                        if A[i+x][j+y] == 1 and (i+x,j+y) not in land:
+                            return step
+                        if A[i+x][j+y] == 0:
+                            A[i+x][j+y] = 1
+                            queue.append((i+x,j+y))
+                            land.add((i+x,j+y))
+
+            step += 1
+
+                        
+            
