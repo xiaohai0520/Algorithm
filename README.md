@@ -70,6 +70,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](./algorithms/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)|Easy|
 |1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Python](./algorithms/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.py)|Medium|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./algorithms/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)|Easy|
+|934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Python](./algorithms/https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/934.%20Shortest%20Bridge.py)|Medium|
 |711|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python](./algorithms/711.%20Prefix%20and%20Suffix%20Search.py)|New|
 |710|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[Python](./algorithms/710.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|New|
 |709|[Network Delay Time](https://leetcode.com/problems/network-delay-time)|[Python](./algorithms/709.%20Network%20Delay%20Time.py)|New|
