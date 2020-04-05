@@ -25,6 +25,10 @@ leetcode 题解，记录 leetcode 解题之路。
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)|[Python](./algorithms/1402.%20Reducing%20Dishes.py)|Hard|
+|1401|[Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)|[Python](./algorithms/1401.%20Circle%20and%20Rectangle%20Overlapping.py)|Medium|
+|1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[Python](./algorithms/1400.%20Construct%20K%20Palindrome%20Strings.py)|Medium|
+|1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[Python](./algorithms/1399.%20Count%20Largest%20Group.py)|Easy|
 |1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](./algorithms/1396.%20Design%20Underground%20System.py)|Medium|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Python](./algorithms/1395.%20Count%20Number%20of%20Teams.py)|Medium|
 |1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Python](./algorithms/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py)|Easy|
