@@ -25,6 +25,10 @@ leetcode 题解，记录 leetcode 解题之路。
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[Python](./algorithms/1406.%20Stone%20Game%20III.py)|Hard|
+|1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Python](./algorithms/1405.%20Longest%20Happy%20String.py)|Medium|
+|1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/stone-game-iii/)|[Python](./algorithms/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.py)|Medium|
+|1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](./algorithms/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order.py)|Easy|
 |1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)|[Python](./algorithms/1402.%20Reducing%20Dishes.py)|Hard|
 |1401|[Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)|[Python](./algorithms/1401.%20Circle%20and%20Rectangle%20Overlapping.py)|Medium|
 |1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[Python](./algorithms/1400.%20Construct%20K%20Palindrome%20Strings.py)|Medium|
