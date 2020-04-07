@@ -88,7 +88,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](./algorithms/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)|Easy|
 |1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Python](./algorithms/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.py)|Medium|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./algorithms/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)|Easy|
-|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python(./algorithms/1291.%20Sequential%20Digits.py)|Medium|
+|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./algorithms/1291.%20Sequential%20Digits.py)|Medium|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](./algorithms/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)|Easy|
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Python](./algorithms/https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/934.%20Shortest%20Bridge.py)|Medium|
 |711|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python](./algorithms/711.%20Prefix%20and%20Suffix%20Search.py)|New|
