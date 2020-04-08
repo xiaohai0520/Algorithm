@@ -90,6 +90,8 @@ leetcode 题解，记录 leetcode 解题之路。
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./algorithms/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)|Easy|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./algorithms/1291.%20Sequential%20Digits.py)|Medium|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](./algorithms/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)|Easy|
+|1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Python](./algorithms/1288.%20Remove%20Covered%20Intervals.py)|Medium|
+|1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Python](./algorithms/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array.py)|Easy|
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Python](./algorithms/https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/934.%20Shortest%20Bridge.py)|Medium|
 |711|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python](./algorithms/711.%20Prefix%20and%20Suffix%20Search.py)|New|
 |710|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[Python](./algorithms/710.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|New|
