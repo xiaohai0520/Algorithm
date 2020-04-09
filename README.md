@@ -92,7 +92,9 @@ leetcode 题解，记录 leetcode 解题之路。
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](./algorithms/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)|Easy|
 |1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Python](./algorithms/1288.%20Remove%20Covered%20Intervals.py)|Medium|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Python](./algorithms/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array.py)|Easy|
-|934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Python](./algorithms/https://github.com/xiaohai0520/LeetCode/blob/master/algorithms/934.%20Shortest%20Bridge.py)|Medium|
+|1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](./algorithms/1286.%20Iterator%20for%20Combination.py)|Medium|
+|934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Python](./algorithms/934.%20Shortest%20Bridge.py)|Medium|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./algorithms/844.%20Backspace%20String%20Compare.py)|Medium|
 |711|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python](./algorithms/711.%20Prefix%20and%20Suffix%20Search.py)|New|
 |710|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[Python](./algorithms/710.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|New|
 |709|[Network Delay Time](https://leetcode.com/problems/network-delay-time)|[Python](./algorithms/709.%20Network%20Delay%20Time.py)|New|
