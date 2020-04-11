@@ -95,6 +95,7 @@ leetcode 题解，记录 leetcode 解题之路。
 |1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](./algorithms/1286.%20Iterator%20for%20Combination.py)|Medium|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](./algorithms/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.py)|Medium|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](./algorithms/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)|Easy|
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./algorithms/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.py)|Medium|
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Python](./algorithms/934.%20Shortest%20Bridge.py)|Medium|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./algorithms/844.%20Backspace%20String%20Compare.py)|Medium|
 |711|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python](./algorithms/711.%20Prefix%20and%20Suffix%20Search.py)|New|
