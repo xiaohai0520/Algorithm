@@ -28,7 +28,7 @@
 
 - 基础技巧：  
   - &nbsp;**二分** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BinarySearch.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/binary_search_on_leetcode.md)      
-  - &nbsp;分治  
+  - &nbsp;**分治** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)&nbsp; | &nbsp;**实例分析**
   - &nbsp;贪心  
 - 排序算法：
   - &nbsp;快速排序
