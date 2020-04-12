@@ -263,6 +263,7 @@ def binarySearchRightBound(arr,target):
 ```
 是不是看到这已经对二分法豁然开朗，了然于胸。
 
+## 7.总结
 我们只需要记住的是：
 
 对于标准二分法，找到目标，return 目标。
