@@ -19,9 +19,9 @@
 ## 2.分治框架
 ```
 def divide_conquer():
-		if 边界条件：
-				return 结果
-		左侧的结果 = divide_conquer(左侧)
-		右侧的结果 = divide_conquer(右侧)
-		conquer(左侧的结果，右侧的结果)
+	if 边界条件：
+		return 结果
+	左侧的结果 = divide_conquer(左侧)
+	右侧的结果 = divide_conquer(右侧)
+	conquer(左侧的结果，右侧的结果)
 ```
