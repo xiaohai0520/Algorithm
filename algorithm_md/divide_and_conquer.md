@@ -19,9 +19,12 @@
 ## 2.分治框架
 ```
 def divide_conquer():
-	if 边界条件：
-		return 结果
-	左侧的结果 = divide_conquer(左侧)
-	右侧的结果 = divide_conquer(右侧)
-	conquer(左侧的结果，右侧的结果)
+    if ...:
+        return
+    left = divide_conquer(left_part)
+    right = divide_conquer(left_part)
+    conquer(left,right)
 ```
+
+## 3.总结
+好了这个算法感觉没有什么难度，我们做的就是把麻烦的事情交给函数去解决，然后我们关注边界条件，这样从小片段开始解决，然后拼凑小片段变成最终的结果。
