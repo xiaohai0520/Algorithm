@@ -105,12 +105,12 @@
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./algorithms/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.py)|Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./algorithms/1332.%20Remove%20Palindromic%20Subsequences.py)|Easy|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](./algorithms/1331.%20Rank%20Transform%20of%20an%20Array.py)|Easy|
-|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](./algorithms/1329.%20Sort%20the%20Matrix%20Diagonally.py)|Medium|❤|
+|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](./algorithms/1329.%20Sort%20the%20Matrix%20Diagonally.py)|Medium|
 |1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[Python](./algorithms/1328.%20Break%20a%20Palindrome.py)|Medium|
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python](./algorithms/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.py)|Medium|
 |1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)|[Python](./algorithms/1324.%20Print%20Words%20Vertically.py)|Medium|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](./algorithms/1323.%20Maximum%2069%20Number.py)|Medium|
-|1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Python](./algorithms/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.py)|Medium|❤|
+|1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Python](./algorithms/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.py)|Medium|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Python](./algorithms/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.py)|Easy|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Python](./algorithms/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.py)|Medium|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[Python](./algorithms/1314.%20Matrix%20Block%20Sum.py)|Medium|
@@ -784,8 +784,8 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|[Python](./algorithms/64.%20Minimum%20Path%20Sum.py)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|[Python](./algorithms/63.%20Unique%20Paths%20II.py)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Python](./algorithms/62.%20Unique%20Paths.py)|Medium|
-|61|[Rotate List](https://leetcode.com/problems/rotate-list)|[Python](./algorithms/61.%20Rotate%20List.py)|Medium|❤|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Python](./algorithms/60.%20Permutation%20Sequence.py)|Medium|❤|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list)|[Python](./algorithms/61.%20Rotate%20List.py)|Medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Python](./algorithms/60.%20Permutation%20Sequence.py)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[Python](./algorithms/59.%20Spiral%20Matrix%20II.py)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](./algorithms/58.%20Length%20of%20Last%20Word.py)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval)|[Python](./algorithms/57.%20Insert%20Interval.py)|Hard|
@@ -794,40 +794,40 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Python](./algorithms/54.%20Spiral%20Matrix.py)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Python](./algorithms/53.%20Maximum%20Subarray.py)|Easy|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|[Python](./algorithms/52.%20N-Queens%20II.py)|Hard|
-|51|[N-Queens](https://leetcode.com/problems/n-queens)|[Python](./algorithms/51.%20N-Queens.py)|Hard|❤|
+|51|[N-Queens](https://leetcode.com/problems/n-queens)|[Python](./algorithms/51.%20N-Queens.py)|Hard|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Python](./algorithms/50.%20Pow(x,%20n).py)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Python](./algorithms/49.%20Group%20Anagrams.py)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Python](./algorithms/48.%20Rotate%20Image.py)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Python](./algorithms/47.%20Permutations%20II.py)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Python](./algorithms/46.%20Permutations.py)|Medium|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Python](./algorithms/45.%20Jump%20Game%20II.py)|Hard|❤|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)|[Python](./algorithms/44.%20Wildcard%20Matching.py)|Hard|❤|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Python](./algorithms/43.%20Multiply%20Strings.py)|Medium|❤|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Python](./algorithms/42.%20Trapping%20Rain%20Water.py)|Hard|❤|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[Python](./algorithms/41.%20First%20Missing%20Positive.py)|Hard|❤|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Python](./algorithms/45.%20Jump%20Game%20II.py)|Hard|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)|[Python](./algorithms/44.%20Wildcard%20Matching.py)|Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Python](./algorithms/43.%20Multiply%20Strings.py)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Python](./algorithms/42.%20Trapping%20Rain%20Water.py)|Hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[Python](./algorithms/41.%20First%20Missing%20Positive.py)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Python](./algorithms/40.%20Combination%20Sum%20II.py)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Python](./algorithms/39.%20Combination%20Sum.py)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Python](./algorithms/38.%20Count%20and%20Say.py)|Easy|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Python](./algorithms/37.%20Sudoku%20Solver.py)|Hard|❤|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Python](./algorithms/37.%20Sudoku%20Solver.py)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Python](./algorithms/36.%20Valid%20Sudoku.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Python](./algorithms/35.%20Search%20Insert%20Position.py)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./algorithms/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python](./algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array.py)|Medium|❤|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Python](./algorithms/32.%20Longest%20Valid%20Parentheses.py)|Hard|❤|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python](./algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array.py)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Python](./algorithms/32.%20Longest%20Valid%20Parentheses.py)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[Python](./algorithms/31.%20Next%20Permutation.py)|Medium|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Python](./algorithms/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|Hard|❤|
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Python](./algorithms/29.%20Divide%20Two%20Integers.py)|Medium|❤|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Python](./algorithms/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|Hard|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Python](./algorithms/29.%20Divide%20Two%20Integers.py)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python](./algorithms/28.%20Implement%20strStr().py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/27.%20Remove%20Element.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](./algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Python](./algorithms/25.%20Reverse%20Nodes%20in%20k-Group.py)|Hard|❤|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Python](./algorithms/25.%20Reverse%20Nodes%20in%20k-Group.py)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Python](./algorithms/24.%20Swap%20Nodes%20in%20Pairs.py)|Medium|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Python](./algorithms/23.%20Merge%20k%20Sorted%20Lists.py)|Hard|❤|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Python](./algorithms/23.%20Merge%20k%20Sorted%20Lists.py)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[Python](./algorithms/22.%20Generate%20Parentheses.py)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Python](./algorithms/21.%20Merge%20Two%20Sorted%20Lists.py)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Python](./algorithms/20.%20Valid%20Parentheses.py)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Python](./algorithms/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|Medium|
-|18|[4Sum](https://leetcode.com/problems/4sum)|[Python](./algorithms/18.%204Sum.py)|Medium|❤|
+|18|[4Sum](https://leetcode.com/problems/4sum)|[Python](./algorithms/18.%204Sum.py)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Python](./algorithms/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|[Python](./algorithms/16.%203Sum%20Closest.py)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum)|[Python](./algorithms/15.%203Sum.py)|Medium|
@@ -835,13 +835,13 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python](./algorithms/13.%20Roman%20to%20Integer.py)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[Python](./algorithms/12.%20Integer%20to%20Roman.py)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](./algorithms/11.%20Container%20With%20Most%20Water.py)|Medium|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[Python](./algorithms/10.%20Regular%20Expression%20Matching.py)|Hard|❤|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[Python](./algorithms/10.%20Regular%20Expression%20Matching.py)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Python](./algorithms/9.%20Palindrome%20Number.py)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Python](./algorithms/8.%20String%20to%20Integer%20(atoi).py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Python](./algorithms/7.%20Reverse%20Integer.py)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Python](./algorithms/6.%20ZigZag%20Conversion.py)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Python](./algorithms/5.%20Longest%20Palindromic%20Substring.py)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Python](./algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|Hard| ❤|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Python](./algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](./algorithms/2.%20Add%20Two%20Numbers.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](./algorithms/1.%20two%20sum.py)|Easy|
