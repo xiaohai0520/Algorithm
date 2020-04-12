@@ -95,7 +95,7 @@
 |1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[Python](./algorithms/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.py)|Medium|
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Python](./algorithms/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)|Easy|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Python](./algorithms/1352.%20Product%20of%20the%20Last%20K%20Numbers.py)|Medium|
-|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](./algorithms/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)|Easy|
+|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](./algorithms/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)|Easy|❤|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Python](./algorithms/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.py)|Medium|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Python](./algorithms/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py)|Easy|
 |1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Python](./algorithms/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.py)|Medium|
