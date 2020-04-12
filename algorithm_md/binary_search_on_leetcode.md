@@ -1,6 +1,6 @@
 # Leetcode Binary Search problems 
 
-## Find Bound
+## Find Boundry
 很多问题都可以转换为查找左边界或者查找右边界，这里面又需要考虑查找的值是不是在数组中，还是单纯的找出最后一个小于目标值(左边界)或者第一个大于目标值](右边界)。
 
 |#|Title|Solution|Difficulty|
