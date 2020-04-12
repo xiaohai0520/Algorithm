@@ -129,23 +129,144 @@ left,right其实都一样，因为循环的结束条件是`left == right`。
 
 我想你们应该明白`<=` 和 `<` 的区别在于搜索区间是不是闭合的， `<=` 的区间是[left,right]，而`<`的区间则是[left,right)，我们当然可以统一他们。
 
-现在我们想让区间两侧变成闭合的，那么在初始化left 和 right 的时候要 `left,right = 0,len(arr)-1`,这个时候循环终止条件变成 `left == right + 1`，我们来看一下代码。
+现在我们想让区间两侧变成闭合的，那么在初始化left 和 right 的时候要 `left,right = 0,len(arr)-1`,这个时候循环终止条件变成 `left == right + 1`， 
 
+退出while循环的条件变成了`left == right + 1`,我们想一下会有什么问题:
+
+当target比所有数字都大的时候，right一直不变，left则向右一直推进，直到`left == right + 1`时退出循环，那么这个时候left == len(arr),引起索引越界。
+因此，我们要在return之前进行判断看下left是否越界,我们看一下完整的代码:
 ```
 def searchLeftBound(arr,target):
     if not arr:
         return -1
-    left,right = 0,len(arr)-1
+    left,right = 0,len(arr) - 1 
+    while left <= right:
+        mid = (left + right)//2
+        if arr[mid] == target:
+            right = mid - 1    
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1 
+    if left >= len(arr) or arr[left] != target:
+        return -1
+    return left
+```
+## 5.二分搜索右侧边界
+搜索右侧边界的思想跟左侧很相似，只是有轻微的区别，废话不多说，我们先看一下代码吧。
+```
+def searchRightBound(arr,target):
+    if not arr:
+        return -1
+    left,right = 0,len(arr) 
     while left < right:
         mid = (left + right)//2
         if arr[mid] == target:
-            right = mid    #注意
+            left = mid + 1    #注意
         elif arr[mid] < target:
             left = mid + 1
         else:
             right = mid   #注意
-     return left
+     return left - 1
 ```
 
+**1.怎么找到的右边界？**
+关键点在于处理`arr[mid] == target`的方式
+```
+if arr[mid] == target:
+    left = mid + 1
+```
+当我们找到arr[mid] = target的时候，我们向右侧缩小搜索空间，直到退出循环，最终锁定右边界。
 
+**2.为什么返回的是`left-1`,而不是`left`或者 `right`？**
+首先我们要明确的是，退出循环的条件是`left == right`,所以你也可以选择 `return right - 1`
 
+那你又要问了，为什么要减1呢，因为当我们碰到`arr[mid] == target`的时候，采取的行动是`left = mid + 1`,当我们结束循环的时候，arr[left]不一定等于target了，但是arr[left-1]可能等于target。
+
+这个时候你可能又要多嘴问那为啥更新是 `left = mid + 1` 而不是 `left = mid` 呢? 我就再不厌其烦的解释一下吧：
+
+当`arr[mid] == target`时，我们要向右缩小搜索范围，此时的搜索范围是[left,right), 我们已经检查过mid了，那么向右的话就应该讲搜索范围变成[mid+1,right), 所以就是`left = mid + 1`。如果再不明白的话，请从头再理解一下二分法。
+
+**3.返回-1的操作怎么办呢？**
+如果target不在arr中，那我们最后需要检查一下left就好了。
+```
+if left == 0:
+    return -1
+return left - 1 if arr[left-1] == target else -1
+```
+**4.能不能统一格式？**
+废话不多说，代码拿去吧。
+```
+def searchRightBound(arr,target):
+    if not arr:
+        return -1
+    left,right = 0,len(arr)-1
+    while left <=right:
+        mid = (left + right)//2
+        if arr[mid] == target:
+            left = mid + 1    #注意
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1 注意
+     if right < 0 or arr[right] != target:
+          return -1
+     return right
+```
+当 target 比所有元素都小时，right 会被减到 -1，所以需要在最后防止越界。
+
+## 6.逻辑统一
+现在让我们统一三种二分的格式，全部使用[left,right]全闭的搜索区间来进行统一记忆，一次记他个乌漆嘛黑。
+
+```
+def binarySearch(arr,target):
+    left, right = 0,len(arr)-1
+    while left <= right:
+        mid = (left + right)//2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1
+```
+```
+def binarySearchLeftBound(arr,target):
+    left, right = 0,len(arr)-1
+    while left <= right:
+        mid = (left + right)//2
+        if arr[mid] == target:
+            right =  mid - 1
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    if left >= len(arr) or arr[left] != target:
+        return -1
+    return left
+```
+```
+def binarySearchRightBound(arr,target):
+    left, right = 0,len(arr)-1
+    while left <= right:
+        mid = (left + right)//2
+        if arr[mid] == target:
+            right =  mid - 1
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    if right < 0 or arr[right] != target:
+        return -1
+    return right
+```
+是不是看到这已经对二分法豁然开朗，了然于胸。
+
+我们只需要记住的是：
+
+对于标准二分法，找到目标，return 目标。
+
+对于找左边界， 找到目标，搜索区间向左推，即right = mid - 1, 最后看left是否超界。
+
+对于找右边界，找到目标，搜索区间向右推，即left = mid + 1，最后看right是否超界。
