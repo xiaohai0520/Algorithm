@@ -44,9 +44,10 @@
   - &nbsp;最短路径
   - &nbsp;最小生成树
 - 动态规划：
-  - &nbsp;背包问题
-  - &nbsp;最长子序列
-
+  - &nbsp;**DP基础** &nbsp;&nbsp;&nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)&nbsp; | &nbsp;**实例分析** 
+  - &nbsp;**背包问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)  
+  - &nbsp;**股票问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)
+  - &nbsp;**强盗问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)
 ## 数据结构：
 
 - 数组与链表：单 / 双向链表
