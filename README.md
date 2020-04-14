@@ -62,6 +62,10 @@
 
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
+|1411|[Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[Python](./algorithms/1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid.md)|Hard|❤|
+|1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](./algorithms/1410.%20HTML%20Entity%20Parser.md)|Medium|❤|
+|1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Python](./algorithms/1409.%20Queries%20on%20a%20Permutation%20With%20Key.md)|Medium|❤|
+|1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Python](./algorithms/1408.%20String%20Matching%20in%20an%20Array.md)|Easy|❤|
 |1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[Python](./algorithms/1406.%20Stone%20Game%20III.py)|Hard|
 |1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Python](./algorithms/1405.%20Longest%20Happy%20String.py)|Medium|
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/stone-game-iii/)|[Python](./algorithms/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.py)|Medium|
