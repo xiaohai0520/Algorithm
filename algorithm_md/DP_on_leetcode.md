@@ -1,6 +1,5 @@
-#动态规划
+# 动态规划
 
 |#|Title|Solution|Difficulty|
 |---|-----|--------|----------|
-|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python]
-(../algorithms/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)|Easy|
+|1411|[Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[Python](../algorithms/1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid.md)|Hard|
