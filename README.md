@@ -45,6 +45,7 @@
   - &nbsp;最小生成树
 - 动态规划：
   - &nbsp;**动归基础** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DP.md)&nbsp; | &nbsp;**实例分析** 
+  - &nbsp;**博弈问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DP_gaming.md)&nbsp; | &nbsp;**实例分析**      
   - &nbsp;**背包问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)  
   - &nbsp;**股票问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)
   - &nbsp;**强盗问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)
