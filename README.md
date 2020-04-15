@@ -28,7 +28,7 @@
 
 - 基础技巧：  
   - &nbsp;**二分** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BinarySearch.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/binary_search_on_leetcode.md)      
-  - &nbsp;**分治** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)&nbsp; | &nbsp;**实例分析**
+  - &nbsp;**分治** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/Gaming_on_leetcode.md)    
   - &nbsp;贪心  
 - 排序算法：
   - &nbsp;快速排序
@@ -560,7 +560,7 @@
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)|[Python](./algorithms/295.%20Find%20Median%20from%20Data%20Stream.py)|Hard|
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii)|[Python](./algorithms/294.%20Flip%20Game%20II.py)|None|
 |293|[Flip Game](https://leetcode.com/problems/flip-game)|[Python](./algorithms/293.%20Flip%20Game.py)|None|
-|292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.py)|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|❤|
 |291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii)|[Python](./algorithms/291.%20Word%20Pattern%20II.py)|None|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern)|[Python](./algorithms/290.%20Word%20Pattern.py)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life)|[Python](./algorithms/289.%20Game%20of%20Life.py)|Medium|
