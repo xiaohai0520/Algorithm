@@ -139,7 +139,9 @@
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](./algorithms/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.py)|Medium|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](./algorithms/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)|Easy|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./algorithms/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.py)|Medium|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](../algorithms/1025.%20Divisor%20Game.md)|Easy|❤|
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Python](./algorithms/934.%20Shortest%20Bridge.py)|Medium|
+|877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python](./algorithms/877.%20Stone%20Game.md)|Medium|❤|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./algorithms/844.%20Backspace%20String%20Compare.py)|Medium|
 |711|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Python](./algorithms/711.%20Prefix%20and%20Suffix%20Search.py)|New|
 |710|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[Python](./algorithms/710.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|New|
@@ -374,7 +376,7 @@
 |481|[The Maze](https://leetcode.com/problems/the-maze)|[Python](./algorithms/481.%20The%20Maze.py)|None|
 |480|[Zuma Game](https://leetcode.com/problems/zuma-game)|[Python](./algorithms/480.%20Zuma%20Game.py)|Hard|
 |479|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[Python](./algorithms/479.%20Max%20Consecutive%20Ones%20II.py)|None|
-|478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner)|[Python](./algorithms/478.%20Predict%20the%20Winner.py)|Medium|
+|478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](../algorithms/486.%20Predict%20the%20Winner.md)|Medium|❤|
 |477|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[Python](./algorithms/477.%20Max%20Consecutive%20Ones.py)|Easy|
 |476|[Find Permutation](https://leetcode.com/problems/find-permutation)|[Python](./algorithms/476.%20Find%20Permutation.py)|None|
 |475|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base)|[Python](./algorithms/475.%20Smallest%20Good%20Base.py)|Hard|
