@@ -4,6 +4,7 @@
 |1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](./algorithms/1410.%20HTML%20Entity%20Parser.md)|Medium|❤|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Python](./algorithms/1409.%20Queries%20on%20a%20Permutation%20With%20Key.md)|Medium|❤|
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Python](./algorithms/1408.%20String%20Matching%20in%20an%20Array.md)|Easy|❤|
+|1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[Python](./algorithms/1406.%20Stone%20Game%20III.md)|Hard|❤|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](./algorithms/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)|Easy|❤|
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](./algorithms/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.md)|Easy|❤|
 |1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Python](./algorithms/1140.%20Stone%20Game%20II.md)|Medium|❤|
