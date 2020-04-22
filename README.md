@@ -39,7 +39,7 @@
   - &nbsp;递归
   - &nbsp;深度优先遍历
   - &nbsp;广度优先遍历
-  - &nbsp;二叉搜索树等
+  - &nbsp;**二叉搜索树** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/algorithm_md/BST.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/binary_search_on_leetcode.md)
 - 图论：
   - &nbsp;最短路径
   - &nbsp;最小生成树
