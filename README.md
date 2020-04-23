@@ -29,7 +29,7 @@
 - 基础技巧：  
   - &nbsp;**二分** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BinarySearch.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/binary_search_on_leetcode.md)      
   - &nbsp;**分治** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)&nbsp; | &nbsp;[**实例分析**]    
-  - &nbsp;贪心  
+  - &nbsp;**贪心** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/greed.md)&nbsp; | &nbsp;[**实例分析**]     
 - 排序算法：
   - &nbsp;快速排序
   - &nbsp;归并排序
@@ -39,7 +39,7 @@
   - &nbsp;递归
   - &nbsp;深度优先遍历
   - &nbsp;广度优先遍历
-  - &nbsp;**二叉搜索树** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/algorithm_md/BST.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/binary_search_on_leetcode.md)
+  - &nbsp;**二叉搜索树** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/algorithm_md/BST.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/BST_on_leetcode.md)
 - 图论：
   - &nbsp;最短路径
   - &nbsp;最小生成树
