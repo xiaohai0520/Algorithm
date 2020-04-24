@@ -9,7 +9,9 @@
 |1372|[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)|[Python](./algorithms/1372.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.md)|Medium|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python](./algorithms/1367.%20Linked%20List%20in%20Binary%20Tree.md)|Medium|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](./algorithms/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)|Easy|
+|1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python](./algorithms/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md)|Medium|
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](./algorithms/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.md)|Easy|
+|1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python](./algorithms/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.md)|Medium|
 |1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Python](./algorithms/1140.%20Stone%20Game%20II.md)|Medium|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](./algorithms/1025.%20Divisor%20Game.md)|Easy|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python](./algorithms/877.%20Stone%20Game.md)|Medium|
