@@ -35,7 +35,7 @@
   - &nbsp;归并排序
   - &nbsp;计数排序
 - 搜索算法：
-  - &nbsp;回溯
+  - &nbsp;**回溯** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BackTrack.md.md)&nbsp; | &nbsp;[**实例分析**]
   - &nbsp;递归
   - &nbsp;深度优先遍历
   - &nbsp;广度优先遍历
