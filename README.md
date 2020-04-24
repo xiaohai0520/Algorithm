@@ -27,9 +27,9 @@
 ## 算法：
 
 - 基础技巧：  
-  - &nbsp;**二分** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BinarySearch.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/binary_search_on_leetcode.md)      
-  - &nbsp;**分治** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/divide_and_conquer.md)&nbsp; | &nbsp;[**实例分析**]    
-  - &nbsp;**贪心** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/greed.md)&nbsp; | &nbsp;[**实例分析**]     
+  - &nbsp;**二分** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BinarySearch.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/BinarySearch_leetcode.md)      
+  - &nbsp;**分治** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DivideConquer.md)&nbsp; | &nbsp;[**实例分析**]    
+  - &nbsp;**贪心** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/Greed.md)&nbsp; | &nbsp;[**实例分析**]     
 - 排序算法：
   - &nbsp;快速排序
   - &nbsp;归并排序
@@ -39,13 +39,13 @@
   - &nbsp;递归
   - &nbsp;深度优先遍历
   - &nbsp;广度优先遍历
-  - &nbsp;**二叉搜索树** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/algorithm_md/BST.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/BST_on_leetcode.md)
+  - &nbsp;**二叉搜索树** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/algorithm_md/BST.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/BST_leetcode.md)
 - 图论：
   - &nbsp;最短路径
   - &nbsp;最小生成树
 - 动态规划：
-  - &nbsp;**动归基础** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DP.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/DP_on_leetcode.md) 
-  - &nbsp;**博弈问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DP_gaming.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/Gaming_on_leetcode.md)      
+  - &nbsp;**动归基础** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DP.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/DP_leetcode.md) 
+  - &nbsp;**博弈问题** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/Gaming.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/Gaming_leetcode.md)      
   - &nbsp;**背包问题** &nbsp;|&nbsp; 
   - &nbsp;**股票问题** &nbsp;|&nbsp; 
   - &nbsp;**强盗问题** &nbsp;|&nbsp; 
