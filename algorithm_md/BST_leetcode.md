@@ -12,3 +12,4 @@
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](../algorithms/1302.%20Deepest%20Leaves%20Sum.md)|Medium|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Python](../algorithms/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md)|Medium|
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Python](../algorithms/1145.%20Binary%20Tree%20Coloring%20Game.md)|Medium|
+|1123|[Binary Tree Coloring Game](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Python](../algorithms/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.md)|Medium|
