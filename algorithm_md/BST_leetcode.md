@@ -14,3 +14,5 @@
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Python](../algorithms/1145.%20Binary%20Tree%20Coloring%20Game.md)|Medium|
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Python](../algorithms/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.md)|Medium|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python](../algorithms/1110.%20Delete%20Nodes%20And%20Return%20Forest.md)|Medium|
+|1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Python](../algorithms/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)|Hard|
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](../algorithms/1026.Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)|Medium|
