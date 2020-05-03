@@ -16,3 +16,5 @@
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python](../algorithms/1110.%20Delete%20Nodes%20And%20Return%20Forest.md)|Medium|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Python](../algorithms/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)|Hard|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](../algorithms/1026.Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)|Medium|
+|1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](../algorithms/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)|Easy|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](../algorithms/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)|Medium|
