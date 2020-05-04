@@ -18,3 +18,8 @@
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](../algorithms/1026.Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)|Medium|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](../algorithms/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](../algorithms/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)|Medium|
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Python](../algorithms/998.%20Maximum%20Binary%20Tree%20II.md)|Medium|
+
+
+
+
