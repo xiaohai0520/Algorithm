@@ -25,6 +25,7 @@
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](./algorithms/1025.%20Divisor%20Game.md)|Easy|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](./algorithms/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](./algorithms/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)|Medium|
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Python](./algorithms/998.%20Maximum%20Binary%20Tree%20II.md)|Medium|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python](./algorithms/877.%20Stone%20Game.md)|Medium|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|
