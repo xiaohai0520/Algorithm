@@ -29,6 +29,7 @@
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python](./993.%20Cousins%20in%20Binary%20Tree.md)|Easy|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](./988.%20Smallest%20String%20Starting%20From%20Leaf.md)|Medium|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](./987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)|Medium|
+|979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Python](./979.%20Distribute%20Coins%20in%20Binary%20Tree.md)|Medium|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python](./algorithms/877.%20Stone%20Game.md)|Medium|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 
