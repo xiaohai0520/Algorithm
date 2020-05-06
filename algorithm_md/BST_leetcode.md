@@ -23,3 +23,6 @@
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](../988.%20Smallest%20String%20Starting%20From%20Leaf.md)|Medium|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](../987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)|Medium|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Python](../979.%20Distribute%20Coins%20in%20Binary%20Tree.md)|Medium|
+|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[Python](../968.%20Binary%20Tree%20Cameras.md)|Hard|
+|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](../965.%20Univalued%20Binary%20Tree.md)|Easy|
+|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python](../958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md)|Medium|
