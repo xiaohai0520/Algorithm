@@ -33,6 +33,8 @@
 |968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[Python](./968.%20Binary%20Tree%20Cameras.md)|Hard|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](./965.%20Univalued%20Binary%20Tree.md)|Easy|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python](./958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md)|Medium|
+|951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](./951.%20Flip%20Equivalent%20Binary%20Trees.md)|Medium|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./938.%20Range%20Sum%20of%20BST.md)|Easy|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python](./algorithms/877.%20Stone%20Game.md)|Medium|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|
