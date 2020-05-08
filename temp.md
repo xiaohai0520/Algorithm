@@ -35,6 +35,9 @@
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python](./958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md)|Medium|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](./951.%20Flip%20Equivalent%20Binary%20Trees.md)|Medium|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./938.%20Range%20Sum%20of%20BST.md)|Easy|
+|897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Python](./897.Increasing%20Order%20Search%20Tree.md)|Easy|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Python](./889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md)|Medium|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python](./algorithms/877.%20Stone%20Game.md)|Medium|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](./872.Leaf-Similar%20Trees.md)|Easy|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|
