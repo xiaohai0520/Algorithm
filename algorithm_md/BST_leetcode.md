@@ -32,3 +32,7 @@
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](../951.%20Flip%20Equivalent%20Binary%20Trees.md)|Medium|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Python](../889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md)|Medium|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](../872.Leaf-Similar%20Trees.md)|Easy|
+|865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Python](../865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.md)|Medium|
+|863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Python](../863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)|Medium|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python](../814.%20Binary%20Tree%20Pruning.md)|Medium|
+|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](../783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)|Medium|
