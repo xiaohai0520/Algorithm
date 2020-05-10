@@ -36,3 +36,6 @@
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Python](../863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)|Medium|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python](../814.%20Binary%20Tree%20Pruning.md)|Medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](../783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)|Medium|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](../701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)|Medium|
+|687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](../687.Longest%20Univalue%20Path.md)|Easy|
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](../687.Longest%20Univalue%20Path.md)|Easy|
