@@ -45,6 +45,10 @@
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)|Medium|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./687.Longest%20Univalue%20Path.md)|Easy
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)|Easy|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./669.Trim%20a%20Binary%20Search%20Tree.md)|Easy|
+|662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./662.%20Maximum%20Width%20of%20Binary%20Tree.md)|Medium|
+|654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](./654.Maximum%20Binary%20Tree.md)|Medium|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|
 
