@@ -49,6 +49,8 @@
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./669.Trim%20a%20Binary%20Search%20Tree.md)|Easy|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./662.%20Maximum%20Width%20of%20Binary%20Tree.md)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](./654.Maximum%20Binary%20Tree.md)|Medium|
+|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](./653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)|Medium|
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python](./652.%20Find%20Duplicate%20Subtrees.md)|Medium|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|
-
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
