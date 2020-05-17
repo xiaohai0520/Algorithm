@@ -51,6 +51,9 @@
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](./654.Maximum%20Binary%20Tree.md)|Medium|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](./653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python](./652.%20Find%20Duplicate%20Subtrees.md)|Medium|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](./637.Average%20of%20Levels%20in%20Binary%20Tree.md)|Easy|
+|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](./623.%20Add%20One%20Row%20to%20Tree.md)|Medium|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./617.%20Merge%20Two%20Binary%20Trees.md)|Easy|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
