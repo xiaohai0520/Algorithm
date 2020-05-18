@@ -47,6 +47,9 @@
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](../algorithms/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md)|Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](../algorithms/623.%20Add%20One%20Row%20to%20Tree.md)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](../algorithms/617.%20Merge%20Two%20Binary%20Trees.md)|Easy|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Python](../algorithms/606.%20Construct%20String%20from%20Binary%20Tree.md)|Easy|
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](../algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal.md)|Easy|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](../algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal.md)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](../algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
 
 
