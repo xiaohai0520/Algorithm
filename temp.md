@@ -57,6 +57,10 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./algorithms/617.%20Merge%20Two%20Binary%20Trees.md)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](./algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal.md)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](./algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal.md)|Easy|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](./algorithms/572.%20Subtree%20of%20Another%20Tree.md)|Easy|
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./algorithms/563.%20Binary%20Tree%20Tilt.md)|Easy|
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](./algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree.md)|Easy|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](./algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
