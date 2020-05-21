@@ -61,6 +61,12 @@
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./algorithms/563.%20Binary%20Tree%20Tilt.md)|Easy|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](./algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree.md)|Easy|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./algorithms/538.%20Convert%20BST%20to%20Greater%20Tree.md)|Easy|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./algorithms/530.%20Minimum%20Absolute%20Difference%20in%20BST.md)|Easy|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](./algorithms/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)|Medium|
+|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](./algorithms/513.%20Find%20Bottom%20Left%20Tree%20Value.md)|Medium|
+
+
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](./algorithms/292.%20Nim%20Game.md)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](./algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
