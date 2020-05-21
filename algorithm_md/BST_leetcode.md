@@ -14,6 +14,7 @@
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Python](../algorithms/1145.%20Binary%20Tree%20Coloring%20Game.md)|Medium|
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Python](../algorithms/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.md)|Medium|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python](../algorithms/1110.%20Delete%20Nodes%20And%20Return%20Forest.md)|Medium|
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python](../algorithms/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)|Medium|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Python](../algorithms/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)|Hard|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](../algorithms/1026.Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)|Medium|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](../algorithms/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)|Easy|
@@ -54,6 +55,10 @@
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](../algorithms/563.%20Binary%20Tree%20Tilt.md)|Easy|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](../algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](../algorithms/543.%20Diameter%20of%20Binary%20Tree.md)|Easy|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](../algorithms/538.%20Convert%20BST%20to%20Greater%20Tree.md)|Easy|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](../algorithms/530.%20Minimum%20Absolute%20Difference%20in%20BST.md)|Easy|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](../algorithms/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)|Medium|
+|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](../algorithms/513.%20Find%20Bottom%20Left%20Tree%20Value.md)|Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](../algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
 
 
