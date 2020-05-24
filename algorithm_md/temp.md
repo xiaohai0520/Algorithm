@@ -66,6 +66,7 @@
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](../algorithms/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)|Medium|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](../algorithms/513.%20Find%20Bottom%20Left%20Tree%20Value.md)|Medium|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[Python](.../algorithms/508.%20Most%20Frequent%20Subtree%20Sum.md)|Medium|
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](../algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md)|Medium|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](../algorithms/486.%20Predict%20the%20Winner.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](../algorithms/292.%20Nim%20Game.md)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](../algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
