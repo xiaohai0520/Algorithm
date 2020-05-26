@@ -64,6 +64,11 @@
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](../algorithms/450.%20Delete%20Node%20in%20a%20BST.md)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Python](../algorithms/449.%20Serialize%20and%20Deserialize%20BST.md)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](../algorithms/437.%20Path%20Sum%20III.md)|Easy|
+|429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](../algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md)|Medium|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](../algorithms/404.%20Sum%20of%20Left%20Leaves.md)|Easy|
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](../algorithms/337.%20House%20Robber%20III.md)|Medium|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](../algorithms/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|Hard|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](../algorithms/257.Binary%20Tree%20Paths.md)|Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](../algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
 
 
