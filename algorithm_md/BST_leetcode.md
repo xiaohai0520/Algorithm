@@ -70,5 +70,11 @@
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](../algorithms/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|Hard|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](../algorithms/257.Binary%20Tree%20Paths.md)|Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](../algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](../algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](../algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Python](../algorithms/226.%20Invert%20Binary%20Tree.md)|Easy|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](../algorithms/222.%20Count%20Complete%20Tree%20Nodes.md)|Medium|
+
+
 
 
