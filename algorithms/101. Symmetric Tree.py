@@ -1,5 +1,18 @@
-#recursive and iterater
+## 101. Symmetric Tree
 
+### 题目分析
+判断两棵树是否是镜像的
+
+### 解法
+分别去对比left和right。
+
+时间复杂度 O（n）
+
+空间复杂度 O（1）
+
+
+### 代码
+```
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
@@ -8,47 +21,15 @@
 #         self.right = None
 
 class Solution:
-    def isSymmetric(self, root):
-        """
-        :type root: TreeNode
-        :rtype: bool
-        """
-#         if not root:
-#             return True
-#         return self.helper(root.left,root.right)
-    
-#     def helper(self,left,right):
-#         if not left and not right:
-#             return True
-#         elif not left and right:
-#             return False
-#         elif not right and left:
-#             return False
-#         else:
-#             return left.val == right.val and self.helper(left.right,right.left) and self.helper(left.left,right.right)
-        
-        if root is None:
-              return True
-
-        stack = [(root.left, root.right)]
-
-        while len(stack) > 0:
-            left,right = stack.pop(0)
-
-
-            if left is None and right is None:
-                continue
-            if left is None or right is None:
+    def isSymmetric(self, root: TreeNode) -> bool:
+        if not root:
+            return True
+        def helper(p,q):
+            if not p and not q:
+                return True
+            elif not p or not q:
                 return False
-            if left.val == right.val:
-                stack.append((left.left, right.right))
-
-                stack.append((left.right, right.left))
             else:
-                return False
-        return True
-
-
-
-
-        
+                return p.val == q.val and helper(p.left,q.right) and helper(p.right,q.left)
+        return helper(root.left,root.right)
+```
