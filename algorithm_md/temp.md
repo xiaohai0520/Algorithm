@@ -82,6 +82,7 @@
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](../algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Python](../algorithms/226.%20Invert%20Binary%20Tree.md)|Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](../algorithms/222.%20Count%20Complete%20Tree%20Nodes.md)|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](../algorithms/100.Same%20Tree.md)|Hard|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/99.%20Recover%20Binary%20Search%20Tree.md)|Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/98.%20Validate%20Binary%20Search%20Tree.md)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|
