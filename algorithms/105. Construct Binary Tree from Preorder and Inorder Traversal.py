@@ -1,7 +1,18 @@
-#preorder first one must be root
-#inorder to divide left and right
+## 105. Construct Binary Tree from Preorder and Inorder Traversal
 
 
+### 题目分析
+用preorder和inorder去构造树
+
+### 解法
+preorder第一个用来做root, inorder用root的值来分成左和右。
+
+时间复杂度 O（n）
+
+空间复杂度 O (1)
+
+### 代码
+```
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
@@ -24,3 +35,5 @@ class Solution:
             root.right = self.buildTree(preorder,inorder[index+1:])
         
         return root
+```
+
