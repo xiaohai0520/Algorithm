@@ -9,6 +9,22 @@
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/99.%20Recover%20Binary%20Search%20Tree.md)|Hard|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](../algorithms/100.Same%20Tree.md)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](../algorithms/101.%20Symmetric%20Tree.md)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](../algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)|Medium|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](../algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](../algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](../algorithms/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](../algorithms/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)|Medium|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](../algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](../algorithms/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](../algorithms/110.%20Balanced%20Binary%20Tree.md)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](../algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](../algorithms/112.%20Path%20Sum.md)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python](../algorithms/113.%20Path%20Sum%20II.md)|Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](../algorithms/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)|Medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](../algorithms/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)|Medium|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](../algorithms/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)|Medium|
+
+
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](../algorithms/222.%20Count%20Complete%20Tree%20Nodes.md)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Python](../algorithms/226.%20Invert%20Binary%20Tree.md)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](../algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)|Medium|
