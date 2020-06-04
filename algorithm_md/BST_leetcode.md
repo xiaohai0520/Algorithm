@@ -2,7 +2,7 @@
 
 |#|Title|Solution|Difficulty|
 |---|-----|--------|----------|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](../algorithms/222.%20Count%20Complete%20Tree%20Nodes.md)|Hard|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](../algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/95.%20Unique%20Binary%20Search%20Trees%20II.md)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/98.%20Validate%20Binary%20Search%20Tree.md)|Medium|
