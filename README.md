@@ -37,8 +37,8 @@
 - 搜索算法：
   - &nbsp;**回溯** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BackTrack.md)&nbsp; | &nbsp;[**实例分析**]
   - &nbsp;**递归** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/Recursive.md)&nbsp; | &nbsp;[**实例分析**]
-  - &nbsp;深度优先遍历
-  - &nbsp;广度优先遍历
+  - &nbsp;**深度优先遍历** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DFS.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/DFS_leetcode.md) 
+  - &nbsp;**广度优先遍历** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BFS.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/BFS_leetcode.md) 
   - &nbsp;**二叉搜索树** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/algorithm_md/BST.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/BST_leetcode.md)
 - 图论：
   - &nbsp;最短路径
