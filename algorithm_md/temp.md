@@ -104,11 +104,13 @@
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python](../algorithms/1367.%20Linked%20List%20in%20Binary%20Tree.md)|Medium|
 |1372|[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)|[Python](../algorithms/1372.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.md)|Medium|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python](../algorithms/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.md)|Medium|
+|1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Python](../algorithms/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.md)|Medium|
 |1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[Python](../algorithms/1406.%20Stone%20Game%20III.md)|Hard|
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Python](../algorithms/1408.%20String%20Matching%20in%20an%20Array.md)|Easy|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Python](../algorithms/1409.%20Queries%20on%20a%20Permutation%20With%20Key.md)|Medium|
 |1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](../algorithms/1410.%20HTML%20Entity%20Parser.md)|Medium|
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[Python](../algorithms/1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid.md)|Hard|
+|1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[Python](../algorithms/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.md)|Medium|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](../algorithms/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md)|Medium|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python](../algorithms/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.md)|Medium|
 |1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[Python](../algorithms/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.md)|Medium|
