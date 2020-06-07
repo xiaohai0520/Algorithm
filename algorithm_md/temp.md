@@ -103,6 +103,7 @@
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](../algorithms/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)|Easy|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python](../algorithms/1367.%20Linked%20List%20in%20Binary%20Tree.md)|Medium|
 |1372|[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)|[Python](../algorithms/1372.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.md)|Medium|
+|1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Python](../algorithms/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.md)|Medium|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python](../algorithms/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.md)|Medium|
 |1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Python](../algorithms/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.md)|Medium|
 |1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[Python](../algorithms/1406.%20Stone%20Game%20III.md)|Hard|
