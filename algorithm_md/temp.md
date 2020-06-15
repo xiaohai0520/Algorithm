@@ -115,3 +115,5 @@
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](../algorithms/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md)|Medium|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python](../algorithms/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.md)|Medium|
 |1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[Python](../algorithms/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.md)|Medium|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](../algorithms/1480.%20Running%20Sum%20of%201d%20Array.md)|Easy|
+|1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|[Python](../algorithms/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md)|Medium|
