@@ -29,7 +29,7 @@
 - 基础技巧：  
   - &nbsp;**二分** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BinarySearch.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/BinarySearch_leetcode.md)      
   - &nbsp;**分治** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DivideConquer.md)&nbsp; | &nbsp;[**实例分析**]    
-  - &nbsp;**贪心** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/Greed.md)&nbsp; | &nbsp;[**实例分析**]     
+  - &nbsp;**贪心** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/Greed.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/Greed_leetcode.md)      
 - 排序算法：
   - &nbsp;快速排序
   - &nbsp;归并排序
