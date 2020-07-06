@@ -1,6 +1,7 @@
 |#|Title|Solution|Difficulty|Review|
 |---|-----|--------|----------|--|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](../algorithms/1.%20Two%20Sum.md)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](../algorithms/2.%20Add%20Two%20Numbers.md)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](../algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md)|Hard|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/95.%20Unique%20Binary%20Search%20Trees%20II.md)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|
