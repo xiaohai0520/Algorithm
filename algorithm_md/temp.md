@@ -42,6 +42,7 @@
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](../algorithms/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](../algorithms/310.%20Minimum%20Height%20Trees.md)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](../algorithms/326.%20Power%20of%20Three.md)|Easy|
+|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](../algorithms/332.%20Reconstruct%20Itinerary.md)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](../algorithms/337.%20House%20Robber%20III.md)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](../algorithms/404.%20Sum%20of%20Left%20Leaves.md)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](../algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md)|Medium|
