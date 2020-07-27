@@ -3,49 +3,50 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](../algorithms/1.%20Two%20Sum.md)|Easy|Array|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](../algorithms/2.%20Add%20Two%20Numbers.md)|Medium|LinkedList|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](../algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|Sliding Window|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](../algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md)|Hard|
-|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/95.%20Unique%20Binary%20Search%20Trees%20II.md)|Medium|
-|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/98.%20Validate%20Binary%20Search%20Tree.md)|Medium|
-|99|[Recover Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/99.%20Recover%20Binary%20Search%20Tree.md)|Hard|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](../algorithms/100.Same%20Tree.md)|Hard|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](../algorithms/101.%20Symmetric%20Tree.md)|Easy|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](../algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)|Medium|
-|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](../algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)|Medium|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](../algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|Easy|
-|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](../algorithms/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)|Medium|
-|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](../algorithms/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)|Medium|
-|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](../algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](../algorithms/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)|Easy|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](../algorithms/110.%20Balanced%20Binary%20Tree.md)|Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](../algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md)|Hard|Tree|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/95.%20Unique%20Binary%20Search%20Trees%20II.md)|Medium|Tree|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|Tree|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/98.%20Validate%20Binary%20Search%20Tree.md)|Medium|Tree|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](../algorithms/99.%20Recover%20Binary%20Search%20Tree.md)|Hard|Tree|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](../algorithms/100.Same%20Tree.md)|Hard|Tree|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](../algorithms/101.%20Symmetric%20Tree.md)|Easy|Tree|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](../algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)|Medium|Tree|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](../algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)|Medium|Tree|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](../algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|Easy|Tree|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](../algorithms/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)|Medium|Tree|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](../algorithms/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)|Medium|Tree|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](../algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|Tree|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](../algorithms/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)|Easy|Tree|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](../algorithms/110.%20Balanced%20Binary%20Tree.md)|Easy|Tree|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](../algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)|Easy|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](../algorithms/112.%20Path%20Sum.md)|Easy|
-|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python](../algorithms/113.%20Path%20Sum%20II.md)|Medium|
-|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](../algorithms/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)|Medium|
-|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](../algorithms/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)|Medium|
-|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](../algorithms/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)|Medium|
-|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](../algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)|Hard|
-|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](../algorithms/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)|Medium|
-|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](../algorithms/130.%20Surrounded%20Regions.md)|Medium|
-|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Python](../algorithms/133.%20Clone%20Graph.md)|Medium|
-|144|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](../algorithms/144.%20Binary%20Tree%20Preorder%20Traversal.md)|Medium|
-|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](../algorithms/145.%20Binary%20Tree%20Postorder%20Traversal.md)|Hard|
-|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](../algorithms/173.%20Binary%20Search%20Tree%20Iterator.md)|Medium|
-|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](../algorithms/199.%20Binary%20Tree%20Right%20Side%20View.md)|Medium|
-|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](../algorithms/200.%20Number%20of%20Islands.md)|Medium|
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](../algorithms/203.%20Remove%20Linked%20List%20Elements.md)|Medium|
-|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](../algorithms/207.%20Course%20Schedule.md)|Medium|
-|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](../algorithms/222.%20Count%20Complete%20Tree%20Nodes.md)|Medium|
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Python](../algorithms/226.%20Invert%20Binary%20Tree.md)|Easy|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](../algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)|Medium|
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](../algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)|Easy|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](../algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](../algorithms/112.%20Path%20Sum.md)|Easy|Tree|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python](../algorithms/113.%20Path%20Sum%20II.md)|Medium|Tree|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](../algorithms/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)|Medium|Tree|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](../algorithms/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)|Medium|Tree|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](../algorithms/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)|Medium|Tree|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](../algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)|Hard|Tree|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](../algorithms/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)|Medium|Tree|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](../algorithms/130.%20Surrounded%20Regions.md)|Medium|Tree|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Python](../algorithms/133.%20Clone%20Graph.md)|Medium|DFS|
+|144|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](../algorithms/144.%20Binary%20Tree%20Preorder%20Traversal.md)|Medium|Tree|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](../algorithms/145.%20Binary%20Tree%20Postorder%20Traversal.md)|Hard|Tree|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](../algorithms/173.%20Binary%20Search%20Tree%20Iterator.md)|Medium|Tree|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](../algorithms/199.%20Binary%20Tree%20Right%20Side%20View.md)|Medium|Tree|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](../algorithms/200.%20Number%20of%20Islands.md)|Medium|DFS|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](../algorithms/203.%20Remove%20Linked%20List%20Elements.md)|Medium|Linkedlist|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](../algorithms/207.%20Course%20Schedule.md)|Medium|Topological|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](../algorithms/210.%20Course%20Schedule%20II.md)|Medium|Topological|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](../algorithms/222.%20Count%20Complete%20Tree%20Nodes.md)|Medium|Tree|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Python](../algorithms/226.%20Invert%20Binary%20Tree.md)|Easy|Tree|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](../algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)|Medium|Tree|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](../algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)|Easy|Tree|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](../algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)|Medium|Tree|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](../algorithms/257.Binary%20Tree%20Paths.md)|Medium|
-|292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](../algorithms/292.%20Nim%20Game.md)|Easy|
-|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](../algorithms/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|Hard|
-|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](../algorithms/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|
-|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](../algorithms/310.%20Minimum%20Height%20Trees.md)|Medium|
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](../algorithms/326.%20Power%20of%20Three.md)|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](../algorithms/292.%20Nim%20Game.md)|Easy|Gaming|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](../algorithms/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|Hard|Tree|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](../algorithms/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|Array|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](../algorithms/310.%20Minimum%20Height%20Trees.md)|Medium|Tree|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](../algorithms/326.%20Power%20of%20Three.md)|Easy|Tree|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](../algorithms/332.%20Reconstruct%20Itinerary.md)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](../algorithms/337.%20House%20Robber%20III.md)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](../algorithms/404.%20Sum%20of%20Left%20Leaves.md)|Easy|
