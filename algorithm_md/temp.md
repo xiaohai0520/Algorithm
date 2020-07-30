@@ -44,7 +44,8 @@
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](../algorithms/257.Binary%20Tree%20Paths.md)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](../algorithms/292.%20Nim%20Game.md)|Easy|Gaming|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](../algorithms/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|Hard|Tree|
-|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](../algorithms/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|Array|
+|301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Python](../algorithms/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|Array|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](../algorithms/301.%20Remove%20Invalid%20Parentheses.md)|Hard|DFS|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](../algorithms/310.%20Minimum%20Height%20Trees.md)|Medium|Tree|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](../algorithms/326.%20Power%20of%20Three.md)|Easy|Tree|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](../algorithms/332.%20Reconstruct%20Itinerary.md)|Medium|
