@@ -123,6 +123,7 @@
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Python](./algorithms/449.%20Serialize%20and%20Deserialize%20BST.md)|Medium|Tree|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](./algorithms/450.%20Delete%20Node%20in%20a%20BST.md)|Medium|Tree|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./algorithms/461.Hamming%20Distance.md)|Easy|Array|
+|472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Python](./algorithms/472.%20Concatenated%20Words.md)|Hard|DFS|×|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|DP|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md)|Medium|Tree|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[Python](../algorithms/508.%20Most%20Frequent%20Subtree%20Sum.md)|Medium|Tree|
