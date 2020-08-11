@@ -124,6 +124,7 @@
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](./algorithms/450.%20Delete%20Node%20in%20a%20BST.md)|Medium|Tree|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./algorithms/461.Hamming%20Distance.md)|Easy|Array|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Python](./algorithms/472.%20Concatenated%20Words.md)|Hard|DFS|×|
+|473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Python](./algorithms/473.%20Matchsticks%20to%20Square.md)|Medium|DFS|×|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|DP|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md)|Medium|Tree|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[Python](../algorithms/508.%20Most%20Frequent%20Subtree%20Sum.md)|Medium|Tree|
@@ -147,6 +148,7 @@
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./algorithms/669.Trim%20a%20Binary%20Search%20Tree.md)|Easy|Tree|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./algorithms/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)|Easy|Tree|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./algorithms/687.Longest%20Univalue%20Path.md)|Easy|Tree|
+|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Python](./algorithms/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md)|Medium|dfs|×|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./algorithms/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)|Medium|Tree|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./algorithms/783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)|Medium|Tree|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python](./algorithms/814.%20Binary%20Tree%20Pruning.md)|Medium|Tree|
