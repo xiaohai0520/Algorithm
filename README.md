@@ -25,7 +25,8 @@
 只有熟练掌握基础的数据结构与算法，才能对复杂问题迎刃有余。 
 
 ## 算法：
-
+- 基础概念：  
+  - &nbsp;**复杂度** &nbsp;|&nbsp; [**概念详解**](./algorithm_md/BinarySearch.md)     
 - 基础技巧：  
   - &nbsp;**二分** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/BinarySearch.md)&nbsp; | &nbsp;[**实例分析**](./algorithm_md/BinarySearch_leetcode.md)      
   - &nbsp;**分治** &nbsp;|&nbsp; [**算法详解**](./algorithm_md/DivideConquer.md)&nbsp; | &nbsp;**实例分析**    
@@ -125,7 +126,8 @@
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./algorithms/461.Hamming%20Distance.md)|Easy|Array|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Python](./algorithms/472.%20Concatenated%20Words.md)|Hard|DFS|×|
 |473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Python](./algorithms/473.%20Matchsticks%20to%20Square.md)|Medium|DFS|×|
-|478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|DP|
+|478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|DP|×|
+|491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Python](./algorithms/491.%20Increasing%20Subsequences.md)|Medium|DFS|√|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md)|Medium|Tree|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[Python](../algorithms/508.%20Most%20Frequent%20Subtree%20Sum.md)|Medium|Tree|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](./algorithms/513.%20Find%20Bottom%20Left%20Tree%20Value.md)|Medium|Tree|
