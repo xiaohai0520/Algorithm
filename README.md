@@ -128,6 +128,7 @@
 |473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Python](./algorithms/473.%20Matchsticks%20to%20Square.md)|Medium|DFS|×|
 |478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|DP|×|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Python](./algorithms/491.%20Increasing%20Subsequences.md)|Medium|DFS|√|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./algorithms/494.%20Target%20Sum.md)|Medium|DFS,DP|×|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md)|Medium|Tree|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[Python](../algorithms/508.%20Most%20Frequent%20Subtree%20Sum.md)|Medium|Tree|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](./algorithms/513.%20Find%20Bottom%20Left%20Tree%20Value.md)|Medium|Tree|
