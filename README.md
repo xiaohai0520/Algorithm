@@ -137,6 +137,7 @@
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./algorithms/538.%20Convert%20BST%20to%20Greater%20Tree.md)|Easy|Tree|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](./algorithms/542.%2001%20Matrix.md)|Medium|BFS|×|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree.md)|Easy|Tree|
+|547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Python](./algorithms/547.%20Friend%20Circles.md)|Medium|DFS|√|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](./algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|Tree|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./algorithms/563.%20Binary%20Tree%20Tilt.md)|Easy|Tree|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](./algorithms/572.%20Subtree%20of%20Another%20Tree.md)|Easy|Tree|
