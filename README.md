@@ -141,6 +141,7 @@
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](./algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|Tree|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./algorithms/563.%20Binary%20Tree%20Tilt.md)|Easy|Tree|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](./algorithms/572.%20Subtree%20of%20Another%20Tree.md)|Easy|Tree|
+|576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Python](./algorithms/576.%20Out%20of%20Boundary%20Paths.md)|Medium|DFS + DP|×|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](./algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal.md)|Easy|Tree|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](./algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal.md)|Easy|Tree|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./algorithms/617.%20Merge%20Two%20Binary%20Trees.md)|Easy|Tree|
