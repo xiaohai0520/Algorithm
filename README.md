@@ -152,6 +152,7 @@
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](./algorithms/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)|Medium|Tree|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](./algorithms/654.Maximum%20Binary%20Tree.md)|Medium|Tree|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./algorithms/662.%20Maximum%20Width%20of%20Binary%20Tree.md)|Medium|Tree|
+|664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./algorithms/664.%20Strange%20Printer.md)|Hard|DFS+DP|x|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./algorithms/669.Trim%20a%20Binary%20Search%20Tree.md)|Easy|Tree|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./algorithms/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)|Easy|Tree|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./algorithms/687.Longest%20Univalue%20Path.md)|Easy|Tree|
