@@ -156,6 +156,8 @@
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./algorithms/669.Trim%20a%20Binary%20Search%20Tree.md)|Easy|Tree|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./algorithms/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)|Easy|Tree|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./algorithms/687.Longest%20Univalue%20Path.md)|Easy|Tree|
+|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Python](./algorithms/690.%20Employee%20Importance.md)|Easy|BFS|√|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./algorithms/695.%20Max%20Area%20of%20Island.md)|Medium|DFS|√|
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Python](./algorithms/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md)|Medium|dfs|×|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./algorithms/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)|Medium|Tree|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./algorithms/783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)|Medium|Tree|
