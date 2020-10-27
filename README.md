@@ -62,12 +62,12 @@
 
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
-
-|#|Title|Solution|Difficulty|Topic|Review|
-|---|-----|--------|----------|--|--|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./algorithms/1.%20Two%20Sum.md)|Easy|Array|√|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./algorithms/2.%20Add%20Two%20Numbers.md)|Medium|LinkedList|√|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|Sliding Window|√|
+##【151/1000】
+|#|Title|Solution|Difficulty|Topic|
+|---|-----|--------|----------|--|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./algorithms/1.%20Two%20Sum.md)|Easy|Array|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./algorithms/2.%20Add%20Two%20Numbers.md)|Medium|LinkedList|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|Sliding Window|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md)|Hard|Tree|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](./algorithms/95.%20Unique%20Binary%20Search%20Trees%20II.md)|Medium|Tree|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](./algorithms/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|Tree|
@@ -113,55 +113,55 @@
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](./algorithms/301.%20Remove%20Invalid%20Parentheses.md)|Hard|DFS|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](./algorithms/310.%20Minimum%20Height%20Trees.md)|Medium|Tree|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](./algorithms/326.%20Power%20of%20Three.md)|Easy|Tree|
-|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](./algorithms/332.%20Reconstruct%20Itinerary.md)|Medium|DFS|x|
-|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](./algorithms/337.%20House%20Robber%20III.md)|Medium|DFS,Tree|x|
-|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./algorithms/394.%20Decode%20String.md)|Medium|DFS,Stack|×|
+|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](./algorithms/332.%20Reconstruct%20Itinerary.md)|Medium|DFS|
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](./algorithms/337.%20House%20Robber%20III.md)|Medium|DFS,Tree|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./algorithms/394.%20Decode%20String.md)|Medium|DFS,Stack|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./algorithms/404.%20Sum%20of%20Left%20Leaves.md)|Easy|Tree|
-|417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Python](./algorithms/417.%20Pacific%20Atlantic%20Water%20Flow.md)|Medium|DFS|×|
+|417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Python](./algorithms/417.%20Pacific%20Atlantic%20Water%20Flow.md)|Medium|DFS|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](./algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md)|Medium|Tree|
-|430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./algorithms/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md)|Medium|DFS LinkedList|×|
+|430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./algorithms/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md)|Medium|DFS LinkedList|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](./algorithms/437.%20Path%20Sum%20III.md)|Easy|Tree|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Python](./algorithms/449.%20Serialize%20and%20Deserialize%20BST.md)|Medium|Tree|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](./algorithms/450.%20Delete%20Node%20in%20a%20BST.md)|Medium|Tree|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./algorithms/461.Hamming%20Distance.md)|Easy|Array|
-|472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Python](./algorithms/472.%20Concatenated%20Words.md)|Hard|DFS|×|
-|473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Python](./algorithms/473.%20Matchsticks%20to%20Square.md)|Medium|DFS|×|
-|478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|DP|×|
-|491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Python](./algorithms/491.%20Increasing%20Subsequences.md)|Medium|DFS|√|
-|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./algorithms/494.%20Target%20Sum.md)|Medium|DFS,DP|×|
+|472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Python](./algorithms/472.%20Concatenated%20Words.md)|Hard|DFS|
+|473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Python](./algorithms/473.%20Matchsticks%20to%20Square.md)|Medium|DFS|
+|478|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](./algorithms/486.%20Predict%20the%20Winner.md)|Medium|DP|
+|491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Python](./algorithms/491.%20Increasing%20Subsequences.md)|Medium|DFS|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./algorithms/494.%20Target%20Sum.md)|Medium|DFS,DP|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md)|Medium|Tree|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[Python](../algorithms/508.%20Most%20Frequent%20Subtree%20Sum.md)|Medium|Tree|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](./algorithms/513.%20Find%20Bottom%20Left%20Tree%20Value.md)|Medium|Tree|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](./algorithms/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)|Medium|Tree|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./algorithms/530.%20Minimum%20Absolute%20Difference%20in%20BST.md)|Easy|Tree|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./algorithms/538.%20Convert%20BST%20to%20Greater%20Tree.md)|Easy|Tree|
-|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](./algorithms/542.%2001%20Matrix.md)|Medium|BFS|×|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](./algorithms/542.%2001%20Matrix.md)|Medium|BFS|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree.md)|Easy|Tree|
-|547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Python](./algorithms/547.%20Friend%20Circles.md)|Medium|DFS|√|
+|547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Python](./algorithms/547.%20Friend%20Circles.md)|Medium|DFS|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](./algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|Tree|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./algorithms/563.%20Binary%20Tree%20Tilt.md)|Easy|Tree|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](./algorithms/572.%20Subtree%20of%20Another%20Tree.md)|Easy|Tree|
-|576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Python](./algorithms/576.%20Out%20of%20Boundary%20Paths.md)|Medium|DFS + DP|×|
+|576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Python](./algorithms/576.%20Out%20of%20Boundary%20Paths.md)|Medium|DFS + DP|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](./algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal.md)|Easy|Tree|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](./algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal.md)|Easy|Tree|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./algorithms/617.%20Merge%20Two%20Binary%20Trees.md)|Easy|Tree|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](./algorithms/623.%20Add%20One%20Row%20to%20Tree.md)|Medium|Tree|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](./algorithms/637.Average%20of%20Levels%20in%20Binary%20Tree.md)|Easy|Tree|
-|638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Python](./algorithms/638.%20Shopping%20Offers.md)|Medium|DFS+DP|x|
+|638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Python](./algorithms/638.%20Shopping%20Offers.md)|Medium|DFS+DP|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python](./algorithms/652.%20Find%20Duplicate%20Subtrees.md)|Medium|Tree|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](./algorithms/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)|Medium|Tree|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](./algorithms/654.Maximum%20Binary%20Tree.md)|Medium|Tree|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./algorithms/662.%20Maximum%20Width%20of%20Binary%20Tree.md)|Medium|Tree|
-|664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./algorithms/664.%20Strange%20Printer.md)|Hard|DFS+DP|x|
+|664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./algorithms/664.%20Strange%20Printer.md)|Hard|DFS+DP|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./algorithms/669.Trim%20a%20Binary%20Search%20Tree.md)|Easy|Tree|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./algorithms/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)|Easy|Tree|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./algorithms/687.Longest%20Univalue%20Path.md)|Easy|Tree|
-|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Python](./algorithms/690.%20Employee%20Importance.md)|Easy|BFS|√|
-|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./algorithms/695.%20Max%20Area%20of%20Island.md)|Medium|DFS|√|
-|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Python](./algorithms/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md)|Medium|dfs|×|
+|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Python](./algorithms/690.%20Employee%20Importance.md)|Easy|BFS|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./algorithms/695.%20Max%20Area%20of%20Island.md)|Medium|DFS|
+|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Python](./algorithms/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md)|Medium|dfs|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./algorithms/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)|Medium|Tree|
-|721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./algorithms/721.%20Accounts%20Merge.md)|Medium|DFS|x|
-|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Python](./algorithms/733.%20Flood%20Fill.md)|Easy|DFS|√|
+|721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./algorithms/721.%20Accounts%20Merge.md)|Medium|DFS|
+|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Python](./algorithms/733.%20Flood%20Fill.md)|Easy|DFS|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./algorithms/783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)|Medium|Tree|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python](./algorithms/814.%20Binary%20Tree%20Pruning.md)|Medium|Tree|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Python](./algorithms/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)|Medium|Tree|
@@ -215,7 +215,7 @@
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Python](./algorithms/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.md)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./algorithms/1480.%20Running%20Sum%20of%201d%20Array.md)|Easy|
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|[Python](./algorithms/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md)|Medium|
-
+|1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|[Python](./algorithms/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)|Easy|
 
 
 
