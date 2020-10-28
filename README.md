@@ -62,7 +62,7 @@
 
 -------------------------------------------------------------------------------------------------------------------
 # LeetCode题目
-##【151/1000】
+##【152/1000】
 |#|Title|Solution|Difficulty|Topic|
 |---|-----|--------|----------|--|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./algorithms/1.%20Two%20Sum.md)|Easy|Array|
@@ -216,6 +216,7 @@
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./algorithms/1480.%20Running%20Sum%20of%201d%20Array.md)|Easy|
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|[Python](./algorithms/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md)|Medium|
 |1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|[Python](./algorithms/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)|Easy|
+|1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](./algorithms/1629.%20Slowest%20Key.md)|Easy|
 
 
 
