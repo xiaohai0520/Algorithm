@@ -57,7 +57,7 @@ def binarySearch(arr,target):
 为什么循环条件是`left <= right` , 这意味着 `left == right + 1` 时循环终止，
 举个例子，当 left == 2 时，搜索区间变成[3,2], 此区间为空，终止搜索，返回-1。 
 
-如果循环条件是`left == right`, 意味着 `left == right` 时循环终止，
+如果循环条件是`left < right`, 意味着 `left == right` 时循环终止，
 当left == 2时, 搜索区间变成[2,2], 终止搜索，但索引2并没有被检查，这时候返回-1是不对的。
 
 如果条件选择为`left == right`， 我们需要在返回时多检查一下漏掉检查的index就可以。  
