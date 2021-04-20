@@ -60,7 +60,7 @@ def binarySearch(arr,target):
 如果循环条件是`left < right`, 意味着 `left == right` 时循环终止，
 当left == 2时, 搜索区间变成[2,2], 终止搜索，但索引2并没有被检查，这时候返回-1是不对的。
 
-如果条件选择为`left == right`， 我们需要在返回时多检查一下漏掉检查的index就可以。  
+如果条件选择为`left < right`， 我们需要在返回时多检查一下漏掉检查的index就可以。  
 
 我们将源代码的最后一行进行一点改变，由
 `return -1` 变成 `return left if arr[left] == target else -1`
